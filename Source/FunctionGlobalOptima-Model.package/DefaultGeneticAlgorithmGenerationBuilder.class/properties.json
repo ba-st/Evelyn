@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "GeneticAlgorithmGenerationBuilder",
+	"category" : "FunctionGlobalOptima-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"survivorsSelectionStrategy",
+		"parentSelectionStrategy",
+		"crossOverStrategy",
+		"mutationStrategy"
+	],
+	"name" : "DefaultGeneticAlgorithmGenerationBuilder",
+	"type" : "normal"
+}

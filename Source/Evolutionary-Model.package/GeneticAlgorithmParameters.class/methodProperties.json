@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"numberOfGenerations" : "MaximilianoTabacman 3/20/2014 09:54",
+		"targetAverageSurvivalCapacity" : "MaximilianoTabacman 3/20/2014 09:54",
+		"printOn:" : "MaximilianoTabacman 3/20/2014 09:54",
+		"initializePopulationSize:numberOfGenerations:targetAverageSurvivalCapacity:" : "MaximilianoTabacman 3/20/2014 09:54",
+		"populationSize" : "MaximilianoTabacman 3/20/2014 09:54"
+	},
+	"class" : {
+		"populationSize:numberOfGenerations:targetAverageSurvivalCapacity:" : "MaximilianoTabacman 3/20/2014 09:54"
+	}
+}

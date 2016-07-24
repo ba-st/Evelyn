@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"preferenceAsText" : "MaximilianoTabacman 3/20/2014 09:22",
+		"preference" : "MaximilianoTabacman 3/20/2014 09:22",
+		"alcoholContent" : "MaximilianoTabacman 3/20/2014 09:22",
+		"printOn:" : "MaximilianoTabacman 3/20/2014 09:22",
+		"synchronizeWith:" : "MaximilianoTabacman 3/20/2014 09:22",
+		"name" : "MaximilianoTabacman 3/20/2014 09:22",
+		"initializeNamed:withAlcoholContentOf:costing:preference:" : "MaximilianoTabacman 3/20/2014 09:22",
+		"costPerCubicCentimeter" : "MaximilianoTabacman 3/20/2014 09:22"
+	},
+	"class" : {
+		"named:withAlcoholContentOf:costing:preference:" : "MaximilianoTabacman 3/20/2014 09:21"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "FunctionGlobalOptima-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fitnessFunction",
+		"knownSurvivalCapacities",
+		"numberOfGenerationsConsidered"
+	],
+	"name" : "DefaultGeneticAlgorithmContext",
+	"type" : "normal"
+}

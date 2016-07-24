@@ -1,0 +1,4 @@
+accessing
+ingredients
+
+	^ingredients copy

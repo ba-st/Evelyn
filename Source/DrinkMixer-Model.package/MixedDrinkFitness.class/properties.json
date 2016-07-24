@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DrinkMixer-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"drinkMixer",
+		"fitnessBlock"
+	],
+	"name" : "MixedDrinkFitness",
+	"type" : "normal"
+}

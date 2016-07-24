@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evolutionary-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"populationSize",
+		"numberOfGenerations",
+		"targetAverageSurvivalCapacity"
+	],
+	"name" : "GeneticAlgorithmParameters",
+	"type" : "normal"
+}

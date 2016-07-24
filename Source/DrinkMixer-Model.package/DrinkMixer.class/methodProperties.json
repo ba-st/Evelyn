@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"calculateGeneticAlgorithValues" : "MaximilianoTabacman 3/20/2014 08:31",
+		"generationBuilder" : "MaximilianoTabacman 3/20/2014 09:07",
+		"initialProposalsFor:" : "MaximilianoTabacman 3/20/2014 08:30",
+		"proposalFor:" : "MaximilianoTabacman 3/20/2014 08:29",
+		"initialGeneration" : "MaximilianoTabacman 3/20/2014 09:05",
+		"initializeMixing:toCreateAMixWithAlcoholContentOf:costingAtMost:" : "MaximilianoTabacman 3/20/2014 09:03",
+		"stoppingCriteriaBlock" : "MaximilianoTabacman 3/20/2014 08:30",
+		"maximumCost" : "MaximilianoTabacman 3/20/2014 08:29",
+		"desiredAlcoholContent" : "MaximilianoTabacman 3/20/2014 08:28",
+		"proposal" : "MaximilianoTabacman 3/20/2014 08:29",
+		"components" : "MaximilianoTabacman 3/20/2014 08:28",
+		"geneticAlgorithm" : "MaximilianoTabacman 3/20/2014 09:04"
+	},
+	"class" : {
+		"mixing:toCreateAMixWithAlcoholContentOf:costingAtMost:" : "MaximilianoTabacman 3/20/2014 08:31"
+	}
+}

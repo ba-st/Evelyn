@@ -1,0 +1,4 @@
+initialize - release
+initializeObtainingRandomNumbersFrom: aRandomProvider
+
+	self subclassResponsibility

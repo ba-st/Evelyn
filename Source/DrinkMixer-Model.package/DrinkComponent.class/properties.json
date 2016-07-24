@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DrinkMixer-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"alcoholContent",
+		"costPerCubicCentimeter",
+		"preference"
+	],
+	"name" : "DrinkComponent",
+	"type" : "normal"
+}

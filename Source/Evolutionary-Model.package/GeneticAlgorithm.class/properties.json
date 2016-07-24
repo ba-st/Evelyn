@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evolutionary-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"initialGeneration",
+		"generationBuilder",
+		"stoppingCriteria"
+	],
+	"name" : "GeneticAlgorithm",
+	"type" : "normal"
+}

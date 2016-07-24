@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "DrinkMixer-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"investments",
+		"cost",
+		"proportions"
+	],
+	"name" : "MixedDrink",
+	"type" : "normal"
+}

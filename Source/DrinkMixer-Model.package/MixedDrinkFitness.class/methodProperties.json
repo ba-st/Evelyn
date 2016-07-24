@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"preferenceFactorOf:" : "MaximilianoTabacman 3/20/2014 09:33",
+		"value:" : "MaximilianoTabacman 3/20/2014 09:32",
+		"initializeWorkingWith:" : "MaximilianoTabacman 3/20/2014 09:31",
+		"initializeFitnessBlock" : "MaximilianoTabacman 3/20/2014 09:32",
+		"alcoholContentFactorOf:" : "MaximilianoTabacman 3/20/2014 09:32",
+		"costFactorOf:" : "MaximilianoTabacman 3/20/2014 09:32",
+		"complexityFactorOf:" : "MaximilianoTabacman 3/20/2014 09:40"
+	},
+	"class" : {
+		"workingWith:" : "MaximilianoTabacman 3/20/2014 09:31"
+	}
+}

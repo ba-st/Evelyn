@@ -1,0 +1,4 @@
+accessing
+individuals
+
+	self subclassResponsibility

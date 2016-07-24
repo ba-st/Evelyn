@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "GeneticAlgorithmGeneration",
+	"category" : "FunctionGlobalOptima-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number",
+		"context",
+		"individuals"
+	],
+	"name" : "ContextAwareGeneticAlgorithmGeneration",
+	"type" : "normal"
+}

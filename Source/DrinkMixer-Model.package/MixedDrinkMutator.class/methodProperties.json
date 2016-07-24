@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"mutatedValueFor:" : "MaximilianoTabacman 3/20/2014 09:35",
+		"shouldMutate" : "MaximilianoTabacman 3/20/2014 09:36",
+		"initializeMutatingWithChance:obtainingRandomNumbersFrom:" : "MaximilianoTabacman 3/20/2014 09:35",
+		"mutatedVersionOf:" : "MaximilianoTabacman 3/20/2014 09:35"
+	},
+	"class" : {
+		"mutatingWithChance:obtainingRandomNumbersFrom:" : "MaximilianoTabacman 3/20/2014 09:34"
+	}
+}

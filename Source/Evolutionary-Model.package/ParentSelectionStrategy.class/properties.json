@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evolutionary-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"randomProvider"
+	],
+	"name" : "ParentSelectionStrategy",
+	"type" : "normal"
+}

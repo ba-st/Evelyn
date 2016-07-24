@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CrossOverStrategy",
+	"category" : "DrinkMixer-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"randomProvider"
+	],
+	"name" : "MixedDrinkCrossOverStrategy",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+accessing
+preferenceAsText
+
+	^preference asText

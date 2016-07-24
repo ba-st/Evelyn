@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"parentSelectionStrategy" : "MaximilianoTabacman 3/20/2014 09:45",
+		"initializeSelectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:" : "MaximilianoTabacman 3/20/2014 09:44",
+		"obtainValidIndividualEvaluating:retrying:" : "MaximilianoTabacman 3/20/2014 09:45",
+		"survivorsSelectionStrategy" : "MaximilianoTabacman 3/20/2014 09:45",
+		"generationAfter:composedOf:" : "MaximilianoTabacman 3/20/2014 09:45",
+		"mutationStrategy" : "MaximilianoTabacman 3/20/2014 09:44",
+		"isValid:" : "MaximilianoTabacman 3/20/2014 09:45",
+		"crossOverStrategy" : "MaximilianoTabacman 3/20/2014 09:44"
+	},
+	"class" : { }
+}

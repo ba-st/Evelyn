@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"initializeUsing:obtainingRandomNumbersFrom:" : "MaximilianoTabacman 3/20/2014 09:56",
+		"randomProvider" : "MaximilianoTabacman 3/20/2014 09:56",
+		"nextRandom" : "MaximilianoTabacman 3/20/2014 09:56",
+		"build" : "MaximilianoTabacman 3/20/2014 09:56"
+	},
+	"class" : {
+		"using:" : "MaximilianoTabacman 3/20/2014 09:55",
+		"defaultRandomProvider" : "MaximilianoTabacman 3/20/2014 09:55",
+		"using:obtainingRandomNumbersFrom:" : "MaximilianoTabacman 3/20/2014 09:55"
+	}
+}
