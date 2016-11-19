@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-EnvironmentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"actionConsequencesEvaluator",
+		"occupations",
+		"foodSources",
+		"compass",
+		"width",
+		"height",
+		"selection"
+	],
+	"name" : "OrganismEnvironment",
+	"type" : "normal"
+}

@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"population" : "MaximilianoTabacman 10/11/2016 19:49",
+		"testEffectOfAdaptationUsingWinnerTakeAllDecoder" : "MaximilianoTabacman 8/14/2016 12:02",
+		"testEffectOfAdaptationUsingLogLikelihoodDecoder" : "MaximilianoTabacman 8/14/2016 12:02",
+		"updateGainsOf:" : "MaximilianoTabacman 8/14/2016 12:02"
+	},
+	"class" : { }
+}

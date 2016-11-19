@@ -1,0 +1,8 @@
+test support
+expectedConstantDrivingCurrentPotentialsWithSpikeRateAdaptation
+
+	^ OrderedCollection new
+		addAll: self expectedConstantDrivingCurrentPotentialsWithSpikeRateAdaptationPart1;
+		addAll: self expectedConstantDrivingCurrentPotentialsWithSpikeRateAdaptationPart2;
+		addAll: self expectedConstantDrivingCurrentPotentialsWithSpikeRateAdaptationPart3;
+		yourself

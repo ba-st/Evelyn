@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "",
+	"super" : "QLearningEnvironment",
+	"category" : "ReinforcementLearning-Model-LearningModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"states",
+		"maximumReinforcement",
+		"actions",
+		"discountRate",
+		"learningRate",
+		"exploringProbability",
+		"randomNumberProvider",
+		"policy",
+		"qualities",
+		"values"
+	],
+	"name" : "EstimatedQLearningEnvironment",
+	"type" : "normal"
+}

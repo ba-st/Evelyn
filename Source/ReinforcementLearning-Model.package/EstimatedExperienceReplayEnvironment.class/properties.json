@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "ExperienceReplayEnvironment",
+	"category" : "ReinforcementLearning-Model-LearningModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"states",
+		"maximumReinforcement",
+		"actions",
+		"discountRate",
+		"learningRate",
+		"exploringProbability",
+		"randomNumberProvider",
+		"policy",
+		"qualities",
+		"experiences",
+		"values"
+	],
+	"name" : "EstimatedExperienceReplayEnvironment",
+	"type" : "normal"
+}

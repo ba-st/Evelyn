@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "NeuralNetworkEvolution-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"identifiedSnapshotView",
+		"webViewCatalog",
+		"snapshotView",
+		"generationsView",
+		"winnersPerGenerationView",
+		"offspringPerWinnerView",
+		"actionsPerGenerationView",
+		"seedView"
+	],
+	"name" : "EvolvingEaterWebView",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Neuroscience-Model-DecoderModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"maximalFiringRate",
+		"tuningCurveWidth",
+		"spontaneousActivity"
+	],
+	"name" : "CircularNormalDistribution",
+	"type" : "normal"
+}

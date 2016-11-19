@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "AdditionalResistance",
+	"category" : "Neuroscience-Model-IntegrateAndFireModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeConstant",
+		"resistanceIncrementWhenSpiking",
+		"hyperpolarizingCurrent",
+		"adaptation",
+		"resistance"
+	],
+	"name" : "SpikeRateAdaptation",
+	"type" : "normal"
+}

@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"initializeValues" : "MaximilianoTabacman 8/14/2016 01:03",
+		"shouldExplore" : "MaximilianoTabacman 8/14/2016 01:04",
+		"maximumValue" : "MaximilianoTabacman 8/14/2016 01:04",
+		"updatedQualityAfterDoing:in:receiving:endingIn:" : "MaximilianoTabacman 8/14/2016 01:04",
+		"actionWhenIn:" : "MaximilianoTabacman 8/14/2016 01:03",
+		"adjustBehaviorAfterDoing:in:receiving:endingIn:" : "MaximilianoTabacman 8/14/2016 01:04",
+		"estimating:" : "MaximilianoTabacman 8/14/2016 01:04",
+		"initializeQualities" : "MaximilianoTabacman 8/14/2016 01:03",
+		"maximumQualityFor:" : "MaximilianoTabacman 8/14/2016 01:04",
+		"initializePolicy" : "MaximilianoTabacman 8/14/2016 01:03",
+		"initializeEstimating:allowing:discountingAt:learningAt:exploringWithProbability:" : "MaximilianoTabacman 8/14/2016 01:03",
+		"exploringAction" : "MaximilianoTabacman 8/14/2016 01:04",
+		"adjustBehaviorAfterDoing:in:accordingTo:" : "MaximilianoTabacman 8/14/2016 01:04"
+	},
+	"class" : {
+		"estimating:allowing:discountingAt:learningAt:exploringWithProbability:" : "MaximilianoTabacman 8/14/2016 01:03"
+	}
+}

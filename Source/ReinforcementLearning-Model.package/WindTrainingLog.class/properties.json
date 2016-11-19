@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ReinforcementLearning-Model-TrainingModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"CurrentInstance"
+	],
+	"instvars" : [
+		"worldSize",
+		"exitLocation",
+		"agentLocations"
+	],
+	"name" : "WindTrainingLog",
+	"type" : "normal"
+}

@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"numberOfGenes" : "MaximilianoTabacman 10/12/2016 15:12",
+		"postCopy" : "MaximilianoTabacman 10/12/2016 15:12",
+		"hasRemainingGenes" : "MaximilianoTabacman 10/12/2016 15:12",
+		"atLocus:" : "MaximilianoTabacman 10/12/2016 15:12",
+		"atLocus:put:" : "MaximilianoTabacman 10/12/2016 15:12",
+		"nextGene" : "MaximilianoTabacman 10/12/2016 15:12",
+		"initializeWith:" : "MaximilianoTabacman 10/12/2016 15:12"
+	},
+	"class" : {
+		"basedOn:" : "MaximilianoTabacman 10/12/2016 15:11"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"runWithSynonyms" : "MaximilianoTabacman 10/12/2016 15:01",
+		"runLearningAndEvolution" : "MaximilianoTabacman 11/19/2016 12:49",
+		"nolfiParameters" : "MaximilianoTabacman 10/12/2016 15:01",
+		"runDualEyedEvolution" : "MaximilianoTabacman 11/19/2016 12:49",
+		"runEvolutionWithLearningAndNewActions" : "MaximilianoTabacman 11/19/2016 12:49",
+		"runEvolutionWithSynonyms" : "MaximilianoTabacman 11/19/2016 12:49",
+		"parameters:" : "MaximilianoTabacman 10/12/2016 15:01",
+		"runEvolution" : "MaximilianoTabacman 11/19/2016 12:49",
+		"initialize" : "MaximilianoTabacman 10/12/2016 15:01",
+		"runStatic" : "MaximilianoTabacman 10/12/2016 15:01",
+		"runWithLearning" : "MaximilianoTabacman 10/12/2016 15:01",
+		"runWithLearningAndNewActions" : "MaximilianoTabacman 10/12/2016 15:01",
+		"nolfiEvolutionParameters" : "MaximilianoTabacman 10/12/2016 15:01",
+		"runWithDualAngle" : "MaximilianoTabacman 10/12/2016 15:01",
+		"run:" : "MaximilianoTabacman 10/12/2016 15:42"
+	},
+	"class" : { }
+}

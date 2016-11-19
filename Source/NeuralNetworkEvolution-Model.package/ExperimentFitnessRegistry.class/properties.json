@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-ExperimentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SoleInstance"
+	],
+	"instvars" : [
+		"registers",
+		"currentRegister"
+	],
+	"name" : "ExperimentFitnessRegistry",
+	"type" : "normal"
+}

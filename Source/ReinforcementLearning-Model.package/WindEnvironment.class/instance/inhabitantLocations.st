@@ -1,0 +1,4 @@
+accessing
+inhabitantLocations
+
+	^environment inhabitantLocations

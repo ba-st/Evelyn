@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "DhbProbabilityDensity",
+	"category" : "Neuroscience-Model-DecoderModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lambda",
+		"randomProvider",
+		"eRaisedToMinusLambda"
+	],
+	"name" : "PoissonDistribution",
+	"type" : "normal"
+}

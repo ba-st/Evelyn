@@ -1,0 +1,4 @@
+accessing
+numberOfMoves
+
+	^numberOfMoves

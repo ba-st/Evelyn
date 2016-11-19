@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"leftOf:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"positionBehind:inDirectionOf:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"angleAndDistanceOf:to:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"angleOf:to:distanced:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"dualAngleAndDistanceOf:to:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"rightOf:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"initialize" : "MaximilianoTabacman 10/11/2016 14:02",
+		"positionToTheRightOf:inDirectionOf:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"distanceOf:to:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"positionInFrontOf:inDirectionOf:" : "MaximilianoTabacman 10/11/2016 19:17",
+		"positionToTheLeftOf:inDirectionOf:" : "MaximilianoTabacman 10/11/2016 19:08",
+		"dualAngleOf:to:distanced:" : "MaximilianoTabacman 10/11/2016 19:08"
+	},
+	"class" : { }
+}

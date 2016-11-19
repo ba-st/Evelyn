@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ReinforcementLearning-Model-TrainingModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numberOfMoves",
+		"processingTime"
+	],
+	"name" : "TrainingResult",
+	"type" : "normal"
+}

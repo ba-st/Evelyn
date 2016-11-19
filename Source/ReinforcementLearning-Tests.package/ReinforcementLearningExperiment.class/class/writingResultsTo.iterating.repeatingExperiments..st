@@ -1,0 +1,4 @@
+instance creation
+writingResultsTo: aDirectory iterating: aNumberOfIterations repeatingExperiments: aNumberOfRepetitions
+
+	^self new initializeWritingResultsTo: aDirectory iterating: aNumberOfIterations repeatingExperiments: aNumberOfRepetitions

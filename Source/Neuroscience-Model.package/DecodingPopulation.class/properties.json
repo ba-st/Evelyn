@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Neuroscience-Model-DecoderModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"size",
+		"neurons",
+		"distribution",
+		"step"
+	],
+	"name" : "DecodingPopulation",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "MemeticAlgorithms-Model-EvolutionModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"individuals"
+	],
+	"name" : "IndividualPopulation",
+	"type" : "normal"
+}

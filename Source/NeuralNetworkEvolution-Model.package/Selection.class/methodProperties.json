@@ -1,0 +1,23 @@
+{
+	"instance" : {
+		"registerCollisionOfOrganism:withEmptiness:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"top:" : "MaximilianoTabacman 10/12/2016 15:30",
+		"registerCollisionOfOrganism:with:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"registerCollisionOfOrganism:withOrganism:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"process:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"processAndRegister:of:in:" : "MaximilianoTabacman 10/13/2016 14:36",
+		"replenishFoodIn:" : "MaximilianoTabacman 10/12/2016 15:30",
+		"environmentInhabitedBy:" : "MaximilianoTabacman 10/12/2016 15:24",
+		"best:after:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"processAndRegister:" : "MaximilianoTabacman 10/12/2016 15:30",
+		"best:performancesAfter:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"process:of:in:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"best:" : "MaximilianoTabacman 11/19/2016 12:49",
+		"registerCollisionOfOrganism:withFood:" : "MaximilianoTabacman 10/12/2016 15:29",
+		"registerFoodEatenBy:" : "MaximilianoTabacman 10/12/2016 15:30",
+		"initializeWith:refillingFoodEach:" : "MaximilianoTabacman 10/12/2016 15:28"
+	},
+	"class" : {
+		"between:refillingFoodEach:" : "MaximilianoTabacman 10/12/2016 15:23"
+	}
+}

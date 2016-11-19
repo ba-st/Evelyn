@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Exception",
+	"category" : "MemeticAlgorithms-Model-EvolutionModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "EvolutionException",
+	"type" : "normal"
+}

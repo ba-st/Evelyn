@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"placePrizeAt:rewarding:" : "MaximilianoTabacman 8/14/2016 00:38",
+		"printOn:" : "MaximilianoTabacman 8/14/2016 00:38",
+		"reactTo:doneBy:" : "MaximilianoTabacman 8/14/2016 00:38",
+		"maximumReinforcement" : "MaximilianoTabacman 8/14/2016 00:38",
+		"stateFor:" : "MaximilianoTabacman 8/14/2016 00:38",
+		"tick" : "MaximilianoTabacman 8/14/2016 00:38",
+		"place:at:" : "MaximilianoTabacman 8/14/2016 00:38",
+		"inhabitantLocations" : "MaximilianoTabacman 8/14/2016 00:38",
+		"allPossibleStates" : "MaximilianoTabacman 8/14/2016 00:38"
+	},
+	"class" : { }
+}

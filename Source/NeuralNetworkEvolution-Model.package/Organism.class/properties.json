@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-OrganismModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"signalConverter",
+		"network",
+		"plannedAction"
+	],
+	"name" : "Organism",
+	"type" : "normal"
+}

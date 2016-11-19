@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAPresenter",
+	"category" : "ReinforcementLearning-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"snapshotIndexView",
+		"identifiedCurrentSnapshotView",
+		"snapshots"
+	],
+	"name" : "WindTrainingSnapshotWebView",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "NeuralNetwork",
+	"category" : "NeuralNetworkEvolution-Model-NeuralNetworkModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SimpleNeuralNetwork",
+	"type" : "normal"
+}

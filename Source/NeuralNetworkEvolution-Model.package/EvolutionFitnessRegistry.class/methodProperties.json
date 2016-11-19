@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"averageOnGeneration:" : "MaximilianoTabacman 10/12/2016 14:56",
+		"registerGenerationPeakingAt:averaging:withVariance:" : "MaximilianoTabacman 10/12/2016 14:57",
+		"peakOnGeneration:" : "MaximilianoTabacman 10/12/2016 14:56",
+		"initialize" : "MaximilianoTabacman 10/12/2016 14:56",
+		"printOn:" : "MaximilianoTabacman 10/12/2016 14:57",
+		"varianceOnGeneration:" : "MaximilianoTabacman 10/12/2016 14:56",
+		"generations" : "MaximilianoTabacman 10/12/2016 14:56"
+	},
+	"class" : { }
+}

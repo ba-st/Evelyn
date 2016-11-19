@@ -1,0 +1,4 @@
+probability distribution protocol
+standardDeviation
+	
+	^combinationDistribution standardDeviation

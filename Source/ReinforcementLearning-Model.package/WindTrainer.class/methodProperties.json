@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"worldSize" : "MaximilianoTabacman 8/14/2016 01:37",
+		"randomNumberProvider" : "MaximilianoTabacman 8/14/2016 01:37",
+		"initializeBuildingWorldsOfSize:" : "MaximilianoTabacman 8/14/2016 01:37",
+		"trainingType" : "MaximilianoTabacman 8/14/2016 01:38"
+	},
+	"class" : {
+		"buildingWorldsOfSize:" : "MaximilianoTabacman 8/14/2016 01:37"
+	}
+}

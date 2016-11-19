@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ReinforcementLearning-Model-EnvironmentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"yAxis",
+		"knownLocations"
+	],
+	"name" : "Grid",
+	"type" : "normal"
+}

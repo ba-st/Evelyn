@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"tuningCurveFor:" : "MaximilianoTabacman 8/14/2016 11:30",
+		"initializeStep" : "MaximilianoTabacman 8/14/2016 11:29",
+		"neurons" : "MaximilianoTabacman 8/14/2016 11:29",
+		"initializeNeurons" : "MaximilianoTabacman 10/11/2016 19:50",
+		"initializeOfSize:meanSpikeCountsDescribedBy:" : "MaximilianoTabacman 8/14/2016 11:29"
+	},
+	"class" : {
+		"ofSize:meanSpikeCountsDescribedBy:" : "MaximilianoTabacman 8/14/2016 11:29"
+	}
+}

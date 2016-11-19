@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-OrganismModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SoleInstance"
+	],
+	"instvars" : [
+		"actionCodes"
+	],
+	"name" : "SignalConverter",
+	"type" : "normal"
+}

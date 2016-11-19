@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"angleOf:to:distanced:" : "MaximilianoTabacman 10/11/2016 14:04",
+		"rightOf:" : "MaximilianoTabacman 10/11/2016 14:04",
+		"initialize" : "MaximilianoTabacman 10/11/2016 14:02",
+		"distanceOf:to:" : "MaximilianoTabacman 10/11/2016 14:04",
+		"angleAndDistanceOf:to:" : "MaximilianoTabacman 10/11/2016 14:04",
+		"leftOf:" : "MaximilianoTabacman 10/11/2016 14:04",
+		"positionInFrontOf:inDirectionOf:" : "MaximilianoTabacman 10/11/2016 19:17"
+	},
+	"class" : { }
+}

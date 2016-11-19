@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"resetRandomProvider" : "MaximilianoTabacman 10/17/2016 09:03",
+		"evolutionWinnerSnapshots" : "MaximilianoTabacman 11/19/2016 12:49",
+		"updateRoot:" : "MaximilianoTabacman 10/17/2016 08:39",
+		"title" : "MaximilianoTabacman 10/13/2016 15:27",
+		"renderContentOn:" : "MaximilianoTabacman 10/17/2016 08:55",
+		"initialize" : "MaximilianoTabacman 10/17/2016 08:59",
+		"runEvolutionButton" : "MaximilianoTabacman 10/17/2016 08:58",
+		"initializeParameterViews" : "MaximilianoTabacman 10/17/2016 09:03",
+		"initializeSnapshotView" : "MaximilianoTabacman 10/17/2016 08:49",
+		"experimentParameters" : "MaximilianoTabacman 10/17/2016 08:54",
+		"renderEvolutionFormOn:" : "MaximilianoTabacman 10/17/2016 09:04"
+	},
+	"class" : {
+		"registerApplication" : "MaximilianoTabacman 10/13/2016 15:21",
+		"applicationName" : "MaximilianoTabacman 10/13/2016 15:19",
+		"unregisterFromApplications" : "MaximilianoTabacman 10/13/2016 15:19",
+		"startServer" : "MaximilianoTabacman 10/13/2016 14:11",
+		"stopServer" : "MaximilianoTabacman 10/13/2016 14:11"
+	}
+}

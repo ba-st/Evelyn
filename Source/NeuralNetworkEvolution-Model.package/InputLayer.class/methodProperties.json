@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"computeOutputFor:" : "MaximilianoTabacman 10/12/2016 14:27",
+		"updatePredictorWeights" : "MaximilianoTabacman 10/12/2016 14:27",
+		"printOn:" : "MaximilianoTabacman 10/12/2016 14:27"
+	},
+	"class" : {
+		"neuronConnectedTo:configuredBy:" : "MaximilianoTabacman 10/12/2016 14:27"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"renderImageFor:on:" : "MaximilianoTabacman 10/17/2016 08:29",
+		"imageToDisplayFor:" : "MaximilianoTabacman 10/17/2016 08:29",
+		"imageToDisplayWhenOccupiedBy:" : "MaximilianoTabacman 10/17/2016 08:29",
+		"initializeSnapshotIndexView" : "MaximilianoTabacman 10/17/2016 08:48",
+		"initializeAdvancingThrough:" : "MaximilianoTabacman 10/17/2016 08:38",
+		"initializeSnapshotView" : "MaximilianoTabacman 10/17/2016 08:48",
+		"renderContentOn:" : "MaximilianoTabacman 10/17/2016 09:00",
+		"renderRow:of:on:" : "MaximilianoTabacman 10/17/2016 08:29",
+		"renderTableFor:on:" : "MaximilianoTabacman 10/17/2016 08:29"
+	},
+	"class" : {
+		"advancingThrough:" : "MaximilianoTabacman 10/17/2016 08:46"
+	}
+}

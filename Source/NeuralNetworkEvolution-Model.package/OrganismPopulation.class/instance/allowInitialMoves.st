@@ -1,0 +1,4 @@
+evolving
+allowInitialMoves
+
+	organisms first signalConverterClass instance allowInitialMoves

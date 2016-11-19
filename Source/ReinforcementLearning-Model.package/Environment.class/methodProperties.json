@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"reactTo:doneBy:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"initializeRepresentedWith:" : "MaximilianoTabacman 8/14/2016 00:39",
+		"place:at:" : "MaximilianoTabacman 8/14/2016 00:39",
+		"reactToMoveUpDoneBy:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"allPossibleStates" : "MaximilianoTabacman 8/14/2016 00:39",
+		"reactToMoveDownDoneBy:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"reinforcementFor:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"reactToMoveRightDoneBy:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"placePrizeAt:rewarding:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"printOn:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"tick" : "MaximilianoTabacman 8/14/2016 00:41",
+		"maximumReinforcement" : "MaximilianoTabacman 8/14/2016 00:39",
+		"updatePrizesAt:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"containsPrizeAt:" : "MaximilianoTabacman 8/14/2016 00:42",
+		"inhabitantLocations" : "MaximilianoTabacman 8/14/2016 00:39",
+		"reactToMoveLeftDoneBy:" : "MaximilianoTabacman 8/14/2016 00:41",
+		"stateFor:" : "MaximilianoTabacman 8/14/2016 00:39"
+	},
+	"class" : {
+		"representedWith:" : "MaximilianoTabacman 8/14/2016 00:38"
+	}
+}

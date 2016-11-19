@@ -1,0 +1,4 @@
+collision registering
+registerCollisionOfOrganism: incomingOrganism withOrganism: collidedOrganism
+
+	

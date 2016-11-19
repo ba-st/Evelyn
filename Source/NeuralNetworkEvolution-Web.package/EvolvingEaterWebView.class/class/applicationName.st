@@ -1,0 +1,4 @@
+processing - private
+applicationName
+
+	^ 'EvolvingEater'

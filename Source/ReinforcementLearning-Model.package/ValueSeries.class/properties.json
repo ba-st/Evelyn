@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ReinforcementLearning-Model-LearningModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expectedValue",
+		"observations",
+		"totalObservations"
+	],
+	"name" : "ValueSeries",
+	"type" : "normal"
+}

@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"initializeWith:accordingTo:" : "MaximilianoTabacman 10/12/2016 16:07",
+		"showWinners" : "MaximilianoTabacman 10/12/2016 15:33",
+		"allowAditionalMoves" : "MaximilianoTabacman 10/12/2016 15:33",
+		"winners" : "MaximilianoTabacman 10/12/2016 15:33",
+		"offspringOf:" : "MaximilianoTabacman 11/19/2016 12:49",
+		"showWinnersWithEvolvingMoves" : "MaximilianoTabacman 10/12/2016 15:33",
+		"generationWinners" : "MaximilianoTabacman 10/12/2016 15:34",
+		"showWinnersWithBasicMoves" : "MaximilianoTabacman 10/12/2016 15:33",
+		"mutatedOffspringOf:" : "MaximilianoTabacman 10/12/2016 15:34"
+	},
+	"class" : {
+		"of:accordingTo:" : "MaximilianoTabacman 10/12/2016 15:33"
+	}
+}

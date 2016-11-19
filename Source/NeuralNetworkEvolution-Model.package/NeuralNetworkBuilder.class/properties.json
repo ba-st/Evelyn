@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-NeuralNetworkModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"layers",
+		"connections",
+		"nextLayer",
+		"neuronsConnectedToNextLayer",
+		"remainingGenes",
+		"genotype"
+	],
+	"name" : "NeuralNetworkBuilder",
+	"type" : "normal"
+}

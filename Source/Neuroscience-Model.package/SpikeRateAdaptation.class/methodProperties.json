@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"resistance" : "MaximilianoTabacman 8/14/2016 12:08",
+		"notifySpike" : "MaximilianoTabacman 8/14/2016 12:08",
+		"initializeTimeConstant:resistance:hyperpolarizingCurrent:" : "MaximilianoTabacman 8/14/2016 12:08",
+		"resist:" : "MaximilianoTabacman 8/14/2016 12:08"
+	},
+	"class" : {
+		"timeConstant:resistance:hyperpolarizingCurrent:" : "MaximilianoTabacman 8/14/2016 12:07"
+	}
+}

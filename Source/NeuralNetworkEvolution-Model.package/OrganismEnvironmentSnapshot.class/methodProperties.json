@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"printRow:on:" : "MaximilianoTabacman 10/13/2016 14:46",
+		"printOn:" : "MaximilianoTabacman 10/13/2016 14:46",
+		"initializeContainingAll:sized:by:" : "MaximilianoTabacman 10/13/2016 14:45",
+		"printPosition:on:" : "MaximilianoTabacman 10/13/2016 14:56",
+		"withOccupationsAt:do:" : "MaximilianoTabacman 10/13/2016 14:58",
+		"withRowsDo:" : "MaximilianoTabacman 10/13/2016 14:53",
+		"occupationAt:" : "MaximilianoTabacman 10/13/2016 14:56"
+	},
+	"class" : {
+		"containingAll:sized:by:" : "MaximilianoTabacman 10/13/2016 14:45"
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "RMaxEnvironment",
+	"category" : "ReinforcementLearning-Model-LearningModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"states",
+		"maximumReinforcement",
+		"actions",
+		"discountRate",
+		"experiencies",
+		"policy",
+		"values"
+	],
+	"name" : "SimpleRMaxEnvironment",
+	"type" : "normal"
+}

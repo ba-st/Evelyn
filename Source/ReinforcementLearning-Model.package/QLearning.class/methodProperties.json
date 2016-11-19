@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"initializeAllowedTo:discountingAt:learningAt:exploringWithProbability:" : "MaximilianoTabacman 8/14/2016 01:05",
+		"adjustBehaviorAfterDoing:in:receiving:endingIn:" : "MaximilianoTabacman 8/14/2016 01:05",
+		"adjustTo:" : "MaximilianoTabacman 8/14/2016 01:06",
+		"actionWhenIn:of:" : "MaximilianoTabacman 8/14/2016 01:05"
+	},
+	"class" : {
+		"allowedTo:discountingAt:learningAt:exploringWithProbability:" : "MaximilianoTabacman 8/14/2016 01:00"
+	}
+}

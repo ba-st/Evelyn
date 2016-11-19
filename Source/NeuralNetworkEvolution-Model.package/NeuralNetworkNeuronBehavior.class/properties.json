@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-NeuralNetworkModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"inputs",
+		"outputs",
+		"netOutput",
+		"output"
+	],
+	"name" : "NeuralNetworkNeuronBehavior",
+	"type" : "normal"
+}

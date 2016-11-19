@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CrossoverProcess",
+	"category" : "MemeticAlgorithms-Model-EvolutionModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cuttingPoint"
+	],
+	"name" : "SimpleCrossoverProcess",
+	"type" : "normal"
+}

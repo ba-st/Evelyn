@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Neuroscience-Model-IntegrateAndFireModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"firstDistribution",
+		"secondDistribution",
+		"combinationMean",
+		"combinationVariance",
+		"combinationDistribution"
+	],
+	"name" : "CueCombination",
+	"type" : "normal"
+}

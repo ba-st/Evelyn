@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testNeuronPopulationResponse" : "MaximilianoTabacman 8/14/2016 12:03",
+		"assertAllOf:areExpectedResponsesWithErrorLessThan:" : "MaximilianoTabacman 8/14/2016 12:03",
+		"testNeuronPopulationMeanResponse" : "MaximilianoTabacman 8/14/2016 12:03",
+		"setUp" : "MaximilianoTabacman 10/11/2016 19:49",
+		"testSingleNeuronMeanResponse" : "MaximilianoTabacman 8/14/2016 12:03",
+		"expectedPopulationMeanResponses" : "MaximilianoTabacman 8/14/2016 12:03",
+		"assertAllOf:areExpectedMeanResponsesWithErrorLessThan:" : "MaximilianoTabacman 8/14/2016 12:03"
+	},
+	"class" : { }
+}

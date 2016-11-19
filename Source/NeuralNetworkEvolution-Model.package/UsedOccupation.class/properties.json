@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Occupation",
+	"category" : "NeuralNetworkEvolution-Model-EnvironmentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"occupant",
+		"occupantsFacing"
+	],
+	"name" : "UsedOccupation",
+	"type" : "normal"
+}

@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "Training",
+	"category" : "ReinforcementLearning-Model-TrainingModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numberOfMoves",
+		"processingTime",
+		"trainer",
+		"mineLocations",
+		"agent",
+		"startingLocation",
+		"objectives"
+	],
+	"name" : "MultiObjectiveMinesTraining",
+	"type" : "normal"
+}

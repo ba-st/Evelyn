@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Training",
+	"category" : "ReinforcementLearning-Model-TrainingModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"numberOfMoves",
+		"processingTime",
+		"trainer",
+		"agent",
+		"startingLocation",
+		"exitLocation"
+	],
+	"name" : "WindTraining",
+	"type" : "normal"
+}

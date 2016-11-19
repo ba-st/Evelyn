@@ -1,0 +1,4 @@
+accessing
+winnersPerGeneration
+
+	^ winnersPerGeneration

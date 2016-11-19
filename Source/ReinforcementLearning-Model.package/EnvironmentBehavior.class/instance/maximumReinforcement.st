@@ -1,0 +1,4 @@
+accessing
+maximumReinforcement
+
+	self subclassResponsibility

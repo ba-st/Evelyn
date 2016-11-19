@@ -1,0 +1,4 @@
+accessing
+remainingFoodSources
+
+	^ foodSources size

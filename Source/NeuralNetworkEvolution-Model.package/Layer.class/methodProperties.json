@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"computeOutput" : "MaximilianoTabacman 10/12/2016 14:26",
+		"printOn:" : "MaximilianoTabacman 10/12/2016 14:26",
+		"neurons" : "MaximilianoTabacman 10/12/2016 14:26",
+		"output" : "MaximilianoTabacman 10/12/2016 14:26",
+		"initializeWith:" : "MaximilianoTabacman 10/12/2016 14:26"
+	},
+	"class" : {
+		"neuronConnectedTo:configuredBy:" : "MaximilianoTabacman 10/12/2016 14:25",
+		"neuronCollectionOf:connectedTo:configuredBy:" : "MaximilianoTabacman 10/12/2016 14:25",
+		"using:connectedTo:configuredBy:" : "MaximilianoTabacman 10/12/2016 14:25",
+		"with:" : "MaximilianoTabacman 10/12/2016 14:25"
+	}
+}

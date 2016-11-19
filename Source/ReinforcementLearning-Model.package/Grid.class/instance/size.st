@@ -1,0 +1,4 @@
+accessing
+size
+
+	^yAxis size

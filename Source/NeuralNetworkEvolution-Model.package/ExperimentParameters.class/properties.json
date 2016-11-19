@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-ExperimentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"evolutionParameters",
+		"evolutions",
+		"initialPopulationSize"
+	],
+	"name" : "ExperimentParameters",
+	"type" : "normal"
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"reinforcement" : "MaximilianoTabacman 8/14/2016 00:50",
+		"action" : "MaximilianoTabacman 8/14/2016 00:49",
+		"initializeFrom:to:whenDoing:reinforcedBy:" : "MaximilianoTabacman 8/14/2016 00:49",
+		"previousState" : "MaximilianoTabacman 8/14/2016 00:49",
+		"nextState" : "MaximilianoTabacman 8/14/2016 00:49"
+	},
+	"class" : {
+		"from:to:whenDoing:reinforcedBy:" : "MaximilianoTabacman 8/14/2016 00:49"
+	}
+}

@@ -1,0 +1,4 @@
+accessing
+randomNumberProvider
+
+	^randomNumberProvider

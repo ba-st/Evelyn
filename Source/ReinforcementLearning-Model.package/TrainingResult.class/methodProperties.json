@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"numberOfMoves" : "MaximilianoTabacman 8/14/2016 01:27",
+		"initializeRequiring:taking:" : "MaximilianoTabacman 8/14/2016 01:27",
+		"processingTime" : "MaximilianoTabacman 8/14/2016 01:27",
+		"printOn:" : "MaximilianoTabacman 8/14/2016 01:27"
+	},
+	"class" : {
+		"requiring:taking:" : "MaximilianoTabacman 8/14/2016 01:26"
+	}
+}

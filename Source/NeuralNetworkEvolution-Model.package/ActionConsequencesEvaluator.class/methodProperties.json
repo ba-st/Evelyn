@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"adjustTurnAroundBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:52",
+		"adjustTo:by:" : "MaximilianoTabacman 10/11/2016 19:36",
+		"adjustTurnLeftBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:52",
+		"adjustMoveForwardBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:51",
+		"make:face:" : "MaximilianoTabacman 10/11/2016 18:52",
+		"adjustStepLeftBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:51",
+		"adjustNothingBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:51",
+		"compass" : "MaximilianoTabacman 10/11/2016 14:53",
+		"adjustMoveBackwardsBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:51",
+		"initializeFor:" : "MaximilianoTabacman 10/11/2016 14:52",
+		"adjustStepRightBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:51",
+		"adjustTurnRightBecauseOf:" : "MaximilianoTabacman 10/11/2016 18:52"
+	},
+	"class" : {
+		"for:" : "MaximilianoTabacman 10/11/2016 14:52"
+	}
+}

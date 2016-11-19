@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"preferredDirection" : "MaximilianoTabacman 8/14/2016 11:25",
+		"initializeRespondingWith:" : "MaximilianoTabacman 8/14/2016 11:25",
+		"probabilityOfRespondingTo:with:" : "MaximilianoTabacman 8/14/2016 11:25",
+		"meanResponseTo:" : "MaximilianoTabacman 8/14/2016 11:25",
+		"gain" : "MaximilianoTabacman 8/14/2016 11:25",
+		"responseTo:" : "MaximilianoTabacman 8/14/2016 11:25",
+		"updateGainTo:" : "MaximilianoTabacman 8/14/2016 11:25"
+	},
+	"class" : {
+		"respondingWith:" : "MaximilianoTabacman 8/14/2016 11:25"
+	}
+}

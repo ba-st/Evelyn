@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "ReinforcementLearning-Model-LearningModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"environment",
+		"discountRate",
+		"state",
+		"action",
+		"transitions",
+		"attempts",
+		"value",
+		"reinforcement"
+	],
+	"name" : "RMaxExperience",
+	"type" : "normal"
+}

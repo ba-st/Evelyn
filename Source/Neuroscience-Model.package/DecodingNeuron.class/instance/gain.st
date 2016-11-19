@@ -1,0 +1,4 @@
+accessing
+gain
+	
+	^tuningCurve gain

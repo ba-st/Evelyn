@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Facing",
+	"category" : "NeuralNetworkEvolution-Model-GeometryModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Down",
+	"type" : "normal"
+}

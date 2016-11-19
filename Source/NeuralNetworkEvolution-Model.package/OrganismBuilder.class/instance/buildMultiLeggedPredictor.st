@@ -1,0 +1,4 @@
+organism building
+buildMultiLeggedPredictor
+
+	^ self buildMultiLeggedPredictorFrom: self createMultiLeggedPredictorGenotype

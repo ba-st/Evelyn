@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "Organism",
+	"category" : "NeuralNetworkEvolution-Model-OrganismModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MultiLeggedPredictor",
+	"type" : "normal"
+}

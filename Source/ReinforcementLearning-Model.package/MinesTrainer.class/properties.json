@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Trainer",
+	"category" : "ReinforcementLearning-Model-TrainingModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"worldSize",
+		"numberOfMines",
+		"randomNumberProvider"
+	],
+	"name" : "MinesTrainer",
+	"type" : "normal"
+}

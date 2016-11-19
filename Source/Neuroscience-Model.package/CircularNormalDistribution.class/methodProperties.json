@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"maximalFiringRate" : "MaximilianoTabacman 8/14/2016 11:21",
+		"newMaximalFiringRate:" : "MaximilianoTabacman 8/14/2016 11:21",
+		"evaluateOn:" : "MaximilianoTabacman 8/14/2016 11:21",
+		"initializeMaximalFiringRate:tuningCurveWidth:spontaneousActivity:" : "MaximilianoTabacman 8/14/2016 11:20"
+	},
+	"class" : {
+		"maximalFiringRate:tuningCurveWidth:spontaneousActivity:" : "MaximilianoTabacman 8/14/2016 11:20"
+	}
+}

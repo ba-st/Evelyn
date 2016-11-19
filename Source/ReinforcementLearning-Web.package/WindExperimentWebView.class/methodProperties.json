@@ -1,0 +1,24 @@
+{
+	"instance" : {
+		"resetRandomProvider" : "MaximilianoTabacman 10/29/2016 11:47",
+		"updateRoot:" : "MaximilianoTabacman 10/29/2016 10:45",
+		"title" : "MaximilianoTabacman 10/29/2016 10:45",
+		"renderContentOn:" : "MaximilianoTabacman 10/29/2016 11:55",
+		"renderWindEffectDescriptionOn:" : "MaximilianoTabacman 10/29/2016 12:11",
+		"initialize" : "MaximilianoTabacman 10/29/2016 11:28",
+		"trainingSnapshots" : "MaximilianoTabacman 10/29/2016 11:48",
+		"render:chanceOfMoving:on:" : "MaximilianoTabacman 10/29/2016 12:11",
+		"initializeParameterViews" : "MaximilianoTabacman 10/29/2016 11:47",
+		"initializeSnapshotView" : "MaximilianoTabacman 10/29/2016 11:26",
+		"availableActions" : "MaximilianoTabacman 10/29/2016 10:48",
+		"renderEvolutionFormOn:" : "MaximilianoTabacman 10/29/2016 11:48",
+		"runTrainingButton" : "MaximilianoTabacman 10/29/2016 11:30"
+	},
+	"class" : {
+		"registerApplication" : "MaximilianoTabacman 10/29/2016 10:44",
+		"applicationName" : "MaximilianoTabacman 10/29/2016 10:52",
+		"unregisterFromApplications" : "MaximilianoTabacman 10/29/2016 10:44",
+		"startServer" : "MaximilianoTabacman 10/29/2016 10:44",
+		"stopServer" : "MaximilianoTabacman 10/29/2016 10:44"
+	}
+}

@@ -1,0 +1,4 @@
+accessing
+inhabitantLocations
+
+	self subclassResponsibility

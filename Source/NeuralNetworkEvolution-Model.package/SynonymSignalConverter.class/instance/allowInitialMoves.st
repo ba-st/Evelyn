@@ -1,0 +1,4 @@
+evolving
+allowInitialMoves
+
+	self allowAditionalMoves

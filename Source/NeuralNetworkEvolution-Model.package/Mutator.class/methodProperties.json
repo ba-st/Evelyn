@@ -1,0 +1,16 @@
+{
+	"instance" : {
+		"make:changesInOffspringOf:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"mutate:in:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"createMultiLeggedPredictorFrom:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"createPredictorFrom:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"createNonLearningOrganismFrom:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"initialize" : "MaximilianoTabacman 10/12/2016 15:31",
+		"createMultiLeggedOrganismFrom:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"select:placesIn:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"selectUpToIndex:discarding:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"make:changesIn:" : "MaximilianoTabacman 10/12/2016 15:32",
+		"createDualEyedFrom:" : "MaximilianoTabacman 10/12/2016 15:32"
+	},
+	"class" : { }
+}

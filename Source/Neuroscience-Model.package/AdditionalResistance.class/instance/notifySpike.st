@@ -1,0 +1,4 @@
+computing
+notifySpike
+	
+	self subclassResponsibility

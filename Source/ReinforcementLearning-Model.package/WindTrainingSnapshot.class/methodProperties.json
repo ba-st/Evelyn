@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"occupationAt:" : "MaximilianoTabacman 10/29/2016 11:20",
+		"withOccupationsAt:do:" : "MaximilianoTabacman 10/29/2016 11:18",
+		"initializeForWorldOfSize:withAgentAt:andExitAt:" : "MaximilianoTabacman 10/29/2016 11:16",
+		"withRowsDo:" : "MaximilianoTabacman 10/29/2016 11:14"
+	},
+	"class" : {
+		"forWorldOfSize:withAgentAt:andExitAt:" : "MaximilianoTabacman 10/29/2016 11:16"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "QLearningEnvironment",
+	"category" : "ReinforcementLearning-Model-LearningModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"actions",
+		"discountRate",
+		"learningRate",
+		"explorationProbability"
+	],
+	"name" : "UnknownQLearningEnvironment",
+	"type" : "normal"
+}

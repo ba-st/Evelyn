@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-SelectionModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"population",
+		"worlds",
+		"fitnessRecord",
+		"actionsTillRefill"
+	],
+	"name" : "Selection",
+	"type" : "normal"
+}

@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"initializeGuidedBy:" : "MaximilianoTabacman 8/14/2016 00:33",
+		"adjustBehaviorAfterDoing:in:receiving:endingIn:" : "MaximilianoTabacman 8/14/2016 00:34",
+		"printOn:" : "MaximilianoTabacman 8/14/2016 00:34",
+		"actIn:" : "MaximilianoTabacman 8/14/2016 00:34",
+		"actionWhenIn:of:" : "MaximilianoTabacman 8/14/2016 00:34"
+	},
+	"class" : {
+		"guidedBy:" : "MaximilianoTabacman 8/14/2016 00:33"
+	}
+}

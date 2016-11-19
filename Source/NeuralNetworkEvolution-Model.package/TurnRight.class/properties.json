@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "OrganismAction",
+	"category" : "NeuralNetworkEvolution-Model-OrganismModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TurnRight",
+	"type" : "normal"
+}

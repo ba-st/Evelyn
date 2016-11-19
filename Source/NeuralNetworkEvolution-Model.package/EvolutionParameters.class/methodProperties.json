@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"actionsPerGeneration:" : "MaximilianoTabacman 10/12/2016 14:37",
+		"offspringPerWinner:" : "MaximilianoTabacman 10/12/2016 14:36",
+		"actionsPerGeneration" : "MaximilianoTabacman 10/12/2016 14:37",
+		"generations:" : "MaximilianoTabacman 10/12/2016 14:37",
+		"generations" : "MaximilianoTabacman 10/12/2016 14:37",
+		"winnersPerGeneration" : "MaximilianoTabacman 10/12/2016 14:36",
+		"mutations:" : "MaximilianoTabacman 10/12/2016 14:37",
+		"actionsTillRefill" : "MaximilianoTabacman 10/12/2016 14:37",
+		"mutations" : "MaximilianoTabacman 10/12/2016 14:37",
+		"actionsTillRefill:" : "MaximilianoTabacman 10/12/2016 14:37",
+		"generationsTillNewMoves:" : "MaximilianoTabacman 10/12/2016 14:37",
+		"generationsTillNewMoves" : "MaximilianoTabacman 10/12/2016 15:48",
+		"offspringPerWinner" : "MaximilianoTabacman 10/12/2016 14:37",
+		"winnersPerGeneration:" : "MaximilianoTabacman 10/12/2016 14:36"
+	},
+	"class" : { }
+}

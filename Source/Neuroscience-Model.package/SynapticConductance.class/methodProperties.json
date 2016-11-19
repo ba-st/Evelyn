@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"initializeTimeConstant:resistance:inhibitoryCurrent:weightWhenSpiking:relatedTo:" : "MaximilianoTabacman 8/14/2016 12:10",
+		"notifySpike" : "MaximilianoTabacman 8/14/2016 12:12",
+		"resistance" : "MaximilianoTabacman 8/14/2016 12:12",
+		"resist:" : "MaximilianoTabacman 8/14/2016 12:12"
+	},
+	"class" : {
+		"timeConstant:resistance:inhibitoryCurrent:weightWhenSpiking:relatedTo:" : "MaximilianoTabacman 8/14/2016 12:10"
+	}
+}

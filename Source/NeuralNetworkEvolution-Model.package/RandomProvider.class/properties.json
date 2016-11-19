@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-AssignmentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"SoleInstance"
+	],
+	"instvars" : [
+		"randomGeneProvider",
+		"randomNumberProvider"
+	],
+	"name" : "RandomProvider",
+	"type" : "normal"
+}

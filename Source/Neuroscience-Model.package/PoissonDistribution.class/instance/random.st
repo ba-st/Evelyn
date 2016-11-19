@@ -1,0 +1,4 @@
+information
+random
+	
+	^self providedRandom

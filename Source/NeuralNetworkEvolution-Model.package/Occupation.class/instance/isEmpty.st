@@ -1,0 +1,4 @@
+querying
+isEmpty
+
+	self subclassResponsibility

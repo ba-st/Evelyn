@@ -1,0 +1,9 @@
+{
+	"instance" : {
+		"computeSensitivitiesFor:" : "MaximilianoTabacman 10/12/2016 14:32",
+		"learnFrom:considering:" : "MaximilianoTabacman 10/12/2016 14:32",
+		"updatePredictorWeights" : "MaximilianoTabacman 10/12/2016 14:32",
+		"errorOf:comparedTo:" : "MaximilianoTabacman 10/12/2016 14:32"
+	},
+	"class" : { }
+}

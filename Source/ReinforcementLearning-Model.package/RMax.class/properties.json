@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DecisionMaker",
+	"category" : "ReinforcementLearning-Model-LearningModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"environment"
+	],
+	"name" : "RMax",
+	"type" : "normal"
+}

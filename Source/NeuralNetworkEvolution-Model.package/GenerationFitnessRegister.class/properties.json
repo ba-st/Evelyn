@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-ExperimentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"peak",
+		"average",
+		"variance"
+	],
+	"name" : "GenerationFitnessRegister",
+	"type" : "normal"
+}

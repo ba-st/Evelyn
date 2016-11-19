@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"testLeftDirection" : "MaximilianoTabacman 10/11/2016 14:42",
+		"testRightDirection" : "MaximilianoTabacman 10/11/2016 14:42",
+		"organismIn:facing:" : "MaximilianoTabacman 10/11/2016 14:40",
+		"setUp" : "MaximilianoTabacman 10/11/2016 14:40",
+		"foodIn:" : "MaximilianoTabacman 10/11/2016 14:40",
+		"testDownDirection" : "MaximilianoTabacman 10/11/2016 14:42",
+		"testUpDirection" : "MaximilianoTabacman 10/11/2016 14:42",
+		"angleOf:to:" : "MaximilianoTabacman 10/11/2016 14:40"
+	},
+	"class" : { }
+}

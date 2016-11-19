@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"locationOf:" : "MaximilianoTabacman 8/14/2016 00:46",
+		"moveUp:" : "MaximilianoTabacman 8/14/2016 00:46",
+		"initializeOfSize:" : "MaximilianoTabacman 8/14/2016 00:44",
+		"move:from:to:" : "MaximilianoTabacman 8/14/2016 00:46",
+		"at:put:" : "MaximilianoTabacman 8/14/2016 00:45",
+		"moveRight:" : "MaximilianoTabacman 8/14/2016 00:46",
+		"size" : "MaximilianoTabacman 8/14/2016 00:46",
+		"printOn:" : "MaximilianoTabacman 8/14/2016 00:46",
+		"moveLeft:" : "MaximilianoTabacman 8/14/2016 00:46",
+		"moveDown:" : "MaximilianoTabacman 8/14/2016 00:46"
+	},
+	"class" : {
+		"ofSize:" : "MaximilianoTabacman 8/14/2016 00:44"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Decoder",
+	"category" : "Neuroscience-Model-DecoderModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"population"
+	],
+	"name" : "LogLikelihoodDecoder",
+	"type" : "normal"
+}

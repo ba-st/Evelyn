@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "WAPresenter",
+	"category" : "NeuralNetworkEvolution-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"snapshotIndexView",
+		"snapshots",
+		"identifiedCurrentSnapshotView"
+	],
+	"name" : "EvolutionSnapshotWebView",
+	"type" : "normal"
+}

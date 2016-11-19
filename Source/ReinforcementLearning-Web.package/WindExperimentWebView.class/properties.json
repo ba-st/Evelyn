@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "WAComponent",
+	"category" : "ReinforcementLearning-Web",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"webViewCatalog",
+		"snapshotView",
+		"identifiedSnapshotView",
+		"discountRateView",
+		"worldSizeView",
+		"seedView"
+	],
+	"name" : "WindExperimentWebView",
+	"type" : "normal"
+}

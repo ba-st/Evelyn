@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"initializeBuildingWorldsOfSize:planting:" : "MaximilianoTabacman 8/14/2016 01:32",
+		"worldSize" : "MaximilianoTabacman 8/14/2016 01:33",
+		"nextMineInMiddleLeftLocation" : "MaximilianoTabacman 8/14/2016 01:33",
+		"numberOfMines" : "MaximilianoTabacman 8/14/2016 01:33",
+		"nextMineLocation" : "MaximilianoTabacman 8/14/2016 01:33",
+		"nextMineInMiddleRightLocation" : "MaximilianoTabacman 8/14/2016 01:33",
+		"trainingType" : "MaximilianoTabacman 8/14/2016 01:33",
+		"worldMiddle" : "MaximilianoTabacman 8/14/2016 01:33"
+	},
+	"class" : {
+		"buildingWorldsOfSize:planting:" : "MaximilianoTabacman 8/14/2016 01:32"
+	}
+}

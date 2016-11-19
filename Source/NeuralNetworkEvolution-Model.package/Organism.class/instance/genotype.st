@@ -1,0 +1,4 @@
+accessing
+genotype
+
+	^ network genotype

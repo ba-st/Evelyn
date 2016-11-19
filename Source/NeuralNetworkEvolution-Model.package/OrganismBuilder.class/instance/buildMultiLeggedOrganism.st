@@ -1,0 +1,4 @@
+organism building
+buildMultiLeggedOrganism
+
+	^ self buildMultiLeggedOrganismFrom: self createMultiLeggedOrganismGenotype

@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "AdditionalResistance",
+	"category" : "Neuroscience-Model-IntegrateAndFireModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timeConstant",
+		"resistance",
+		"inhibitoryCurrent",
+		"weightWhenSpiking",
+		"adaptation",
+		"spikeTrain"
+	],
+	"name" : "SynapticConductance",
+	"type" : "normal"
+}

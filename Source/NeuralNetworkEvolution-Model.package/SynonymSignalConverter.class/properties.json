@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SignalConverter",
+	"category" : "NeuralNetworkEvolution-Model-OrganismModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SynonymSignalConverter",
+	"type" : "normal"
+}

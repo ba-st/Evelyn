@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "EnvironmentBehavior",
+	"category" : "ReinforcementLearning-Model-EnvironmentModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"grid",
+		"inhabitants",
+		"prizeLocations"
+	],
+	"name" : "Environment",
+	"type" : "normal"
+}

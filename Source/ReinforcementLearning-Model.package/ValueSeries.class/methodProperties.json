@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"increaseObservationsOf:" : "MaximilianoTabacman 8/14/2016 01:17",
+		"consider:" : "MaximilianoTabacman 8/14/2016 01:17",
+		"expectedValue" : "MaximilianoTabacman 8/14/2016 01:16",
+		"printOn:" : "MaximilianoTabacman 8/14/2016 01:17",
+		"adjustExpectedValue" : "MaximilianoTabacman 8/14/2016 01:17",
+		"initializeWithInitialExpectedValue:" : "MaximilianoTabacman 8/14/2016 01:16"
+	},
+	"class" : {
+		"withInitialExpectedValue:" : "MaximilianoTabacman 8/14/2016 01:16"
+	}
+}

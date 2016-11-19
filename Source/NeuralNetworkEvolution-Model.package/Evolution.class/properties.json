@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NeuralNetworkEvolution-Model-SelectionModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parameters",
+		"currentPopulation",
+		"mutator"
+	],
+	"name" : "Evolution",
+	"type" : "normal"
+}

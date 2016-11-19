@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Layer",
+	"category" : "NeuralNetworkEvolution-Model-NeuralNetworkModel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sensitivities"
+	],
+	"name" : "HiddenLayer",
+	"type" : "normal"
+}
