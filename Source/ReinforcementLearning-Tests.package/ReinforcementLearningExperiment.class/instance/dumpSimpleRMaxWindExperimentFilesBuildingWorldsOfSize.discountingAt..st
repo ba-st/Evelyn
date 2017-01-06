@@ -7,7 +7,7 @@ dumpSimpleRMaxWindExperimentFilesBuildingWorldsOfSize: aWorldSize discountingAt:
 
 	repetitions
 		timesRepeat: [ self
-				accumulateSimpleRMaxWindWindStatisticsBuildingWorldsOfSize: aWorldSize
+				accumSimpleRMaxWindWindStatsBuildingWorldsOfSize: aWorldSize
 				discountingAt: aDiscountRate ].
 
 	fileStream := (resultsDirectory , 'Wind-SimpleRMax-W_'

@@ -1,11 +1,11 @@
-experimenting - wind - private
-accumulateSimpleRMaxWindWindStatisticsBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate
+experimenting - mines - private
+accumSimpleRMaxMinesStatsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate
 
 	| decisionMaker agent trainer |
 
 	decisionMaker := RMax allowedTo: actions discountingAt: aDiscountRate.
 	agent := Agent guidedBy: decisionMaker.
-	trainer := WindTrainer buildingWorldsOfSize: aWorldSize.
+	trainer := MinesTrainer buildingWorldsOfSize: aWorldSize planting: aNumberOfMines.
 
 	accumulatedNumberOfMoves := accumulatedNumberOfMoves
 		collect:

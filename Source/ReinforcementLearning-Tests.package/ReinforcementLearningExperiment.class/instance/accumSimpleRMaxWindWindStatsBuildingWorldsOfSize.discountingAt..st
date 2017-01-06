@@ -1,13 +1,11 @@
-experimenting - multi - private
-accumulateSimpleRMaxMultiObjectiveMinesStatisticsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate
+experimenting - wind - private
+accumSimpleRMaxWindWindStatsBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate
 
 	| decisionMaker agent trainer |
 
 	decisionMaker := RMax allowedTo: actions discountingAt: aDiscountRate.
 	agent := Agent guidedBy: decisionMaker.
-	trainer := MultiObjectiveMinesTrainer
-		buildingWorldsOfSize: aWorldSize
-		planting: aNumberOfMines.
+	trainer := WindTrainer buildingWorldsOfSize: aWorldSize.
 
 	accumulatedNumberOfMoves := accumulatedNumberOfMoves
 		collect:

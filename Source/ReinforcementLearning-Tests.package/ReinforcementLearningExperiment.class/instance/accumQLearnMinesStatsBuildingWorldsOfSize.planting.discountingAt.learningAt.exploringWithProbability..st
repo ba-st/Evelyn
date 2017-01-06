@@ -1,5 +1,5 @@
 experimenting - mines - private
-accumulateQLearningMinesStatisticsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+accumQLearnMinesStatsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| decisionMaker agent trainer |
 

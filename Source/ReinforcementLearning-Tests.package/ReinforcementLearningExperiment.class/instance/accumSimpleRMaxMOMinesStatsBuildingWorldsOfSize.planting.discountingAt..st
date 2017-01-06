@@ -1,13 +1,9 @@
 experimenting - multi - private
-accumulateExperienceReplayMultiObjectiveMinesStatisticsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+accumSimpleRMaxMOMinesStatsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate
 
 	| decisionMaker agent trainer |
 
-	decisionMaker := ExperienceReplay
-		allowedTo: actions
-		discountingAt: aDiscountRate
-		learningAt: aLearningRate
-		exploringWithProbability: explorationProbability.
+	decisionMaker := RMax allowedTo: actions discountingAt: aDiscountRate.
 	agent := Agent guidedBy: decisionMaker.
 	trainer := MultiObjectiveMinesTrainer
 		buildingWorldsOfSize: aWorldSize

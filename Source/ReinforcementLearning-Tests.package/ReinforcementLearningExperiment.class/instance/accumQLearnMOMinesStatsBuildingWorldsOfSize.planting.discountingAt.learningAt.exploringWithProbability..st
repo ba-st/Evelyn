@@ -1,5 +1,5 @@
-experimenting - wind - private
-accumulateQLearningWindStatisticsBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+experimenting - multi - private
+accumQLearnMOMinesStatsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| decisionMaker agent trainer |
 
@@ -9,7 +9,9 @@ accumulateQLearningWindStatisticsBuildingWorldsOfSize: aWorldSize discountingAt:
 		learningAt: aLearningRate
 		exploringWithProbability: explorationProbability.
 	agent := Agent guidedBy: decisionMaker.
-	trainer := WindTrainer buildingWorldsOfSize: aWorldSize.
+	trainer := MultiObjectiveMinesTrainer
+		buildingWorldsOfSize: aWorldSize
+		planting: aNumberOfMines.
 
 	accumulatedNumberOfMoves := accumulatedNumberOfMoves
 		collect:

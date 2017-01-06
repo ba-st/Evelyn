@@ -1,9 +1,9 @@
 experimenting - multi - private
-accumulateQLearningMultiObjectiveMinesStatisticsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+accumXPReplayMOMinesStatsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| decisionMaker agent trainer |
 
-	decisionMaker := QLearning
+	decisionMaker := ExperienceReplay
 		allowedTo: actions
 		discountingAt: aDiscountRate
 		learningAt: aLearningRate

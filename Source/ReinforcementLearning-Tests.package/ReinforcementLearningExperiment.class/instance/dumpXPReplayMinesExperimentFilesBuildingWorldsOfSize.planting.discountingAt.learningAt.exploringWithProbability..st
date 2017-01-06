@@ -1,5 +1,5 @@
 experimenting - mines - private
-dumpExperienceReplayMinesExperimentFilesBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+dumpXPReplayMinesExperimentFilesBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| fileStream |
 
@@ -7,7 +7,7 @@ dumpExperienceReplayMinesExperimentFilesBuildingWorldsOfSize: aWorldSize plantin
 
 	repetitions
 		timesRepeat: [ self
-				accumulateExperienceReplayMinesStatisticsBuildingWorldsOfSize: aWorldSize
+				accumXPReplayMinesStatsBuildingWorldsOfSize: aWorldSize
 				planting: aNumberOfMines
 				discountingAt: aDiscountRate
 				learningAt: aLearningRate

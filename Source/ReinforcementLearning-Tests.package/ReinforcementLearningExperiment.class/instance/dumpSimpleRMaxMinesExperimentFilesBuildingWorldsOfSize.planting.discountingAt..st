@@ -7,7 +7,7 @@ dumpSimpleRMaxMinesExperimentFilesBuildingWorldsOfSize: aWorldSize planting: aNu
 
 	repetitions
 		timesRepeat: [ self
-				accumulateSimpleRMaxMinesStatisticsBuildingWorldsOfSize: aWorldSize
+				accumSimpleRMaxMinesStatsBuildingWorldsOfSize: aWorldSize
 				planting: aNumberOfMines
 				discountingAt: aDiscountRate ].
 

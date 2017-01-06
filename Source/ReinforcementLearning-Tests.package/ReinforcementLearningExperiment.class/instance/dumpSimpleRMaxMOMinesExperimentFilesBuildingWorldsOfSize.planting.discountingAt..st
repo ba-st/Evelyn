@@ -1,5 +1,5 @@
 experimenting - multi - private
-dumpSimpleRMaxMultiObjectiveMinesExperimentFilesBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate
+dumpSimpleRMaxMOMinesExperimentFilesBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate
 
 	| fileStream |
 
@@ -7,7 +7,7 @@ dumpSimpleRMaxMultiObjectiveMinesExperimentFilesBuildingWorldsOfSize: aWorldSize
 
 	repetitions
 		timesRepeat: [ self
-				accumulateSimpleRMaxMultiObjectiveMinesStatisticsBuildingWorldsOfSize: aWorldSize
+				accumSimpleRMaxMOMinesStatsBuildingWorldsOfSize: aWorldSize
 				planting: aNumberOfMines
 				discountingAt: aDiscountRate ].
 

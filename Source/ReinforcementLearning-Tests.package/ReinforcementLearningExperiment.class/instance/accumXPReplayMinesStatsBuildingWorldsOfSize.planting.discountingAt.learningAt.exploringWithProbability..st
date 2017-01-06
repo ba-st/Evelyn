@@ -1,9 +1,13 @@
 experimenting - mines - private
-accumulateSimpleRMaxMinesStatisticsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate
+accumXPReplayMinesStatsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| decisionMaker agent trainer |
 
-	decisionMaker := RMax allowedTo: actions discountingAt: aDiscountRate.
+	decisionMaker := ExperienceReplay
+		allowedTo: actions
+		discountingAt: aDiscountRate
+		learningAt: aLearningRate
+		exploringWithProbability: explorationProbability.
 	agent := Agent guidedBy: decisionMaker.
 	trainer := MinesTrainer buildingWorldsOfSize: aWorldSize planting: aNumberOfMines.
 

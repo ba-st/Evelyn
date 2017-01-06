@@ -1,5 +1,5 @@
-experimenting - mines - private
-accumulateExperienceReplayMinesStatisticsBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+experimenting - wind - private
+accumXPReplayWindStatsBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| decisionMaker agent trainer |
 
@@ -9,7 +9,7 @@ accumulateExperienceReplayMinesStatisticsBuildingWorldsOfSize: aWorldSize planti
 		learningAt: aLearningRate
 		exploringWithProbability: explorationProbability.
 	agent := Agent guidedBy: decisionMaker.
-	trainer := MinesTrainer buildingWorldsOfSize: aWorldSize planting: aNumberOfMines.
+	trainer := WindTrainer buildingWorldsOfSize: aWorldSize.
 
 	accumulatedNumberOfMoves := accumulatedNumberOfMoves
 		collect:

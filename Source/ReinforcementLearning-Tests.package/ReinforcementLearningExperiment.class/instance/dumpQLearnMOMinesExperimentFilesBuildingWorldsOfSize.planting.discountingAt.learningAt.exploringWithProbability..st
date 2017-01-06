@@ -1,5 +1,5 @@
 experimenting - multi - private
-dumpQLearningMultiObjectiveMinesExperimentFilesBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+dumpQLearnMOMinesExperimentFilesBuildingWorldsOfSize: aWorldSize planting: aNumberOfMines discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| fileStream |
 
@@ -7,7 +7,7 @@ dumpQLearningMultiObjectiveMinesExperimentFilesBuildingWorldsOfSize: aWorldSize 
 
 	repetitions
 		timesRepeat: [ self
-				accumulateQLearningMultiObjectiveMinesStatisticsBuildingWorldsOfSize: aWorldSize
+				accumQLearnMOMinesStatsBuildingWorldsOfSize: aWorldSize
 				planting: aNumberOfMines
 				discountingAt: aDiscountRate
 				learningAt: aLearningRate

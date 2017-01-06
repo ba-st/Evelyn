@@ -1,9 +1,9 @@
 experimenting - wind - private
-accumulateExperienceReplayWindStatisticsBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+accumQLearnWindStatsBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| decisionMaker agent trainer |
 
-	decisionMaker := ExperienceReplay
+	decisionMaker := QLearning
 		allowedTo: actions
 		discountingAt: aDiscountRate
 		learningAt: aLearningRate

@@ -1,5 +1,5 @@
 experimenting - wind - private
-dumpQLearningWindExperimentFilesBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
+dumpXPReplayWindExperimentFilesBuildingWorldsOfSize: aWorldSize discountingAt: aDiscountRate learningAt: aLearningRate exploringWithProbability: explorationProbability
 
 	| fileStream |
 
@@ -7,12 +7,12 @@ dumpQLearningWindExperimentFilesBuildingWorldsOfSize: aWorldSize discountingAt: 
 
 	repetitions
 		timesRepeat: [ self
-				accumulateQLearningWindStatisticsBuildingWorldsOfSize: aWorldSize
+				accumXPReplayWindStatsBuildingWorldsOfSize: aWorldSize
 				discountingAt: aDiscountRate
 				learningAt: aLearningRate
 				exploringWithProbability: explorationProbability ].
 
-	fileStream := (resultsDirectory , 'Wind-QLearning-W_'
+	fileStream := (resultsDirectory , 'Wind-ExperienceReplay-W_'
 		, aWorldSize printString , '-M_' , '-D_' , aDiscountRate printString
 		, '-L_' , aLearningRate printString , '-E_'
 		, explorationProbability printString , extension) asFileReference
