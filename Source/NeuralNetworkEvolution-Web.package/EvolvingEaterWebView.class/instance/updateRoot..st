@@ -6,4 +6,6 @@ updateRoot: aRoot
 	aRoot meta
 		name: 'viewport';
 		content: 'width=device-width, initial-scale=1.0'.
-	 webViewCatalog updateStylesAndScriptsOf: aRoot
+	 webViewCatalog updateStylesAndScriptsOf: aRoot.
+	
+	aRoot javascript url: LocalFileLibrary / #'evelyn.js'.

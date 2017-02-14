@@ -1,17 +1,17 @@
 {
 	"instance" : {
 		"resetRandomProvider" : "MaximilianoTabacman 10/29/2016 11:47",
-		"updateRoot:" : "MaximilianoTabacman 10/29/2016 10:45",
+		"updateRoot:" : "MaximilianoTabacman 2/14/2017 00:18",
 		"title" : "MaximilianoTabacman 10/29/2016 10:45",
 		"renderContentOn:" : "MaximilianoTabacman 10/29/2016 11:55",
 		"renderWindEffectDescriptionOn:" : "MaximilianoTabacman 10/29/2016 12:11",
-		"initialize" : "MaximilianoTabacman 10/29/2016 11:28",
+		"initialize" : "MaximilianoTabacman 2/13/2017 23:47",
 		"trainingSnapshots" : "MaximilianoTabacman 10/29/2016 11:48",
 		"render:chanceOfMoving:on:" : "MaximilianoTabacman 10/29/2016 12:11",
 		"initializeParameterViews" : "MaximilianoTabacman 10/29/2016 11:47",
 		"initializeSnapshotView" : "MaximilianoTabacman 10/29/2016 11:26",
 		"availableActions" : "MaximilianoTabacman 10/29/2016 10:48",
-		"renderEvolutionFormOn:" : "MaximilianoTabacman 10/29/2016 11:48",
+		"renderEvolutionFormOn:" : "MaximilianoTabacman 2/14/2017 00:42",
 		"runTrainingButton" : "MaximilianoTabacman 10/29/2016 11:30"
 	},
 	"class" : {

@@ -1,8 +1,8 @@
 rendering - private
 renderEvolutionFormOn: aCanvas
 
-	aCanvas
-		form: [ aCanvas fieldSet
+	aCanvas form
+		with: [ aCanvas fieldSet
 				legend: 'Parameters';
 				with: [ aCanvas
 						div: (LabeledWebView displaying: worldSizeView with: 'World Size ');

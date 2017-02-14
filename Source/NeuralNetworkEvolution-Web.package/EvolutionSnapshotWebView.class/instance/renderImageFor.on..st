@@ -4,7 +4,7 @@ renderImageFor: occupation on: aCanvas
 	| imageView |
 
 	imageView := ImageWebView
-		displayingImageAt:
-			('Images/<1s>' expandMacrosWith: (self imageToDisplayFor: occupation)).
+		locatedAt: LocalFileLibrary / (self imageLocationFor: occupation)
+		applying: CompositeComponentCommand empty.
 
 	aCanvas render: imageView
