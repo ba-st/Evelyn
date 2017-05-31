@@ -1,0 +1,3 @@
+accessing
+stoppingCriteria
+	^ stoppingCriteria

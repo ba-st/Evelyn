@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"select:parentsFrom:" : "MaximilianoTabacman 3/20/2014 10:00",
+		"initializeObtainingRandomNumbersFrom:" : "MaximilianoTabacman 3/20/2014 10:00",
+		"selectParentFrom:" : "MaximilianoTabacman 3/20/2014 10:00",
+		"numberOfParentsNeededFrom:afterSelecting:" : "TeamEvelyn 5/8/2017 16:26"
+	},
+	"class" : {
+		"new" : "MaximilianoTabacman 3/20/2014 09:59",
+		"defaultRandomProvider" : "MaximilianoTabacman 3/20/2014 09:59",
+		"obtainingRandomNumbersFrom:" : "MaximilianoTabacman 3/20/2014 09:59"
+	}
+}

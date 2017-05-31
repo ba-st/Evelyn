@@ -1,0 +1,25 @@
+{
+	"instance" : {
+		"sake" : "TeamEvelyn 5/9/2017 15:42",
+		"drinkMixer" : "TeamEvelyn 5/9/2017 16:39",
+		"testFindMaximalValue" : "TeamEvelyn 5/9/2017 17:35",
+		"setUp" : "TeamEvelyn 5/9/2017 17:38",
+		"maximumCost" : "TeamEvelyn 5/9/2017 16:33",
+		"lime" : "TeamEvelyn 5/9/2017 15:42",
+		"generateStartingIndividuals" : "TeamEvelyn 5/9/2017 17:37",
+		"eggWhite" : "TeamEvelyn 5/9/2017 15:42",
+		"tequila" : "TeamEvelyn 5/9/2017 15:42",
+		"gin" : "TeamEvelyn 5/9/2017 15:42",
+		"experimentContext" : "TeamEvelyn 5/9/2017 16:54",
+		"banana" : "TeamEvelyn 5/9/2017 15:44",
+		"orangeJuice" : "TeamEvelyn 5/9/2017 15:42",
+		"availableComponents" : "TeamEvelyn 5/9/2017 15:48",
+		"strawberry" : "TeamEvelyn 5/9/2017 15:42",
+		"grenadine" : "TeamEvelyn 5/9/2017 15:42",
+		"alcoholContent" : "TeamEvelyn 5/9/2017 16:52",
+		"pineappleJuice" : "TeamEvelyn 5/9/2017 15:42",
+		"pisco" : "TeamEvelyn 5/9/2017 15:42",
+		"vodka" : "TeamEvelyn 5/9/2017 15:42"
+	},
+	"class" : { }
+}

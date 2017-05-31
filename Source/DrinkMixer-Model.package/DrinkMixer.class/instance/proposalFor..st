@@ -1,4 +1,4 @@
-accessing - private
+initialization
 proposalFor: aComponentCollection
 
 	| proposedInvestments |

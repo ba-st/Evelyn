@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"printOn:" : "TeamEvelyn 4/15/2017 23:42",
+		"giveBirthTo:for:" : "TeamEvelyn 4/12/2017 18:27",
+		"initializeBasedOn:" : "TeamEvelyn 4/3/2017 18:49",
+		"number" : "TeamEvelyn 4/15/2017 23:50",
+		"genotype" : "TeamEvelyn 4/12/2017 19:16"
+	},
+	"class" : {
+		"basedOn:" : "TeamEvelyn 4/3/2017 18:49"
+	}
+}

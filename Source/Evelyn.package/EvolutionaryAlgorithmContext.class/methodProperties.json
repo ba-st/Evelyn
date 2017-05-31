@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"obtainValidIndividualEvaluating:retrying:" : "TeamEvelyn 5/8/2017 15:13",
+		"stoppingCriteria" : "TeamEvelyn 5/8/2017 15:51",
+		"record:" : "TeamEvelyn 5/8/2017 14:00",
+		"childrenOf:afterSelecting:" : "TeamEvelyn 5/8/2017 14:15",
+		"buildGeneration:composedOf:" : "TeamEvelyn 5/24/2017 18:14",
+		"createChildrenOf:using:" : "TeamEvelyn 5/24/2017 17:52",
+		"initializeSelectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:numerOfTrials:" : "TeamEvelyn 5/8/2017 15:59",
+		"createChildUsing:at:" : "TeamEvelyn 5/8/2017 15:46",
+		"numberOfChildrenUsing:" : "TeamEvelyn 5/8/2017 14:18",
+		"mutatedChildrenOf:obtainedFrom:" : "TeamEvelyn 5/8/2017 15:17",
+		"sortByFitness:" : "TeamEvelyn 5/24/2017 17:51",
+		"survivorsOf:" : "TeamEvelyn 5/8/2017 16:27",
+		"numberOfTrials" : "TeamEvelyn 5/8/2017 14:22"
+	},
+	"class" : {
+		"defaultNumberOfTrials" : "TeamEvelyn 5/8/2017 16:00",
+		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:numerOfTrials:" : "TeamEvelyn 5/8/2017 16:00",
+		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:" : "TeamEvelyn 5/8/2017 16:00"
+	}
+}

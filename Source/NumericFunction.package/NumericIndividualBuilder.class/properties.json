@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NumericFunction-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"randomProvider"
+	],
+	"name" : "NumericIndividualBuilder",
+	"type" : "normal"
+}

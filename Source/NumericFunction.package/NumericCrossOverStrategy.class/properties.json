@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CrossOverStrategy",
+	"category" : "NumericFunction-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"randomProvider"
+	],
+	"name" : "NumericCrossOverStrategy",
+	"type" : "normal"
+}

@@ -1,4 +1,4 @@
-accessing
+initialization
 components
 
 	^components copy

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MutationStrategy",
+	"category" : "Evelyn-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mutatorType",
+		"pi",
+		"randomProviderType",
+		"sigma"
+	],
+	"name" : "PluggableIndividualMutationStrategy",
+	"type" : "normal"
+}

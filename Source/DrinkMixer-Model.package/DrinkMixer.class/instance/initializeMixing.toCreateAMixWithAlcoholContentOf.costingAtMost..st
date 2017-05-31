@@ -1,4 +1,4 @@
-initialize - release
+initialization
 initializeMixing: aComponentCollection
 	toCreateAMixWithAlcoholContentOf: aPercentage
 	costingAtMost: aMonetaryeasurement
@@ -7,5 +7,3 @@ initializeMixing: aComponentCollection
 	desiredAlcoholContent := aPercentage.
 	maximumCost := aMonetaryeasurement.
 	randomProvider := DhbNormalDistribution new.
-
-	self calculateGeneticAlgorithValues

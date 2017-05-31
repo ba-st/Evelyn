@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"sortByFitness:" : "TeamEvelyn 5/24/2017 17:55",
+		"survivalPercentage" : "MaximilianoTabacman 3/20/2014 10:11",
+		"initializeKeeping:" : "MaximilianoTabacman 3/20/2014 10:11",
+		"selectSurvivorsFrom:" : "TeamEvelyn 5/8/2017 16:30"
+	},
+	"class" : {
+		"new" : "MaximilianoTabacman 3/20/2014 10:12",
+		"defaultSurvivalPercentage" : "MaximilianoTabacman 3/20/2014 10:12",
+		"keeping:" : "MaximilianoTabacman 3/20/2014 10:12"
+	}
+}

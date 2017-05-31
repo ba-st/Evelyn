@@ -1,0 +1,4 @@
+accessing
+mutationStrategy
+	
+	^ context mutationStrategy

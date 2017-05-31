@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evelyn-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number",
+		"individuals"
+	],
+	"name" : "EvolutionaryAlgorithmGeneration",
+	"type" : "normal"
+}

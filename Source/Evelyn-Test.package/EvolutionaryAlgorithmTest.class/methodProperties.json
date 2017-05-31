@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"assert:areBetterThan:" : "TeamEvelyn 5/24/2017 17:53",
+		"setUp" : "TeamEvelyn 5/9/2017 17:34",
+		"statingIndividuals" : "TeamEvelyn 5/9/2017 17:34",
+		"generateStartingIndividuals" : "TeamEvelyn 5/9/2017 17:34",
+		"sortByFitness:" : "TeamEvelyn 5/24/2017 17:54",
+		"experimentContext" : "TeamEvelyn 5/9/2017 17:34"
+	},
+	"class" : { }
+}

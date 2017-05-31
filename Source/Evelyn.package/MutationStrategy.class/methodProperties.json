@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"calculateSigmaForGeneration:" : "MaximilianoTabacman 3/20/2014 09:59",
+		"randomProviderForGeneration:" : "MaximilianoTabacman 3/20/2014 09:59",
+		"onGeneration:" : "MaximilianoTabacman 3/20/2014 09:58",
+		"pi" : "MaximilianoTabacman 3/20/2014 09:58",
+		"sigma" : "MaximilianoTabacman 3/20/2014 09:58",
+		"randomProviderType" : "MaximilianoTabacman 3/20/2014 09:58"
+	},
+	"class" : {
+		"defaultInitialSigma" : "MaximilianoTabacman 3/20/2014 09:58",
+		"defaultPi" : "MaximilianoTabacman 3/20/2014 09:58",
+		"defaultRandomProviderType" : "MaximilianoTabacman 3/20/2014 09:58"
+	}
+}

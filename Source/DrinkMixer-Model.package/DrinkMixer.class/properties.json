@@ -7,10 +7,9 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"components",
-		"desiredAlcoholContent",
+		"randomProvider",
 		"maximumCost",
-		"proposal",
-		"randomProvider"
+		"desiredAlcoholContent"
 	],
 	"name" : "DrinkMixer",
 	"type" : "normal"

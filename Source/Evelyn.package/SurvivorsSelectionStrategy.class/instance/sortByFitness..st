@@ -1,0 +1,4 @@
+accessing
+sortByFitness: aCollectionOfIndividuals
+
+	self subclassResponsibility

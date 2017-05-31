@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"generateFirstGenerartion" : "TeamEvelyn 5/24/2017 18:12",
+		"parentSelectionStrategy" : "TeamEvelyn 5/8/2017 13:53",
+		"mutationStrategy" : "TeamEvelyn 5/8/2017 13:53",
+		"nextGenerationBasedOn:" : "TeamEvelyn 5/24/2017 18:17",
+		"initializeStartingWith:using:" : "TeamEvelyn 5/8/2017 15:41",
+		"survivorSelectionStrategy" : "TeamEvelyn 5/8/2017 13:53",
+		"lastGeneration" : "TeamEvelyn 5/8/2017 13:56"
+	},
+	"class" : {
+		"startingWith:using:" : "TeamEvelyn 5/8/2017 13:52"
+	}
+}

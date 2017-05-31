@@ -1,0 +1,4 @@
+building
+onGeneration: aGenerationNumber
+
+	self subclassResponsibility

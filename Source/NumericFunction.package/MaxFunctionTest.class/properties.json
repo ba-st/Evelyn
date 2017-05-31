@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "EvolutionaryAlgorithmTest",
+	"category" : "NumericFunction-MaxTest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaxFunctionTest",
+	"type" : "normal"
+}

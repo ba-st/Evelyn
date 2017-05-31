@@ -1,4 +1,0 @@
-accessing
-ingredients
-
-	^ingredients copy

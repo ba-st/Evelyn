@@ -1,0 +1,4 @@
+initialization
+defaultAlgorithmGenerationBuilder
+
+	^ EvolutionaryAlgorithmGenerationBuilder new

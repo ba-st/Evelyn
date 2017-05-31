@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SurvivorsSelectionStrategy",
+	"category" : "DrinkMixer-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fitness"
+	],
+	"name" : "DrinkMixerSurvivorsSelectionStrategy",
+	"type" : "normal"
+}

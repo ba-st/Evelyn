@@ -2,13 +2,16 @@
 	"instance" : {
 		"preferenceFactorOf:" : "MaximilianoTabacman 3/20/2014 09:33",
 		"value:" : "MaximilianoTabacman 3/20/2014 09:32",
-		"initializeWorkingWith:" : "MaximilianoTabacman 3/20/2014 09:31",
+		"initialize" : "TeamEvelyn 5/9/2017 16:22",
 		"initializeFitnessBlock" : "MaximilianoTabacman 3/20/2014 09:32",
+		"initializeWorkingWith:" : "MaximilianoTabacman 3/20/2014 09:31",
 		"alcoholContentFactorOf:" : "MaximilianoTabacman 3/20/2014 09:32",
+		"initializeMaximumCost:" : "TeamEvelyn 5/9/2017 16:36",
 		"costFactorOf:" : "MaximilianoTabacman 3/20/2014 09:32",
 		"complexityFactorOf:" : "MaximilianoTabacman 3/20/2014 09:40"
 	},
 	"class" : {
-		"workingWith:" : "MaximilianoTabacman 3/20/2014 09:31"
+		"workingWith:" : "MaximilianoTabacman 3/20/2014 09:31",
+		"maximumCost:" : "TeamEvelyn 5/9/2017 16:37"
 	}
 }

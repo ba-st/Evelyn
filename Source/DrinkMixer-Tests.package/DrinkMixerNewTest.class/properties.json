@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EvolutionaryAlgorithmTest",
+	"category" : "DrinkMixer-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"drinkMixer"
+	],
+	"name" : "DrinkMixerNewTest",
+	"type" : "normal"
+}

@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"calculateSigmaForGeneration:" : "MaximilianoTabacman 3/20/2014 09:47",
+		"sort:" : "TeamEvelyn 5/24/2017 19:04",
+		"onGeneration:" : "MaximilianoTabacman 3/20/2014 09:47",
+		"pi" : "MaximilianoTabacman 3/20/2014 09:48",
+		"sigma" : "MaximilianoTabacman 3/20/2014 09:47",
+		"randomProviderType" : "MaximilianoTabacman 3/20/2014 09:47",
+		"initializeCreatingMutationsByMeansOf:mutatingWithChance:using:withInitialSigma:" : "MaximilianoTabacman 3/20/2014 09:46"
+	},
+	"class" : {
+		"creatingMutationsByMeansOf:" : "MaximilianoTabacman 3/20/2014 09:46",
+		"creatingMutationsByMeansOf:withMutationChance:using:withInitialSigma:" : "MaximilianoTabacman 3/20/2014 09:46"
+	}
+}

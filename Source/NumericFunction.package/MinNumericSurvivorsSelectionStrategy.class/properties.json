@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SurvivorsSelectionStrategy",
+	"category" : "NumericFunction-Min",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MinNumericSurvivorsSelectionStrategy",
+	"type" : "normal"
+}

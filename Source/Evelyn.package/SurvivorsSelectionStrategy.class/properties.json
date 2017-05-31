@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evelyn-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"survivalPercentage"
+	],
+	"name" : "SurvivorsSelectionStrategy",
+	"type" : "normal"
+}
