@@ -12,7 +12,8 @@
 		"mutationStrategy",
 		"stoppingCriteria",
 		"generationBuilder",
-		"numberOfTrials"
+		"numberOfTrials",
+		"record"
 	],
 	"name" : "EvolutionaryAlgorithmContext",
 	"type" : "normal"

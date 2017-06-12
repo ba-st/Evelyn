@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "IndividualMapper",
+	"category" : "Evelyn-Record",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NumericMapper",
+	"type" : "normal"
+}

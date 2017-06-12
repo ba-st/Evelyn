@@ -1,1 +1,1 @@
-(name 'Evelyn-Test-TeamEvelyn.1' message '' id '626e2fa1-390d-0d00-ab73-fc7c03b39ebb' date '31 May 2017' time '5:37:45.775955 pm' author 'TeamEvelyn' ancestors () stepChildren ())
+(name 'Evelyn-Test-TeamEvelyn.2' message 'empty log message' id '6136927e-270e-0d00-ad26-337c0f8d4257' date '12 June 2017' time '1:24:47.263568 pm' author 'TeamEvelyn' ancestors ((name 'Evelyn-Test-TeamEvelyn.1' message '' id '626e2fa1-390d-0d00-ab73-fc7c03b39ebb' date '31 May 2017' time '5:37:45.775955 pm' author 'TeamEvelyn' ancestors () stepChildren ())) stepChildren ())

@@ -1,6 +1,5 @@
 tests
 experimentContext
-
 	^ EvolutionaryAlgorithmContext
 		selectingSurvivorsWith: MinNumericSurvivorsSelectionStrategy new
 		parentsWith: ParentSelectionStrategy new
@@ -8,3 +7,5 @@ experimentContext
 		mutatingWith: (PluggableIndividualMutationStrategy creatingMutationsByMeansOf: NumericMutator)
 		stoppingCriteria: [ :aGeneration | aGeneration number > 100 ]
 		createGenerationWith: EvolutionaryAlgorithmGenerationBuilder new
+		numerOfTrials: 1
+		reportingWith: RecordProvider nullRecord
