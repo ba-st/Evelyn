@@ -1,0 +1,7 @@
+SystemOrganization addCategory: #Evelyn!
+SystemOrganization addCategory: 'Evelyn-Core'!
+<<<<<<< HEAD
+SystemOrganization addCategory: 'Evelyn-StoppingCriteria'!
+=======
+SystemOrganization addCategory: 'Evelyn-Record'!
+>>>>>>> feature/reports

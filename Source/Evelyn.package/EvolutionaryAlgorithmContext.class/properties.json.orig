@@ -13,8 +13,11 @@
 		"stoppingCriteria",
 		"generationBuilder",
 		"numberOfTrials",
-		"currentGeneration",
+<<<<<<< HEAD
+		"currentGeneration"
+=======
 		"record"
+>>>>>>> feature/reports
 	],
 	"name" : "EvolutionaryAlgorithmContext",
 	"type" : "normal"
