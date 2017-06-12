@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "IndividualMapper",
+	"category" : "NumericFunction-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NumericMapper",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RecordBehavior",
+	"category" : "Evelyn-Record",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NullRecord",
+	"type" : "normal"
+}

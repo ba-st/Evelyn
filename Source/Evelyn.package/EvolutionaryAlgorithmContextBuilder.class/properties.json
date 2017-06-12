@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evelyn-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"survivorsSelectionStrategy",
+		"parentSelectionStrategy",
+		"crossOverStrategy",
+		"mutator",
+		"stoppingCriteria",
+		"evolutionaryAlgorithmGenerationBuilder",
+		"record",
+		"numberOfTrials"
+	],
+	"name" : "EvolutionaryAlgorithmContextBuilder",
+	"type" : "normal"
+}

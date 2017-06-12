@@ -1,3 +1,0 @@
-initialization
-contents
-	^ recordStrategy contents

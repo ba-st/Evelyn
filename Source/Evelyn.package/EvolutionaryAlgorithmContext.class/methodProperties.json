@@ -21,7 +21,7 @@
 	"class" : {
 		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:numerOfTrials:reportingWith:" : "TeamEvelyn 6/7/2017 17:32",
 		"defaultNumberOfTrials" : "TeamEvelyn 5/8/2017 16:00",
-		"defaultReporting" : "TeamEvelyn 6/12/2017 16:09",
+		"defaultReporting" : "TeamEvelyn 6/12/2017 18:12",
 		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:" : "TeamEvelyn 6/5/2017 18:28"
 	}
 }

@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"build" : "TeamEvelyn 6/12/2017 17:11",
+		"crossOverStrategy:" : "TeamEvelyn 6/12/2017 00:35",
+		"defaultAlgorithmGenerationBuilder" : "TeamEvelyn 5/24/2017 19:31",
+		"defaultStoppingCriteria" : "TeamEvelyn 6/12/2017 17:04",
+		"initialize" : "TeamEvelyn 6/12/2017 18:12",
+		"survivorsSelectionStrategy:" : "TeamEvelyn 6/12/2017 00:36",
+		"defaultPartentStrategy" : "TeamEvelyn 5/24/2017 19:31",
+		"mutator:" : "TeamEvelyn 6/12/2017 00:35"
+	},
+	"class" : { }
+}

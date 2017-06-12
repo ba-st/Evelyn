@@ -1,3 +1,0 @@
-as yet unclassified
-memoryRecordMappingIndividualsBy: anIndividualMapper
-	^ PluggableRecord of: MemoryRecordStrategy new mappingIndividualsBy: anIndividualMapper

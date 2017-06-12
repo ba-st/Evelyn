@@ -1,4 +1,4 @@
 instance creation
 defaultReporting
 
-	^RecordProvider nullRecord
+	^NullRecord new

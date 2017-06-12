@@ -1,7 +1,0 @@
-SystemOrganization addCategory: #'Evelyn-Test'!
-SystemOrganization addCategory: 'Evelyn-Test-Core'!
-<<<<<<< HEAD
-SystemOrganization addCategory: 'Evelyn-Test-StoppingCriteria'!
-=======
-SystemOrganization addCategory: 'Evelyn-Test-Record'!
->>>>>>> feature/reports
