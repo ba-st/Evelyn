@@ -1,4 +1,4 @@
-tests
+accessing
 generationWithNumber: aNumber
 
  ^EvolutionaryAlgorithmGenerationBuilder new

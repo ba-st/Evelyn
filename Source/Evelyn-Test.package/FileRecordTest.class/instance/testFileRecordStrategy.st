@@ -1,9 +1,12 @@
 tests
 testFileRecordStrategy
 	| record lines generation |
+	
+	self toDo: 'Assertar por cada linea de individuos'.
+	
 	record := FileRecord writeOn: self file mappingIndividualsBy: NumericMapper.
 	self assert: record contents isEmpty.
-	generation := self firstGenerationOf10Individuals.
+	generation := self generationOfTenIndividualsNumber: 1.
 	record record: generation.
 	self assert: record contents notEmpty.
 	lines := record contents lines.

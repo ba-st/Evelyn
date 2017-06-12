@@ -1,6 +1,7 @@
 {
 	"instance" : {
-		"isSatisfiedBy:" : "TeamEvelyn 6/6/2017 23:09"
+		"isSatisfiedBy:" : "TeamEvelyn 6/6/2017 23:09",
+		"whileNotSatisfiedDo:workingOn:" : "TeamEvelyn 6/12/2017 18:20"
 	},
 	"class" : { }
 }

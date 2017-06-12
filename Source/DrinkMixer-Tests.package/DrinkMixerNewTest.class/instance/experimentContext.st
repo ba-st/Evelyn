@@ -6,5 +6,5 @@ experimentContext
 		parentsWith: ParentSelectionStrategy new
 		crossingOverWith: MixedDrinkCrossOverStrategy new
 		mutatingWith: (PluggableIndividualMutationStrategy creatingMutationsByMeansOf: MixedDrinkMutator)
-		stoppingCriteria: (PluggableStoppingCriteria analyzingGenerationWith: (AgingStopCondition stopAtGenerationNumber: 50))
+		stoppingCriteria: (AgingStopCondition stopAtGenerationNumber: 50)
 		createGenerationWith: EvolutionaryAlgorithmGenerationBuilder new

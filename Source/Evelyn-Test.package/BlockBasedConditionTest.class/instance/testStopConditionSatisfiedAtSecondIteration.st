@@ -4,6 +4,6 @@ testStopConditionSatisfiedAtSecondIteration
 
 	| stoppingCriteria iterations |
 	iterations := 0.
-	stoppingCriteria := PluggableStoppingCriteria analyzingGenerationWith: (self timesCondition: 2).
+	stoppingCriteria := self timesCondition: 2.
 	stoppingCriteria whileNotSatisfiedDo: [ iterations := iterations + 1 ] workingOn: self contextWithSomeGeneration.
 	self assert: iterations equals: 2

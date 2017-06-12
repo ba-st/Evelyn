@@ -1,4 +1,3 @@
 initialization
 defaultStoppingCriteria
-	^ PluggableStoppingCriteria
-		analyzingGenerationWith: (AgingStopCondition stopAtGenerationNumber: 100)
+	^AgingStopCondition stopAtGenerationNumber: 100

@@ -1,3 +1,0 @@
-tests
-firstGenerationOf10Individuals
-	^ EvolutionaryAlgorithmGeneration number: 1 composedOf: self generateStartingIndividuals

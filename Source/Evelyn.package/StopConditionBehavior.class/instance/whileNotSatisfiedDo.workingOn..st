@@ -1,5 +1,5 @@
-evaluate
+evaluating
 whileNotSatisfiedDo: block workingOn: aContext
 	
-	[ criteria isSatisfiedBy: aContext currentGeneration ]
+	[ self isSatisfiedBy: aContext currentGeneration ]
 		whileFalse: block

@@ -3,5 +3,5 @@ testNullRecordStrategy
 	| record |
 	record := NullRecord new.
 	self assert: record contents isEmpty.
-	record record: self firstGenerationOf10Individuals.
+	record record: (self generationOfTenIndividualsNumber: 1).
 	self assert: record contents isEmpty
