@@ -1,9 +1,15 @@
 {
 	"instance" : {
-		"defaultPartentStrategy" : "TeamEvelyn 5/24/2017 19:31",
-		"initialize" : "TeamEvelyn 5/24/2017 19:41",
+		"build" : "TeamEvelyn 5/24/2017 19:39",
+		"crossOverStrategy:" : "TeamEvelyn 6/12/2017 00:35",
 		"defaultAlgorithmGenerationBuilder" : "TeamEvelyn 5/24/2017 19:31",
-		"build" : "TeamEvelyn 5/24/2017 19:39"
+		"initialize" : "TeamEvelyn 5/24/2017 19:41",
+		"survivorsSelectionStrategy:" : "TeamEvelyn 6/12/2017 00:36",
+		"defaultPartentStrategy" : "TeamEvelyn 5/24/2017 19:31",
+		"mutator:" : "TeamEvelyn 6/12/2017 00:35"
 	},
-	"class" : { }
+	"class" : {
+		"forNumercialFunctions" : "TeamEvelyn 6/12/2017 00:24",
+		"integrationWarning" : "TeamEvelyn 6/12/2017 00:14"
+	}
 }

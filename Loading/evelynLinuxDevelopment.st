@@ -50,6 +50,12 @@
 		lock;
 		load: 'Development'.
 
+	"Mock for tests"
+	Gofer it
+   		smalltalkhubUser: 'dionisiy' project: 'Mocketry';
+   		configurationOf: 'Mocketry';
+   		loadStable.
+
 	"Settings"
 	PolymorphSystemSettings showDesktopLogo: false.
 	BIConfigurableFormatter

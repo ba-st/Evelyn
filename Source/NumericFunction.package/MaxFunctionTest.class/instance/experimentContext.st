@@ -6,5 +6,5 @@ experimentContext
 		parentsWith: ParentSelectionStrategy new
 		crossingOverWith: NumericCrossOverStrategy new
 		mutatingWith: (PluggableIndividualMutationStrategy creatingMutationsByMeansOf: NumericMutator)
-		stoppingCriteria: [ :aGeneration | aGeneration number > 100 ]
+		stoppingCriteria: (PluggableStoppingCriteria analyzingGenerationWith: (AgingStopCondition stopAtGenerationNumber: 100) )
 		createGenerationWith: EvolutionaryAlgorithmGenerationBuilder new

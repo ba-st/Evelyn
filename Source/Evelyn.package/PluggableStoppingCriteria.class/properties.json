@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evelyn-StoppingCriteria",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"criteria"
+	],
+	"name" : "PluggableStoppingCriteria",
+	"type" : "normal"
+}

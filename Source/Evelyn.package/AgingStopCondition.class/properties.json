@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "StopConditionBehavior",
+	"category" : "Evelyn-StoppingCriteria",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"generationToStop"
+	],
+	"name" : "AgingStopCondition",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+currentGeneration
+	^ currentGeneration content

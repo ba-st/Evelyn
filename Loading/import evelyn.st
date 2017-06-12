@@ -20,7 +20,7 @@
 
 	UIManager default inform: 'Configuring Repositories'.
 
-localRepository := '/Users/juanpablo/Documents/Evelyn Tip/GitHub/'.
+localRepository := '/home/mlinux/Documents/tip/'.
 
 "Buoy"
 	Metacello new
@@ -31,7 +31,7 @@ localRepository := '/Users/juanpablo/Documents/Evelyn Tip/GitHub/'.
 	"Willow"
 	Metacello new
 		baseline: 'Willow';
-		filetreeDirectory: ('<1s>/<2s>' expandMacrosWith: localRepository with: 'Willow/Packages/');
+		filetreeDirectory: ('<1s>/<2s>' expandMacrosWith: localRepository with: 'Willow/source/');
 		onLock: [ :ex | ex honor ];
 		lock;
 		load: 'Development'.

@@ -7,4 +7,5 @@ initializeSelectingSurvivorsWith: aSurvivorsSelectionStrategy parentsWith: aPare
 	mutationStrategy := aMutationStrategy.
 	stoppingCriteria := aStoppingCriteria.
 	generationBuilder := aGenerationBuilder.
-	numberOfTrials := aNumberOfTrials
+	numberOfTrials := aNumberOfTrials.
+	currentGeneration := Binding undefinedExplainedBy: 'Please set the current generation.'.

@@ -1,0 +1,4 @@
+configuring
+survivorsSelectionStrategy: aSurvivorsSelectionStrategy 
+
+	survivorsSelectionStrategy := Binding to: aSurvivorsSelectionStrategy
