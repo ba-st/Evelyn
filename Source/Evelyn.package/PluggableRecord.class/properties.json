@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Evelyn-Record",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"recordStrategy",
+		"individualMapper"
+	],
+	"name" : "PluggableRecord",
+	"type" : "normal"
+}

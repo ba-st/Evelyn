@@ -1,4 +1,3 @@
-recording
+actions api
 record: aGeneration
-
-	self toDo: 'Implementar una estrategia nueva para guardar un record'
+	record record: aGeneration

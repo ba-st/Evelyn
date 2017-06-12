@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RecordStrategy",
+	"category" : "Evelyn-Record",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"fileStream"
+	],
+	"name" : "FileRecordStrategy",
+	"type" : "normal"
+}
