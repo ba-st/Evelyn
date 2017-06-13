@@ -1,4 +1,4 @@
-tests
+accessing
 individuals
 	^ OrderedCollection
 		with: (NumericIndividual basedOn: 1)

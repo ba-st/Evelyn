@@ -1,4 +1,4 @@
-initialize - release
+initialization
 initializeCreatingMutationsByMeansOf: aMutatorType
 	mutatingWithChance: aNumberPi
 	using: aRandomProviderType

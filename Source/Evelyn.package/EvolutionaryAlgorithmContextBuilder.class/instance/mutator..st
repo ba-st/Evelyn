@@ -1,4 +1,3 @@
-as yet unclassified
+configuring
 mutator: mutatorStrategy
-
 	mutator := Binding to: mutatorStrategy

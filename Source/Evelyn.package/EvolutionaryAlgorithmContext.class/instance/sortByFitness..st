@@ -1,4 +1,3 @@
-fitness
-sortByFitness: individuals 
-	
-	^survivorSelectionStrategy sortByFitness: individuals
+sorting
+sortByFitness: individuals
+	^ survivorSelectionStrategy sortByFitness: individuals

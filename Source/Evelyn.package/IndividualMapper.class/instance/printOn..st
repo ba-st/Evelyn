@@ -1,3 +1,3 @@
-initialization
+printing
 printOn: aStream
 	self subclassResponsibility

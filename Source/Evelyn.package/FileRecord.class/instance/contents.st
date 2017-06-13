@@ -1,4 +1,4 @@
-actions api
+accessing
 contents
 	[ fileStream reopen.
 	^ fileStream contents ]

@@ -1,4 +1,3 @@
 configuring
-crossOverStrategy: aCrossOverStrategy 
-
-	crossOverStrategy := Binding to: aCrossOverStrategy 
+crossOverStrategy: aCrossOverStrategy
+	crossOverStrategy := Binding to: aCrossOverStrategy

@@ -1,4 +1,3 @@
 configuring
-currentGenerationChangeTo: anEvolutionaryAlgorithmGeneration 
-	
-	currentGeneration := Binding to: anEvolutionaryAlgorithmGeneration.
+currentGenerationChangeTo: anEvolutionaryAlgorithmGeneration
+	currentGeneration := Binding to: anEvolutionaryAlgorithmGeneration

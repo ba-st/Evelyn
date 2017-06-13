@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 number: aNumber composedOf: sortedIndividuals
 	^ self new
 		initializeNumber: aNumber

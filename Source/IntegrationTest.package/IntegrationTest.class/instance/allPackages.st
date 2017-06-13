@@ -1,4 +1,4 @@
-tests
+accessing
 allPackages
 
 	^ OrderedCollection new

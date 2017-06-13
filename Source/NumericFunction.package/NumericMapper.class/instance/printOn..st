@@ -1,4 +1,4 @@
-initialization
+printing
 printOn: aStream
 	aStream
 		nextPutAll: 'Record: NumericIndividual: ';

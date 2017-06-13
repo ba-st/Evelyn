@@ -1,4 +1,4 @@
-as yet unclassified
+building
 buildGeneration: number composedOf: individuals 
 	
 	^ EvolutionaryAlgorithmGeneration

@@ -1,4 +1,4 @@
-tests
+initialization
 setUp 
 
 	strategy := MinNumericSurvivorsSelectionStrategy new

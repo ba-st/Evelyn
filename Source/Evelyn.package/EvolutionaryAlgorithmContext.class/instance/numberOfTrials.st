@@ -1,5 +1,3 @@
 accessing
 numberOfTrials
-
-	^numberOfTrials
-
+	^ numberOfTrials

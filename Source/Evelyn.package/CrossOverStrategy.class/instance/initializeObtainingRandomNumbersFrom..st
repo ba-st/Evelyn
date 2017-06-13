@@ -1,4 +1,4 @@
-initialize - release
+initialization
 initializeObtainingRandomNumbersFrom: aRandomProvider
 
 	self subclassResponsibility

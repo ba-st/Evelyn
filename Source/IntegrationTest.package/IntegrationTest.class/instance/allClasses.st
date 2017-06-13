@@ -1,4 +1,4 @@
-tests
+accessing
 allClasses
 
 	^ self allPackages

@@ -1,4 +1,4 @@
-actions api
+initialization
 initializeMappingIndividualsBy: anIndividualMapper
 	records := OrderedCollection new.
 	individualMapper := anIndividualMapper

@@ -1,0 +1,3 @@
+initialization
+defaultRecord
+	^ NullRecord new

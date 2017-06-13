@@ -1,4 +1,3 @@
 fitness
 numberOfChildrenUsing: numberOfParentsNeeded
-
-	^numberOfParentsNeeded / 2
+	^ numberOfParentsNeeded / 2

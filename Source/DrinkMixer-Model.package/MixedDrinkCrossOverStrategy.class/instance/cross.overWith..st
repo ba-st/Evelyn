@@ -1,4 +1,4 @@
-building
+evaluating
 cross: parentA overWith: parentB
 
 	| modifiediIvestments |

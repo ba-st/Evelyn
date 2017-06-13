@@ -1,4 +1,4 @@
-evaluating
+building
 mutatedVersionOf: anIndividual
 
 	| modifiedIndividual |

@@ -1,3 +1,3 @@
-as yet unclassified
+instance creation
 mappingIndividualsBy: anIndividualMapper
 	^ self new initializeMappingIndividualsBy: anIndividualMapper
