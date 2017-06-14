@@ -9,4 +9,4 @@ setUpGroups: spec
 		package: 'DrinkMixer-Tests' with: [ spec requires: 'DrinkMixer-Model' ].
 	spec
 		group: 'Deployment' with: #('Evelyn');
-		group: 'Development' with: #('Deployment' 'NumericalFunction' 'Evelyn-Test' 'IntegrationTest' 'DrinkMixer-Tests')
+		group: 'Development' with: #('Deployment' 'NumericFunction' 'Evelyn-Test' 'IntegrationTest' 'DrinkMixer-Model' 'DrinkMixer-Tests')
