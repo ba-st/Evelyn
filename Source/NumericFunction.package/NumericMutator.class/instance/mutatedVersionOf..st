@@ -3,7 +3,7 @@ mutatedVersionOf: anIndividual
 
 	| modifiedIndividual |
 
-	modifiedIndividual := anIndividual genotype genes
+	modifiedIndividual := anIndividual genotype
 		collect: [ :each | 
 			self shouldMutate
 				ifTrue: [ self mutatedValueFor: each ]

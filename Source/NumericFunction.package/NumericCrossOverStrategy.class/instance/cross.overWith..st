@@ -3,10 +3,10 @@ cross: parentA overWith: parentB
 
 	| modifiedIndividual |
 
-	modifiedIndividual := OrderedCollection new: parentA genotype genes size.
+	modifiedIndividual := OrderedCollection new: parentA genotype size.
 
-	parentA genotype genes
-		with: parentB genotype genes
+	parentA genotype
+		with: parentB genotype
 		do: [ :investmentA :investmentB | 
 			| psi child |
 

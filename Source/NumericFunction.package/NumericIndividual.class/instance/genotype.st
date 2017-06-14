@@ -1,3 +1,3 @@
 accessing
 genotype
-	^ Genotype basedOn: self binaryNumber
+	^ self binaryNumber

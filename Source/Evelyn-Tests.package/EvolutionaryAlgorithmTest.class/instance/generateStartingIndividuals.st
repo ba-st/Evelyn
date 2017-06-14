@@ -1,0 +1,4 @@
+accesing
+generateStartingIndividuals
+
+	self subclassResponsibility

@@ -1,1 +1,0 @@
-A NumericCrossOverStrategyTest is a test class for testing the behavior of NumericCrossOverStrategy
