@@ -6,6 +6,5 @@ build
 		crossingOverWith: crossOverStrategy content
 		mutatingWith: (PluggableIndividualMutationStrategy creatingMutationsByMeansOf: mutator content)
 		stoppingCriteria: stoppingCriteria
-		createGenerationWith: evolutionaryAlgorithmGenerationBuilder
-		numerOfTrials: numberOfTrials
+		tryingUpTo: numberOfTrials
 		reportingWith: record

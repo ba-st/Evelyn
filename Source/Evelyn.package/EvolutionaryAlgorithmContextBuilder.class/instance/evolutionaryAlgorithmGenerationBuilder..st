@@ -1,3 +1,0 @@
-configuring
-evolutionaryAlgorithmGenerationBuilder: anEvolutionaryAlgorithmGenerationBuilder
-	evolutionaryAlgorithmGenerationBuilder := anEvolutionaryAlgorithmGenerationBuilder

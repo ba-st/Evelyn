@@ -1,7 +1,6 @@
 instance creation
 creatingMutationsByMeansOf: aMutatorType
-
-	^self
+	^ self
 		creatingMutationsByMeansOf: aMutatorType
 		withMutationChance: self defaultPi
 		using: self defaultRandomProviderType

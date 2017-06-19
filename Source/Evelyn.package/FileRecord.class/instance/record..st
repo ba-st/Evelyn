@@ -1,7 +1,7 @@
 evaluating
 record: aGeneration
-	fileStream
+	[ fileStream
 		reopen;
 		setToEnd.
-	(self generateRecordFor: aGeneration) printOn: fileStream.
-	fileStream close
+	(self generateRecordFor: aGeneration) printOn: fileStream ]
+		ensure: [ fileStream close ]

@@ -1,3 +1,3 @@
-initialization
+accessing - private
 defaultStoppingCriteria
-	^AgingStopCondition stopAtGenerationNumber: 100
+	^GenerationNumberStoppingCriteria stoppingAfter: 100

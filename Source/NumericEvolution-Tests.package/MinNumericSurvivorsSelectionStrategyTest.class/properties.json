@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "EvolutionaryAlgorithmTest",
+	"category" : "NumericEvolution-Tests-Min",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"strategy"
+	],
+	"name" : "MinNumericSurvivorsSelectionStrategyTest",
+	"type" : "normal"
+}

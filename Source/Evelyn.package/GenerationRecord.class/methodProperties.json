@@ -1,12 +1,12 @@
 {
 	"instance" : {
 		"printOn:" : "TeamEvelyn 6/7/2017 20:15",
-		"generateIndividualRecordsFor:with:" : "TeamEvelyn 6/7/2017 17:33",
+		"generateIndividualRecordsFor:with:" : "TeamEvelyn 6/19/2017 16:39",
 		"individualsRecords" : "TeamEvelyn 6/7/2017 18:00",
-		"number" : "TeamEvelyn 6/7/2017 19:12",
-		"initializeLog:mappingIndividualsBy:" : "TeamEvelyn 6/6/2017 18:51"
+		"initializeOf:mappedUsing:" : "TeamEvelyn 6/19/2017 16:23",
+		"number" : "TeamEvelyn 6/7/2017 19:12"
 	},
 	"class" : {
-		"log:mappingIndividualsBy:" : "TeamEvelyn 6/6/2017 18:49"
+		"of:mappedUsing:" : "TeamEvelyn 6/19/2017 16:23"
 	}
 }

@@ -3,4 +3,4 @@ generateStringFor: aNumericIndividual
 	^ String
 		streamContents: [ :aStream | 
 			aStream tab.
-			(NumericMapper for: aNumericIndividual) printOn: aStream ]
+			(NumericMapper mapping: aNumericIndividual) printOn: aStream ]

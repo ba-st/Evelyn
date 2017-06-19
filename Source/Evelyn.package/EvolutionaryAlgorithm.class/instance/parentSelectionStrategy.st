@@ -1,4 +1,3 @@
 accessing
 parentSelectionStrategy
-
 	^ context parentSelectionStrategy

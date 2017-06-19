@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SurvivorsSelectionStrategy",
+	"category" : "NumericEvolution-Max",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MaxNumericSurvivorsSelectionStrategy",
+	"type" : "normal"
+}

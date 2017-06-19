@@ -2,10 +2,7 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "Evelyn-Record",
-	"classinstvars" : [
-		"anIndividual",
-		"individual"
-	],
+	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [

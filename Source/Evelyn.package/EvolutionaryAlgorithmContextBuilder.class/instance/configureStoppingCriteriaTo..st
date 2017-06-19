@@ -1,0 +1,3 @@
+configuring
+configureStoppingCriteriaTo: aStoppingCriteria
+	stoppingCriteria := aStoppingCriteria

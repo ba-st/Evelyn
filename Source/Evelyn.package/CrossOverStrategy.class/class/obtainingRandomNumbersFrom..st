@@ -1,4 +1,3 @@
 instance creation
 obtainingRandomNumbersFrom: aRandomProvider
-
-	^super new initializeObtainingRandomNumbersFrom: aRandomProvider
+	^ super new initializeObtainingRandomNumbersFrom: aRandomProvider

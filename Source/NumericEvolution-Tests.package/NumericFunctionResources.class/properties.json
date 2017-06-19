@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "NumericEvolution-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startingIndividuals"
+	],
+	"name" : "NumericFunctionResources",
+	"type" : "normal"
+}

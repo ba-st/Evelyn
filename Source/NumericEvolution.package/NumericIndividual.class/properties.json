@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "IndividualBehavior",
+	"category" : "NumericEvolution-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"number"
+	],
+	"name" : "NumericIndividual",
+	"type" : "normal"
+}

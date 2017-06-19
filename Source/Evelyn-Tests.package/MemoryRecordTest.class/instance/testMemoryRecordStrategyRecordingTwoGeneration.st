@@ -1,20 +1,20 @@
 tests
 testMemoryRecordStrategyRecordingTwoGeneration
-	| record generationRecords firstGeneration secondGeneration |
-	record := MemoryRecord mappingIndividualsBy: NumericMapper.
-	self assert: record contents isEmpty.
+	| memoryRecord generationRecords firstGeneration secondGeneration |
+	memoryRecord := MemoryRecord mappingIndividualsBy: NumericMapper.
+	self assert: memoryRecord records isEmpty.
 	firstGeneration := self generationOfTenIndividualsNumber: 1.
 	secondGeneration := self generationOfTenIndividualsNumber: 2.
-	record
+	memoryRecord
 		record: firstGeneration;
 		record: secondGeneration.
-	self assert: record contents notEmpty.
-	generationRecords := record contents.
+	self assert: memoryRecord records notEmpty.
+	generationRecords := memoryRecord records.
 	self
 		assert: generationRecords size equals: 2;
 		assert: (generationRecords at: 1) individualsRecords size equals: 10;
 		assert: (generationRecords at: 2) individualsRecords size equals: 10;
 		assertCollection: (generationRecords at: 1) individualsRecords
-			equals: (firstGeneration individuals collect: [ :individual | NumericMapper for: individual ]);
+			equals: (firstGeneration individuals collect: [ :individual | NumericMapper mapping: individual ]);
 		assertCollection: (generationRecords at: 2) individualsRecords
-			equals: (secondGeneration individuals collect: [ :individual | NumericMapper for: individual ])
+			equals: (secondGeneration individuals collect: [ :individual | NumericMapper mapping: individual ])

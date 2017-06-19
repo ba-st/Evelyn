@@ -7,4 +7,4 @@ calculateSigmaForGeneration: aGenerationNumber
 	Asumo que aGenerationNumber empieza desde 1, y como quiero aumentar en 2% a partir de la segunda generación, le resto 1. 
 	-mtabacman"
 
-	^self sigma * (1 + ( ((aGenerationNumber - 1) * 2)))
+	^ self sigma * (1 + ((aGenerationNumber - 1) * 2))

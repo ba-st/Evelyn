@@ -1,3 +1,3 @@
-initialization
+accessing - private
 defaultPartentStrategy
 	^ ParentSelectionStrategy new

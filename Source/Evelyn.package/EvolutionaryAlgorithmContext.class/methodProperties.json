@@ -2,26 +2,21 @@
 	"instance" : {
 		"obtainValidIndividualEvaluating:retrying:" : "TeamEvelyn 6/13/2017 17:38",
 		"stoppingCriteria" : "TeamEvelyn 5/8/2017 15:51",
-		"recordCurrentGeneration" : "TeamEvelyn 6/13/2017 17:37",
-		"record:" : "TeamEvelyn 5/8/2017 14:00",
-		"whileNotSatisfiedDo:" : "TeamEvelyn 6/12/2017 14:40",
+		"recordCurrentGeneration" : "TeamEvelyn 6/19/2017 15:16",
+		"untilStoppingCriteriaIsMetDo:" : "TeamEvelyn 6/19/2017 15:28",
 		"childrenOf:afterSelecting:" : "TeamEvelyn 6/13/2017 17:38",
-		"buildGeneration:composedOf:" : "TeamEvelyn 6/13/2017 17:38",
-		"createChildrenOf:using:" : "TeamEvelyn 6/13/2017 17:38",
+		"changeCurrentGenerationTo:" : "TeamEvelyn 6/19/2017 15:25",
+		"initializeSelectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:tryingUpTo:reportingWith:" : "TeamEvelyn 6/19/2017 16:02",
+		"buildGeneration:composedOf:" : "TeamEvelyn 6/19/2017 16:00",
+		"createChildrenOf:using:" : "TeamEvelyn 6/19/2017 15:31",
 		"mutatedChildrenOf:obtainedFrom:" : "TeamEvelyn 6/13/2017 17:38",
 		"createChildUsing:at:" : "TeamEvelyn 6/13/2017 17:38",
 		"numberOfChildrenUsing:" : "TeamEvelyn 6/13/2017 17:38",
-		"sortByFitness:" : "TeamEvelyn 6/13/2017 17:39",
-		"currentGeneration" : "TeamEvelyn 6/6/2017 20:12",
 		"survivorsOf:" : "TeamEvelyn 6/13/2017 17:39",
-		"numberOfTrials" : "TeamEvelyn 6/13/2017 17:38",
-		"currentGenerationChangeTo:" : "TeamEvelyn 6/13/2017 17:38",
-		"initializeSelectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:numerOfTrials:reportingWith:" : "TeamEvelyn 6/7/2017 17:33"
+		"currentGeneration" : "TeamEvelyn 6/6/2017 20:12",
+		"numberOfTrials" : "TeamEvelyn 6/13/2017 17:38"
 	},
 	"class" : {
-		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:numerOfTrials:reportingWith:" : "TeamEvelyn 6/7/2017 17:32",
-		"defaultNumberOfTrials" : "TeamEvelyn 5/8/2017 16:00",
-		"defaultReporting" : "TeamEvelyn 6/12/2017 18:12",
-		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:createGenerationWith:" : "TeamEvelyn 6/5/2017 18:28"
+		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:tryingUpTo:reportingWith:" : "TeamEvelyn 6/19/2017 16:02"
 	}
 }

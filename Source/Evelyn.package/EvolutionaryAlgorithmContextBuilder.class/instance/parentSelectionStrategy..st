@@ -1,3 +1,0 @@
-configuring
-parentSelectionStrategy: aParentSelectionStrategy
-	parentSelectionStrategy := aParentSelectionStrategy

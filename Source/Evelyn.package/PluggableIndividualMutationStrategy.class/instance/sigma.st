@@ -1,4 +1,3 @@
 accesing
 sigma
-
-	^sigma
+	^ sigma

@@ -1,0 +1,3 @@
+tests
+selectionStrategy
+	^ DrinkMixerSurvivorsSelectionStrategy workingWith: self drinkMixer

@@ -1,14 +1,14 @@
 tests
 testMemoryRecordStrategy
-	| record generationRecords generation |
-	record := MemoryRecord mappingIndividualsBy: NumericMapper.
-	self assert: record contents isEmpty.
+	| memoryRecord generationRecords generation |
+	memoryRecord := MemoryRecord mappingIndividualsBy: NumericMapper.
+	self assert: memoryRecord records isEmpty.
 	generation := self generationOfTenIndividualsNumber: 1.
-	record record: generation.
-	self assert: record contents notEmpty.
-	generationRecords := record contents.
+	memoryRecord record: generation.
+	self assert: memoryRecord records notEmpty.
+	generationRecords := memoryRecord records.
 	self
 		assert: generationRecords size equals: 1;
 		assert: (generationRecords at: 1) individualsRecords size equals: 10;
 		assertCollection: (generationRecords at: 1) individualsRecords
-			equals: (generation individuals collect: [ :individual | NumericMapper for: individual ])
+			equals: (generation individuals collect: [ :individual | NumericMapper mapping: individual ])

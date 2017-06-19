@@ -1,3 +1,3 @@
-initialization
+accessing - private
 defaultNumberOfTrails
 	^ 1

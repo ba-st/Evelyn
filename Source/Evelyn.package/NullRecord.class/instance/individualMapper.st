@@ -1,3 +1,3 @@
 actions api
 individualMapper
-	^ NullMapper
+	^ self shouldNotImplement

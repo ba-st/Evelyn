@@ -1,0 +1,3 @@
+tests
+selectionStrategy
+	^ MinNumericSurvivorsSelectionStrategy new

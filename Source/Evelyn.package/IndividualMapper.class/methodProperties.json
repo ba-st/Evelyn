@@ -1,9 +1,10 @@
 {
 	"instance" : {
-		"printOn:" : "TeamEvelyn 6/6/2017 18:56",
-		"initializeFor:" : "TeamEvelyn 6/6/2017 18:55"
+		"initializeMapping:" : "TeamEvelyn 6/19/2017 16:26",
+		"individual" : "TeamEvelyn 6/19/2017 17:05",
+		"printOn:" : "TeamEvelyn 6/6/2017 18:56"
 	},
 	"class" : {
-		"for:" : "TeamEvelyn 6/6/2017 18:54"
+		"mapping:" : "TeamEvelyn 6/19/2017 16:26"
 	}
 }

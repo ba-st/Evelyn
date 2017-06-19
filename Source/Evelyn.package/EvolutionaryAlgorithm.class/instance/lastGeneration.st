@@ -1,8 +1,8 @@
 accessing
 lastGeneration
-	context currentGenerationChangeTo: self generateFirstGenerartion.
+	context changeCurrentGenerationTo: self generateFirstGenerartion.
 	context
-		whileNotSatisfiedDo: [ context recordCurrentGeneration.
-			context currentGenerationChangeTo: (self nextGenerationBasedOn: context currentGeneration) ].
+		untilStoppingCriteriaIsMetDo: [ context recordCurrentGeneration.
+			context changeCurrentGenerationTo: (self nextGenerationBasedOn: context currentGeneration) ].
 	context recordCurrentGeneration.
 	^ context currentGeneration

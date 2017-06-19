@@ -1,4 +1,3 @@
 building - private
 calculateSigmaForGeneration: aGenerationNumber
-
-	^self sigma
+	^ self sigma

@@ -1,4 +1,3 @@
 instance creation
 new
-
-	^self obtainingRandomNumbersFrom: self defaultRandomProvider
+	^ self obtainingRandomNumbersFrom: self defaultRandomProvider

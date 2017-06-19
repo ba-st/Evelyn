@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "IndividualMutator",
+	"category" : "NumericEvolution-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"pi",
+		"randomProvider"
+	],
+	"name" : "NumericMutator",
+	"type" : "normal"
+}

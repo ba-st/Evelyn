@@ -1,14 +1,14 @@
 {
 	"instance" : {
-		"calculateSigmaForGeneration:" : "MaximilianoTabacman 3/20/2014 09:47",
-		"onGeneration:" : "MaximilianoTabacman 3/20/2014 09:47",
-		"pi" : "MaximilianoTabacman 3/20/2014 09:48",
-		"sigma" : "MaximilianoTabacman 3/20/2014 09:47",
-		"randomProviderType" : "MaximilianoTabacman 3/20/2014 09:47",
-		"initializeCreatingMutationsByMeansOf:mutatingWithChance:using:withInitialSigma:" : "MaximilianoTabacman 3/20/2014 09:46"
+		"calculateSigmaForGeneration:" : "TeamEvelyn 6/19/2017 16:04",
+		"onGeneration:" : "TeamEvelyn 6/19/2017 16:04",
+		"pi" : "TeamEvelyn 6/19/2017 16:04",
+		"sigma" : "TeamEvelyn 6/19/2017 16:04",
+		"randomProviderType" : "TeamEvelyn 6/19/2017 16:04",
+		"initializeCreatingMutationsByMeansOf:mutatingWithChance:using:withInitialSigma:" : "TeamEvelyn 6/19/2017 16:04"
 	},
 	"class" : {
-		"creatingMutationsByMeansOf:" : "MaximilianoTabacman 3/20/2014 09:46",
-		"creatingMutationsByMeansOf:withMutationChance:using:withInitialSigma:" : "MaximilianoTabacman 3/20/2014 09:46"
+		"creatingMutationsByMeansOf:" : "TeamEvelyn 6/19/2017 16:04",
+		"creatingMutationsByMeansOf:withMutationChance:using:withInitialSigma:" : "TeamEvelyn 6/19/2017 16:04"
 	}
 }

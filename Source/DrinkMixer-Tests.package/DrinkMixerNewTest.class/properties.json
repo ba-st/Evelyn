@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"drinkMixer"
+		"drinkMixer",
+		"startingIndividuals"
 	],
 	"name" : "DrinkMixerNewTest",
 	"type" : "normal"

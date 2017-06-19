@@ -11,9 +11,9 @@
 		"crossOverStrategy",
 		"mutator",
 		"stoppingCriteria",
-		"evolutionaryAlgorithmGenerationBuilder",
 		"record",
-		"numberOfTrials"
+		"numberOfTrials",
+		"generationBuilder"
 	],
 	"name" : "EvolutionaryAlgorithmContextBuilder",
 	"type" : "normal"

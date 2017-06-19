@@ -1,4 +1,3 @@
 accesing
 randomProviderType
-
-	^randomProviderType
+	^ randomProviderType

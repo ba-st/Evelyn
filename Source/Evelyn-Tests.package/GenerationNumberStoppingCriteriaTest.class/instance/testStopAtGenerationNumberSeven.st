@@ -1,0 +1,12 @@
+tests
+testStopAtGenerationNumberSeven
+	| condition |
+	condition := GenerationNumberStoppingCriteria stoppingAfter: 7.
+	self
+		deny: (condition isSatisfiedBy: (self generationWithNumber: 1));
+		deny: (condition isSatisfiedBy: (self generationWithNumber: 2));
+		deny: (condition isSatisfiedBy: (self generationWithNumber: 3));
+		deny: (condition isSatisfiedBy: (self generationWithNumber: 4));
+		deny: (condition isSatisfiedBy: (self generationWithNumber: 5));
+		deny: (condition isSatisfiedBy: (self generationWithNumber: 6));
+		assert: (condition isSatisfiedBy: (self generationWithNumber: 7))

@@ -1,14 +1,15 @@
 {
 	"instance" : {
-		"generateFirstGenerartion" : "TeamEvelyn 5/24/2017 18:12",
-		"parentSelectionStrategy" : "TeamEvelyn 5/8/2017 13:53",
-		"mutationStrategy" : "TeamEvelyn 5/8/2017 13:53",
-		"nextGenerationBasedOn:" : "TeamEvelyn 5/24/2017 18:17",
-		"initializeStartingWith:using:" : "TeamEvelyn 5/8/2017 15:41",
-		"survivorSelectionStrategy" : "TeamEvelyn 5/8/2017 13:53",
-		"lastGeneration" : "TeamEvelyn 6/12/2017 14:42"
+		"generateFirstGenerartion" : "TeamEvelyn 6/19/2017 14:50",
+		"parentSelectionStrategy" : "TeamEvelyn 6/19/2017 14:50",
+		"mutationStrategy" : "TeamEvelyn 6/19/2017 14:50",
+		"initializeStartingWith:using:" : "TeamEvelyn 6/19/2017 14:50",
+		"buildGeneration:composedOf:and:" : "TeamEvelyn 6/19/2017 14:54",
+		"nextGenerationBasedOn:" : "TeamEvelyn 6/19/2017 14:54",
+		"survivorSelectionStrategy" : "TeamEvelyn 6/19/2017 14:50",
+		"lastGeneration" : "TeamEvelyn 6/19/2017 15:28"
 	},
 	"class" : {
-		"startingWith:using:" : "TeamEvelyn 5/8/2017 13:52"
+		"startingWith:using:" : "TeamEvelyn 6/19/2017 14:50"
 	}
 }

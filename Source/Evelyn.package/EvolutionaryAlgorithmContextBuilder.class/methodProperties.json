@@ -1,19 +1,22 @@
 {
 	"instance" : {
-		"record:" : "TeamEvelyn 6/13/2017 17:43",
-		"defaultStoppingCriteria" : "TeamEvelyn 6/12/2017 18:21",
+		"configureEvolutionaryAlgorithmGenerationBuilderTo:" : "TeamEvelyn 6/19/2017 15:55",
+		"initializeUndefinedStrategies" : "TeamEvelyn 6/19/2017 15:51",
+		"configureSurvivorsSelectionStrategyTo:" : "TeamEvelyn 6/19/2017 15:57",
+		"defaultStoppingCriteria" : "TeamEvelyn 6/19/2017 16:56",
+		"configureRecordTo:" : "TeamEvelyn 6/19/2017 15:56",
+		"configureParentSelectionStrategyTo:" : "TeamEvelyn 6/19/2017 15:56",
+		"configureMutatorTo:" : "TeamEvelyn 6/19/2017 15:55",
 		"defaultNumberOfTrails" : "TeamEvelyn 6/13/2017 17:44",
-		"build" : "TeamEvelyn 6/12/2017 17:11",
+		"build" : "TeamEvelyn 6/19/2017 16:02",
+		"configureCrossOverStrategyTo:" : "TeamEvelyn 6/19/2017 15:54",
+		"configureStoppingCriteriaTo:" : "TeamEvelyn 6/19/2017 15:56",
 		"defaultAlgorithmGenerationBuilder" : "TeamEvelyn 6/13/2017 17:40",
-		"initialize" : "TeamEvelyn 6/13/2017 17:44",
-		"survivorsSelectionStrategy:" : "TeamEvelyn 6/13/2017 17:40",
-		"crossOverStrategy:" : "TeamEvelyn 6/13/2017 17:39",
+		"initialize" : "TeamEvelyn 6/19/2017 15:51",
 		"defaultPartentStrategy" : "TeamEvelyn 6/13/2017 17:40",
+		"tryingUpTo:" : "TeamEvelyn 6/19/2017 15:22",
 		"defaultRecord" : "TeamEvelyn 6/13/2017 17:45",
-		"mutator:" : "TeamEvelyn 6/13/2017 17:40",
-		"evolutionaryAlgorithmGenerationBuilder:" : "TeamEvelyn 6/13/2017 17:42",
-		"parentSelectionStrategy:" : "TeamEvelyn 6/13/2017 17:41",
-		"stoppingCriteria:" : "TeamEvelyn 6/13/2017 17:42"
+		"initializeDefaults" : "TeamEvelyn 6/19/2017 15:53"
 	},
 	"class" : { }
 }

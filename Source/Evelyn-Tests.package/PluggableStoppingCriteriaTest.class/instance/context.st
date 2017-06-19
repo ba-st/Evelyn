@@ -1,0 +1,5 @@
+accessing
+context
+	^ EvolutionaryAlgorithmContextBuilder forNumercialFunctions
+		configureSurvivorsSelectionStrategyTo: MaxNumericSurvivorsSelectionStrategy new;
+		build

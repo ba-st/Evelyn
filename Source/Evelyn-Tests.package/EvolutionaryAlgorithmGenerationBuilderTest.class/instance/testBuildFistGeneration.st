@@ -1,7 +1,9 @@
 tests
 testBuildFistGeneration
 	| firstGeneration |
-	firstGeneration := EvolutionaryAlgorithmGenerationBuilder new buildGeneration: 1 composedOf: self individuals.
+	firstGeneration := EvolutionaryAlgorithmGeneration
+		number: 1
+		composedOf: self individuals.
 	self
 		assert: (firstGeneration isA: EvolutionaryAlgorithmGeneration);
 		assert: firstGeneration number equals: 1;
