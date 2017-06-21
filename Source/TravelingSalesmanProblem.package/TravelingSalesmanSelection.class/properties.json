@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "SurvivorsSelectionStrategy",
+	"category" : "TravelingSalesmanProblem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TravelingSalesmanSelection",
+	"type" : "normal"
+}

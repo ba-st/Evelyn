@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "IndividualBehavior",
+	"category" : "TravelingSalesmanProblem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"cities"
+	],
+	"name" : "RoadMap",
+	"type" : "normal"
+}
