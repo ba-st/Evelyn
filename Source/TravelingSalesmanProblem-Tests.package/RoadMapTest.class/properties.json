@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"citiesFactory"
+	],
 	"name" : "RoadMapTest",
 	"type" : "normal"
 }

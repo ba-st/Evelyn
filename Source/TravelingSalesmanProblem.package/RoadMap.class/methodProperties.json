@@ -1,9 +1,10 @@
 {
 	"instance" : {
 		"genotype" : "TeamEvelyn 6/21/2017 20:11",
-		"initializeTour:" : "TeamEvelyn 6/21/2017 20:14"
+		"initializeTour:" : "TeamEvelyn 6/22/2017 01:09"
 	},
 	"class" : {
-		"tour:" : "TeamEvelyn 6/21/2017 20:13"
+		"fromGenotype:" : "TeamEvelyn 6/22/2017 01:10",
+		"tour:" : "TeamEvelyn 6/22/2017 01:10"
 	}
 }

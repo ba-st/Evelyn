@@ -8,6 +8,6 @@
 	"instvars" : [
 		"citiesFactory"
 	],
-	"name" : "DistanceCalculatorTest",
+	"name" : "SwapMutationTest",
 	"type" : "normal"
 }

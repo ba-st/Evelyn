@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MutationStrategy",
+	"category" : "TravelingSalesmanProblem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SwapMutation",
+	"type" : "normal"
+}
