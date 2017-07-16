@@ -1,0 +1,3 @@
+asserting
+shouldMutateOn: aGenerationNumber
+	^ true

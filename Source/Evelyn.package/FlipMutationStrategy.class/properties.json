@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "MutationStrategy",
+	"category" : "Evelyn-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mutator",
+		"individualClass",
+		"probabilityChance",
+		"randomProvider"
+	],
+	"name" : "FlipMutationStrategy",
+	"type" : "normal"
+}

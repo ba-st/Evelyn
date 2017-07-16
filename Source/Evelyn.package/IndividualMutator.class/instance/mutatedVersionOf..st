@@ -1,4 +1,0 @@
-building
-mutatedVersionOf: anIndividual
-
-	self subclassResponsibility

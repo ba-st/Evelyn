@@ -1,15 +1,6 @@
 {
 	"instance" : {
-		"calculateSigmaForGeneration:" : "TeamEvelyn 6/19/2017 16:04",
-		"randomProviderForGeneration:" : "TeamEvelyn 6/19/2017 16:05",
-		"onGeneration:" : "TeamEvelyn 6/19/2017 16:05",
-		"pi" : "TeamEvelyn 6/19/2017 16:05",
-		"sigma" : "TeamEvelyn 6/19/2017 16:05",
-		"randomProviderType" : "TeamEvelyn 6/19/2017 16:05"
+		"onGeneration:mutate:" : "juanmottesi 7/4/2017 18:32"
 	},
-	"class" : {
-		"defaultInitialSigma" : "TeamEvelyn 6/19/2017 16:06",
-		"defaultPi" : "TeamEvelyn 6/19/2017 16:06",
-		"defaultRandomProviderType" : "TeamEvelyn 6/19/2017 16:06"
-	}
+	"class" : { }
 }

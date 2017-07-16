@@ -3,20 +3,21 @@
 		"configureEvolutionaryAlgorithmGenerationBuilderTo:" : "TeamEvelyn 6/19/2017 15:55",
 		"initializeUndefinedStrategies" : "TeamEvelyn 6/19/2017 15:51",
 		"configureSurvivorsSelectionStrategyTo:" : "TeamEvelyn 6/19/2017 15:57",
+		"configureMutationStrategyTo:" : "juanmottesi 7/5/2017 19:22",
 		"defaultStoppingCriteria" : "TeamEvelyn 6/19/2017 16:56",
 		"configureRecordTo:" : "TeamEvelyn 6/19/2017 15:56",
 		"configureParentSelectionStrategyTo:" : "TeamEvelyn 6/19/2017 15:56",
-		"configureMutatorTo:" : "TeamEvelyn 6/19/2017 15:55",
 		"defaultNumberOfTrails" : "TeamEvelyn 6/13/2017 17:44",
-		"build" : "TeamEvelyn 6/19/2017 16:02",
+		"build" : "juanmottesi 7/5/2017 19:16",
 		"configureCrossOverStrategyTo:" : "TeamEvelyn 6/19/2017 15:54",
 		"configureStoppingCriteriaTo:" : "TeamEvelyn 6/19/2017 15:56",
 		"defaultAlgorithmGenerationBuilder" : "TeamEvelyn 6/13/2017 17:40",
 		"initialize" : "TeamEvelyn 6/19/2017 15:51",
 		"defaultPartentStrategy" : "TeamEvelyn 6/13/2017 17:40",
-		"tryingUpTo:" : "TeamEvelyn 6/19/2017 15:22",
+		"randomProviderForGeneration:" : "juanmottesi 7/5/2017 18:42",
 		"defaultRecord" : "TeamEvelyn 6/13/2017 17:45",
-		"initializeDefaults" : "TeamEvelyn 6/19/2017 15:53"
+		"initializeDefaults" : "TeamEvelyn 6/19/2017 15:53",
+		"tryingUpTo:" : "TeamEvelyn 6/19/2017 15:22"
 	},
 	"class" : { }
 }

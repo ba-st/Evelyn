@@ -4,7 +4,7 @@ build
 		selectingSurvivorsWith: survivorsSelectionStrategy content
 		parentsWith: parentSelectionStrategy
 		crossingOverWith: crossOverStrategy content
-		mutatingWith: (PluggableIndividualMutationStrategy creatingMutationsByMeansOf: mutator content)
+		mutatingWith: mutationStrategy content
 		stoppingCriteria: stoppingCriteria
 		tryingUpTo: numberOfTrials
 		reportingWith: record

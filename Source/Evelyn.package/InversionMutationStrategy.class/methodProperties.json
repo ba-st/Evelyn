@@ -1,0 +1,14 @@
+{
+	"instance" : {
+		"onGeneration:mutate:" : "juanmottesi 7/5/2017 18:58",
+		"randomTupleStartingOnOneAndEndingOn:" : "juanmottesi 7/16/2017 12:18",
+		"inversion:startingOn:andEndingOn:" : "juanmottesi 7/16/2017 12:20",
+		"mutate:" : "juanmottesi 7/16/2017 12:19",
+		"shouldMutateOn:" : "juanmottesi 7/5/2017 18:43",
+		"initializeMutationRate:andRandomized:generate:" : "juanmottesi 7/5/2017 18:42",
+		"nextRandomFromOneTo:" : "juanmottesi 7/5/2017 18:58"
+	},
+	"class" : {
+		"mutationRate:andRandomized:generate:" : "juanmottesi 7/5/2017 18:47"
+	}
+}

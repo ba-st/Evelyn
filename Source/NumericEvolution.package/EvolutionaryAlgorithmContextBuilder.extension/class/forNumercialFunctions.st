@@ -2,5 +2,10 @@
 forNumercialFunctions
 	^ self new
 		configureCrossOverStrategyTo: NumericCrossOverStrategy new;
-		configureMutatorTo: NumericMutator;
+		configureMutationStrategyTo:
+			(FlipMutationStrategy
+				mutationRate: AlwaysTrue new
+				andRandomized: RandomProvider new
+				generate: NumericIndividual
+				mutationDefindedBy: NumericMutator new);
 		yourself

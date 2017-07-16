@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"onGeneration:mutateGenotype:" : "juanmottesi 7/4/2017 20:02",
+		"onGeneration:mutate:" : "juanmottesi 7/5/2017 18:52",
+		"genMutate:" : "juanmottesi 7/4/2017 19:58",
+		"shouldMutateOn:" : "juanmottesi 7/5/2017 18:43",
+		"initializeMutationRate:andRandomized:generate:mutationDefindedBy:" : "juanmottesi 7/5/2017 18:52"
+	},
+	"class" : {
+		"mutationRate:andRandomized:generate:mutationDefindedBy:" : "juanmottesi 7/5/2017 18:50"
+	}
+}

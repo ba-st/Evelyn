@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MutationStrategy",
+	"category" : "Evelyn-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"individualClass",
+		"probabilityChance",
+		"randomProvider"
+	],
+	"name" : "ScrambleMutationStrategy",
+	"type" : "normal"
+}
