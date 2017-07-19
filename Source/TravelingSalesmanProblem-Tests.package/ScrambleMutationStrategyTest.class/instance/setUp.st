@@ -1,3 +1,3 @@
-running
+accessing
 setUp
 	citiesFactory := CitiesFactory new

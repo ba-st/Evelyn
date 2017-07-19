@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "MutationStrategy",
-	"category" : "TravelingSalesmanProblem",
+	"super" : "RandomProviderBehaivor",
+	"category" : "Evelyn-Mutation",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "SwapMutation",
+	"name" : "NormalDistributionRandomProvider",
 	"type" : "normal"
 }

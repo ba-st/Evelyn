@@ -1,4 +1,7 @@
 {
-	"instance" : { },
+	"instance" : {
+		"setUp" : "juanmottesi 7/19/2017 18:40",
+		"testSortIndivicuals" : "juanmottesi 7/19/2017 19:09"
+	},
 	"class" : { }
 }

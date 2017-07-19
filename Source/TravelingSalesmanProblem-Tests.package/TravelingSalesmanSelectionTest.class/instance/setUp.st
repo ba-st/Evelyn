@@ -1,3 +1,3 @@
-running
+initialization
 setUp
 	citiesFactory := CitiesFactory new

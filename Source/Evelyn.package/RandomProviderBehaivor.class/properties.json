@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "IndividualMutator",
+	"name" : "RandomProviderBehaivor",
 	"type" : "normal"
 }

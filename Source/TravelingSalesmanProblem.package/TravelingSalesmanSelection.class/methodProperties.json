@@ -1,4 +1,10 @@
 {
-	"instance" : { },
+	"instance" : {
+		"calculateDistance:" : "juanmottesi 7/19/2017 19:02",
+		"initialize" : "juanmottesi 7/19/2017 18:37",
+		"distanceCalculator" : "juanmottesi 7/19/2017 18:37",
+		"sortByFitness:" : "juanmottesi 7/19/2017 18:29",
+		"distanceBetween:and:" : "juanmottesi 7/19/2017 18:37"
+	},
 	"class" : { }
 }

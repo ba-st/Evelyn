@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
-	"category" : "Evelyn-Core",
+	"super" : "ProbabilityChance",
+	"category" : "Evelyn-Mutation",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "RandomProvider",
+	"name" : "CoinFlippingProbability",
 	"type" : "normal"
 }
