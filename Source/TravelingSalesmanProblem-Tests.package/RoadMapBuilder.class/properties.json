@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "TravelingSalesmanProblem-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startingCity",
+		"anotherCities"
+	],
+	"name" : "RoadMapBuilder",
+	"type" : "normal"
+}

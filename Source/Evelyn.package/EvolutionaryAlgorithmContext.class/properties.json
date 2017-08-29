@@ -11,7 +11,6 @@
 		"crossOverStrategy",
 		"mutationStrategy",
 		"stoppingCriteria",
-		"numberOfTrials",
 		"currentGeneration",
 		"record"
 	],

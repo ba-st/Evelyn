@@ -6,5 +6,4 @@ build
 		crossingOverWith: crossOverStrategy content
 		mutatingWith: mutationStrategy content
 		stoppingCriteria: stoppingCriteria
-		tryingUpTo: numberOfTrials
 		reportingWith: record

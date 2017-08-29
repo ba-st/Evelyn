@@ -1,12 +1,9 @@
 {
 	"instance" : {
 		"generateFirstGenerartion" : "TeamEvelyn 6/19/2017 14:50",
-		"parentSelectionStrategy" : "TeamEvelyn 6/19/2017 14:50",
-		"mutationStrategy" : "TeamEvelyn 6/19/2017 14:50",
+		"nextGenerationBasedOn:" : "TeamEvelyn 6/19/2017 14:54",
 		"initializeStartingWith:using:" : "TeamEvelyn 6/19/2017 14:50",
 		"buildGeneration:composedOf:and:" : "TeamEvelyn 6/19/2017 14:54",
-		"nextGenerationBasedOn:" : "TeamEvelyn 6/19/2017 14:54",
-		"survivorSelectionStrategy" : "TeamEvelyn 6/19/2017 14:50",
 		"lastGeneration" : "TeamEvelyn 6/19/2017 15:28"
 	},
 	"class" : {

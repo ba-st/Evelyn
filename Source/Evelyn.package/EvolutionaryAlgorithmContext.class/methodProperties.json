@@ -1,12 +1,10 @@
 {
 	"instance" : {
-		"obtainValidIndividualEvaluating:retrying:" : "TeamEvelyn 6/13/2017 17:38",
 		"stoppingCriteria" : "TeamEvelyn 5/8/2017 15:51",
 		"recordCurrentGeneration" : "TeamEvelyn 6/19/2017 15:16",
 		"untilStoppingCriteriaIsMetDo:" : "TeamEvelyn 6/19/2017 15:28",
 		"childrenOf:afterSelecting:" : "TeamEvelyn 6/13/2017 17:38",
 		"changeCurrentGenerationTo:" : "TeamEvelyn 6/19/2017 15:25",
-		"initializeSelectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:tryingUpTo:reportingWith:" : "TeamEvelyn 6/19/2017 16:02",
 		"buildGeneration:composedOf:" : "TeamEvelyn 6/19/2017 16:00",
 		"createChildrenOf:using:" : "TeamEvelyn 6/19/2017 15:31",
 		"mutatedChildrenOf:obtainedFrom:" : "juanmottesi 7/4/2017 18:32",
@@ -14,9 +12,9 @@
 		"numberOfChildrenUsing:" : "TeamEvelyn 6/13/2017 17:38",
 		"survivorsOf:" : "TeamEvelyn 6/13/2017 17:39",
 		"currentGeneration" : "TeamEvelyn 6/6/2017 20:12",
-		"numberOfTrials" : "TeamEvelyn 6/13/2017 17:38"
+		"initializeSelectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:reportingWith:" : "jmottesi 8/29/2017 19:46"
 	},
 	"class" : {
-		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:tryingUpTo:reportingWith:" : "TeamEvelyn 6/19/2017 16:02"
+		"selectingSurvivorsWith:parentsWith:crossingOverWith:mutatingWith:stoppingCriteria:reportingWith:" : "jmottesi 8/29/2017 19:46"
 	}
 }

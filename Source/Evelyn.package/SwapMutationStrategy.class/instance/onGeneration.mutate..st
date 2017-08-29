@@ -1,6 +1,6 @@
 building
 onGeneration: aGenerationNumber mutate: aCollectionOfIndividuals
-	^aCollectionOfIndividuals
+	^ aCollectionOfIndividuals
 		collect: [ :anIndividual | 
 			(self shouldMutateOn: aGenerationNumber)
 				ifTrue: [ individualClass fromGenotype: (self mutate: anIndividual genotype) ]

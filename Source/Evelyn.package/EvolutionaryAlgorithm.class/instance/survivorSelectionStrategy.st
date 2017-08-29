@@ -1,3 +1,0 @@
-accessing
-survivorSelectionStrategy
-	^ context survivorSelectionStrategy

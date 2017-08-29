@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "EvolutionaryAlgorithmTest",
+	"category" : "TravelingSalesmanProblem-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startingIndividuals",
+		"citiesFactory"
+	],
+	"name" : "TravelingSalesmanProblemTest",
+	"type" : "normal"
+}

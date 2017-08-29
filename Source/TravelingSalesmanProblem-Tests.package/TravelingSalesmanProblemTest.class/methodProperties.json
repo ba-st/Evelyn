@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"otherCities" : "jmottesi 8/29/2017 17:24",
+		"startingIndividuals" : "jmottesi 8/29/2017 17:16",
+		"selectionStrategy" : "jmottesi 8/29/2017 19:09",
+		"randomProvider" : "jmottesi 8/29/2017 17:39",
+		"setUp" : "jmottesi 8/29/2017 17:33",
+		"testFindShortestRoadMap" : "jmottesi 8/29/2017 17:16",
+		"generateStartingIndividuals" : "jmottesi 8/29/2017 17:22",
+		"experimentContext" : "jmottesi 8/29/2017 19:09"
+	},
+	"class" : { }
+}

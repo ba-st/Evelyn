@@ -1,3 +1,0 @@
-accesing
-randomProviderType
-	^ randomProviderType

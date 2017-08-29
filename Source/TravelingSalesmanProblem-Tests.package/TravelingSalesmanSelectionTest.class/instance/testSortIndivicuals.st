@@ -22,7 +22,7 @@ testSortIndivicuals
 				with: citiesFactory aconcagua
 				with: citiesFactory ushuaia
 				with: citiesFactory villaCarlosPaz).
-	sortedIndividuals := TravelingSalesmanSelection new sortByFitness: (OrderedCollection with: secondSolution with: thirdSolution with: bestSolution).
+	sortedIndividuals := TravelingSalesmanSelectionStrategy new sortByFitness: (OrderedCollection with: secondSolution with: thirdSolution with: bestSolution).
 	self
 		assert: (sortedIndividuals at: 1) equals: bestSolution;
 		assert: (sortedIndividuals at: 2) equals: secondSolution;

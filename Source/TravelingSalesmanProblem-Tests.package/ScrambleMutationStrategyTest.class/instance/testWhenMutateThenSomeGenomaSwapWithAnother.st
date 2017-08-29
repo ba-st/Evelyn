@@ -1,7 +1,7 @@
 accessing
 testWhenMutateThenSomeGenomaSwapWithAnother
 	| mutationStrategy roadMap mutatedRoadMap |
-	mutationStrategy := SwapMutationStrategy mutationRate: AlwaysTrue new andRandomized: self randomProvider generate: RoadMap.
+	mutationStrategy := ScrambleMutationStrategy mutationRate: AlwaysTrue new andRandomized: self randomProvider generate: RoadMap.
 	roadMap := RoadMap
 		tour:
 			(OrderedCollection

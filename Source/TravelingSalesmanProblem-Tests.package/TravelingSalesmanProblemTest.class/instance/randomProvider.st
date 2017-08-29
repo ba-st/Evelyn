@@ -1,0 +1,3 @@
+tests
+randomProvider
+	^ NormalDistributionRandomProvider new
