@@ -1,3 +1,3 @@
-actions api
+accessing
 individualMapper
 	^ self shouldNotImplement

@@ -1,0 +1,3 @@
+accessing
+randomProvider
+	^ NormalDistributionRandomProvider new
