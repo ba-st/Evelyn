@@ -1,3 +1,3 @@
-instance creation
+evaluating
 random
 	^ DhbNormalDistribution new random

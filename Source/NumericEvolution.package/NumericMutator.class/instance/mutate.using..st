@@ -1,4 +1,3 @@
 building
 mutate: anInteger using: aRandomProvider
-	self toFix. 
-	^ 1.0 random rounded
+	^ aRandomProvider from: 0 to: 1

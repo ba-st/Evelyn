@@ -1,4 +1,4 @@
-instance creation
+evaluating
 from: fromNumber to: toNumber
 	| newRandom |
 	newRandom := (DhbNormalDistribution new: toNumber / 2 rounded sigma: 1) random rounded.
