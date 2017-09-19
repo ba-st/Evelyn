@@ -1,6 +1,7 @@
 accessing
-nextGenerationBasedOn: oldGeneration
-	| survivors children mutatedChildren |
+nextGeneration
+	| survivors children mutatedChildren oldGeneration |
+	oldGeneration:= context currentGeneration.
 	survivors := context survivorsOf: oldGeneration.
 	children := context childrenOf: oldGeneration afterSelecting: survivors.
 	mutatedChildren := context mutatedChildrenOf: oldGeneration obtainedFrom: children.

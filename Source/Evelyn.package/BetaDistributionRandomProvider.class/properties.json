@@ -1,15 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "MutationStrategy",
+	"super" : "RandomProviderBehaivor",
 	"category" : "Evelyn-Mutation",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"individualClass",
-		"probabilityChance",
-		"randomProvider"
+		"dhbBetaDistribution"
 	],
-	"name" : "ScrambleMutationStrategy",
+	"name" : "BetaDistributionRandomProvider",
 	"type" : "normal"
 }

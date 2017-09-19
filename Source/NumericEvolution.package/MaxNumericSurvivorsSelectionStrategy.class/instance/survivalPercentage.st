@@ -1,4 +1,4 @@
 accessing
 survivalPercentage
 
-	self subclassResponsibility
+	^40 / 100

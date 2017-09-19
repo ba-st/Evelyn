@@ -1,0 +1,3 @@
+evaluating
+random
+	^ dhbBetaDistribution random

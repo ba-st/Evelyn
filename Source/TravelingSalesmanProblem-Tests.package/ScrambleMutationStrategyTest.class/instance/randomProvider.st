@@ -1,3 +1,0 @@
-accessing
-randomProvider
-	^ NormalDistributionRandomProvider new

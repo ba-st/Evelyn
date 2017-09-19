@@ -1,9 +1,10 @@
 {
 	"instance" : {
-		"experimentContext" : "TeamEvelyn 5/9/2017 17:34",
-		"generateStartingIndividuals" : "TeamEvelyn 5/9/2017 17:34",
 		"assert:areBetterThan:" : "TeamEvelyn 6/19/2017 15:39",
-		"selectionStrategy" : "TeamEvelyn 6/19/2017 15:35"
+		"selectionStrategy" : "TeamEvelyn 6/19/2017 15:35",
+		"generateStartingIndividuals" : "TeamEvelyn 5/9/2017 17:34",
+		"assert:areBetterOrEqualThan:" : "TeamEvelyn 9/19/2017 18:39",
+		"experimentContext" : "TeamEvelyn 5/9/2017 17:34"
 	},
 	"class" : { }
 }
