@@ -19,6 +19,6 @@ Evelyn
 ```smalltalk
 Metacello new
   baseline: 'Evelyn';
-  repository: 'github://juanmottesi/Evelyn:baseline/source';
+  repository: 'github://TeamEvelyn/Evelyn:baseline/Source';
   load: 'Development'
 ```
