@@ -1,7 +1,7 @@
 tests
 testFileRecordStrategy
 	| fileRecord generation |
-	fileRecord := FileRecord writeOn: self file mappingIndividualsBy: NumericMapper.
+	fileRecord := FileRecord writingTo: self file mappingIndividualsWith: NumericMapper.
 	generation := self generationOfTenIndividualsNumber: 1.
 	fileRecord record: generation.
 	FileStream
@@ -15,4 +15,5 @@ testFileRecordStrategy
 				assert: (lines at: 1) equals: 'Generation: 1';
 				assert: (lines at: 12) isAllSeparators.
 			(lines copyFrom: 2 to: 11)
-				doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (generation individuals at: index)) ] ]
+				doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (generation individuals at: index)) ].
+			self assert: file contents equals: self expectedRecordContents ]

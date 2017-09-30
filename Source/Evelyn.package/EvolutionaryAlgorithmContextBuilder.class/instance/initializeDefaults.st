@@ -1,5 +1,5 @@
 initialization
 initializeDefaults
-	parentSelectionStrategy := self defaultPartentStrategy.
+	parentSelectionStrategy := self defaultParentStrategy.
 	stoppingCriteria := self defaultStoppingCriteria.
 	record := self defaultRecord

@@ -6,13 +6,13 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"survivorsSelectionStrategy",
 		"parentSelectionStrategy",
-		"crossOverStrategy",
-		"mutator",
 		"stoppingCriteria",
 		"record",
-		"mutationStrategy"
+		"mutationStrategy",
+		"survivorsSelectionStrategyBinding",
+		"crossOverStrategyBinding",
+		"mutatorBinding"
 	],
 	"name" : "EvolutionaryAlgorithmContextBuilder",
 	"type" : "normal"

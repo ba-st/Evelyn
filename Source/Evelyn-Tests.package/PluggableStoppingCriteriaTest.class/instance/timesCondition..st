@@ -5,4 +5,8 @@ timesCondition: times
 	| iteration |
 	iteration := 0.
 	^ PluggableStoppingCriteria
-		stoppingWhen: [ :generation | (iteration ~= times) ifTrue: [ iteration := iteration +1.false] ifFalse: [ true ] ]
+		stoppingWhen: [ :generation | 
+			iteration ~= times
+				ifTrue: [ iteration := iteration + 1.
+					false ]
+				ifFalse: [ true ] ]

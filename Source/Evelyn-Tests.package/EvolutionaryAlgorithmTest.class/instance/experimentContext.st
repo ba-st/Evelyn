@@ -1,4 +1,3 @@
 accesing
 experimentContext
-
 	self subclassResponsibility

@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "StopConditionBehavior",
+	"name" : "StoppingCriteriaBehavior",
 	"type" : "normal"
 }

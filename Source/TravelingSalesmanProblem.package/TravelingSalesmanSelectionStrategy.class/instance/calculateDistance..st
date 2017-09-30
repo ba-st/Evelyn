@@ -9,4 +9,4 @@ calculateDistance: anIndividual
 				ifTrue: [ anIndividual genotype at: 1 ]
 				ifFalse: [ anIndividual genotype at: index + 1 ].
 			totalDistance := totalDistance + (self distanceBetween: aCity and: nextCity) ].
-		^totalDistance
+	^ totalDistance

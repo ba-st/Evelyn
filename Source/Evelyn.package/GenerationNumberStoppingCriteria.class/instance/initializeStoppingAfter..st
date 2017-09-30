@@ -1,4 +1,3 @@
 initialize
-initializeStoppingAfter: anInteger 
-
-	generationToStop := anInteger 
+initializeStoppingAfter: anInteger
+	generationToStop := anInteger

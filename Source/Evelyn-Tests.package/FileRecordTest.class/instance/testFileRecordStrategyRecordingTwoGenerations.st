@@ -1,7 +1,7 @@
 tests
-testFileRecordStrategyRecordingTwoGeneration
+testFileRecordStrategyRecordingTwoGenerations
 	| fileRecord firstGeneration secondGeneration |
-	fileRecord := FileRecord writeOn: self file mappingIndividualsBy: NumericMapper.
+	fileRecord := FileRecord writingTo: self file mappingIndividualsWith: NumericMapper.
 	firstGeneration := self generationOfTenIndividualsNumber: 1.
 	secondGeneration := self generationOfTenIndividualsNumber: 2.
 	fileRecord record: firstGeneration.
@@ -19,6 +19,12 @@ testFileRecordStrategyRecordingTwoGeneration
 				assert: (lines at: 13) equals: 'Generation: 2';
 				assert: (lines at: 24) isAllSeparators.
 			(lines copyFrom: 2 to: 11)
-				doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (firstGeneration individuals at: index)) ].
+				doWithIndex: [ :line :index | 
+					self
+						assert: line
+						equals: (self generateStringFor: (firstGeneration individuals at: index)) ].
 			(lines copyFrom: 14 to: 23)
-				doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (secondGeneration individuals at: index)) ] ]
+				doWithIndex: [ :line :index | 
+					self
+						assert: line
+						equals: (self generateStringFor: (secondGeneration individuals at: index)) ] ]

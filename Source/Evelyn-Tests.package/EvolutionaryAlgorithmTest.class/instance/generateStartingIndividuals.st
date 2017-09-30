@@ -1,4 +1,3 @@
 accesing
 generateStartingIndividuals
-
 	self subclassResponsibility

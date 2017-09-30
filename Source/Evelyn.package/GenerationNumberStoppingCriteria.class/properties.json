@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "StopConditionBehavior",
+	"super" : "StoppingCriteriaBehavior",
 	"category" : "Evelyn-StoppingCriteria",
 	"classinstvars" : [ ],
 	"pools" : [ ],

@@ -1,11 +1,13 @@
 {
 	"instance" : {
-		"generationOfTenIndividualsNumber:" : "TeamEvelyn 6/12/2017 18:40",
+		"testFileRecordStrategy" : "TeamEvelyn 9/30/2017 16:30",
+		"generationOfTenIndividualsNumber:" : "TeamEvelyn 9/30/2017 15:40",
 		"generateStringFor:" : "TeamEvelyn 6/19/2017 16:44",
-		"testFileRecordStrategyRecordingTwoGeneration" : "TeamEvelyn 6/19/2017 17:24",
-		"testFileRecordStrategy" : "TeamEvelyn 6/19/2017 17:24",
-		"generateStartingIndividuals" : "TeamEvelyn 6/12/2017 11:26",
-		"file" : "TeamEvelyn 6/12/2017 11:46"
+		"testFileRecordStrategyRecordingTwoGenerations" : "TeamEvelyn 9/30/2017 16:30",
+		"randomProvider" : "TeamEvelyn 9/30/2017 16:00",
+		"generateStartingIndividuals" : "TeamEvelyn 9/30/2017 16:00",
+		"file" : "TeamEvelyn 6/12/2017 11:46",
+		"expectedRecordContents" : "TeamEvelyn 9/30/2017 16:07"
 	},
 	"class" : { }
 }

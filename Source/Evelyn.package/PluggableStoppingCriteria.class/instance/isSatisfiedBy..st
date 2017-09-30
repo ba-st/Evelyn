@@ -1,4 +1,3 @@
 testing
-isSatisfiedBy: aGeneration 
-
-	^conditionBlock value: aGeneration 
+isSatisfiedBy: aGeneration
+	^ conditionBlock value: aGeneration

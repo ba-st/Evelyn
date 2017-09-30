@@ -1,4 +1,4 @@
 initialization
-initializeMappingIndividualsBy: anIndividualMapper
+initializeMappingIndividualsWith: anIndividualMapper
 	records := OrderedCollection new.
 	individualMapper := anIndividualMapper

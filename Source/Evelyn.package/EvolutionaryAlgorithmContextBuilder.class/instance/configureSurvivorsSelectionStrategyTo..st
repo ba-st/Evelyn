@@ -1,3 +1,3 @@
 configuring
 configureSurvivorsSelectionStrategyTo: aSurvivorsSelectionStrategy
-	survivorsSelectionStrategy := Binding to: aSurvivorsSelectionStrategy
+	survivorsSelectionStrategyBinding := Binding to: aSurvivorsSelectionStrategy

@@ -1,6 +1,5 @@
 accesing
 survivors
-
 	^ OrderedCollection
 		with: 1
 		with: 2

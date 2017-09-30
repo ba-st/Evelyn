@@ -1,11 +1,11 @@
 {
 	"instance" : {
 		"individualMapper" : "TeamEvelyn 6/12/2017 18:03",
-		"initializeMappingIndividualsBy:" : "TeamEvelyn 6/12/2017 18:06",
+		"initializeMappingIndividualsWith:" : "TeamEvelyn 9/30/2017 16:34",
 		"records" : "TeamEvelyn 6/19/2017 16:46",
 		"record:" : "TeamEvelyn 6/12/2017 18:02"
 	},
 	"class" : {
-		"mappingIndividualsBy:" : "TeamEvelyn 6/12/2017 18:06"
+		"mappingIndividualsWith:" : "TeamEvelyn 9/30/2017 16:34"
 	}
 }

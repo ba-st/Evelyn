@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"calculateDistance:" : "juanmottesi 7/19/2017 19:02",
+		"calculateDistance:" : "TeamEvelyn 9/30/2017 15:27",
 		"initialize" : "jmottesi 8/29/2017 17:45",
-		"survivalPercentage" : "TeamEvelyn 9/19/2017 18:17",
+		"survivalPercentage" : "TeamEvelyn 9/30/2017 15:28",
 		"distanceCalculator" : "juanmottesi 7/19/2017 18:37",
-		"sortByFitness:" : "juanmottesi 7/19/2017 18:29",
+		"sortByFitness:" : "TeamEvelyn 9/30/2017 15:28",
 		"distanceBetween:and:" : "juanmottesi 7/19/2017 18:37"
 	},
 	"class" : { }

@@ -1,10 +1,10 @@
 {
 	"instance" : {
 		"individualMapper" : "TeamEvelyn 6/12/2017 18:03",
-		"initializeWriteOn:mappingIndividualsBy:" : "TeamEvelyn 6/12/2017 18:05",
+		"initializeWritingTo:mappingIndividualsWith:" : "TeamEvelyn 9/30/2017 16:31",
 		"record:" : "TeamEvelyn 6/19/2017 16:31"
 	},
 	"class" : {
-		"writeOn:mappingIndividualsBy:" : "TeamEvelyn 6/12/2017 18:04"
+		"writingTo:mappingIndividualsWith:" : "TeamEvelyn 9/30/2017 16:31"
 	}
 }

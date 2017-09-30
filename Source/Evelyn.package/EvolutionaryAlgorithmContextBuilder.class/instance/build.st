@@ -1,9 +1,9 @@
 building
 build
 	^ EvolutionaryAlgorithmContext
-		selectingSurvivorsWith: survivorsSelectionStrategy content
+		selectingSurvivorsWith: survivorsSelectionStrategyBinding content
 		parentsWith: parentSelectionStrategy
-		crossingOverWith: crossOverStrategy content
+		crossingOverWith: crossOverStrategyBinding content
 		mutatingWith: mutationStrategy content
 		stoppingCriteria: stoppingCriteria
 		reportingWith: record

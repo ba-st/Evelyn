@@ -1,3 +1,3 @@
 accessing - private
-defaultPartentStrategy
+defaultParentStrategy
 	^ ParentSelectionStrategy new

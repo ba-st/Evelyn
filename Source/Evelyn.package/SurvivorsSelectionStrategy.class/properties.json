@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"survivalPercentage"
-	],
+	"instvars" : [ ],
 	"name" : "SurvivorsSelectionStrategy",
 	"type" : "normal"
 }

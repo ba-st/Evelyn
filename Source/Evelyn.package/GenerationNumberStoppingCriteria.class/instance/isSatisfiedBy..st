@@ -1,4 +1,3 @@
 evaluating
-isSatisfiedBy: aGeneration 
-
-	^aGeneration number >= generationToStop
+isSatisfiedBy: aGeneration
+	^ aGeneration number >= generationToStop

@@ -1,6 +1,7 @@
 accessing
 generateStartingIndividuals
-	| individuals |
+	| individuals numericIndividualBuilder |
 	individuals := OrderedCollection new.
-	10 timesRepeat: [ individuals add: NumericIndividualBuilder new build ].
+	numericIndividualBuilder := NumericIndividualBuilder randomized: self randomProvider.
+	10 timesRepeat: [ individuals add: numericIndividualBuilder build ].
 	^ individuals

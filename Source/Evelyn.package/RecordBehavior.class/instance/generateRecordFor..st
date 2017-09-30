@@ -1,3 +1,3 @@
 evaluating
 generateRecordFor: aGeneration
-	^ GenerationRecord of: aGeneration mappedUsing: self individualMapper
+	^ GenerationRecord logging: aGeneration mappingIndividualsWith: self individualMapper

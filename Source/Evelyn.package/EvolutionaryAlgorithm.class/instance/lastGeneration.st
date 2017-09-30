@@ -1,6 +1,6 @@
 accessing
 lastGeneration
-	context changeCurrentGenerationTo: self generateFirstGenerartion.
+	context changeCurrentGenerationTo: self generateFirstGeneration.
 	context
 		untilStoppingCriteriaIsMetDo: [ context recordCurrentGeneration.
 			context changeCurrentGenerationTo: self nextGeneration ].

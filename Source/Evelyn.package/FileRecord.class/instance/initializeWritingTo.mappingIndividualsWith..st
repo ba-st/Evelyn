@@ -1,4 +1,4 @@
 initialization
-initializeWriteOn: aFileName mappingIndividualsBy: anIndividualMapper
+initializeWritingTo: aFileName mappingIndividualsWith: anIndividualMapper
 	fileStream := FileStream forceNewFileNamed: aFileName.
 	individualMapper := anIndividualMapper

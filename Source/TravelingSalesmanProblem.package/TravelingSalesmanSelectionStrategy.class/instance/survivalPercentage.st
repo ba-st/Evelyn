@@ -1,4 +1,3 @@
 accessing
 survivalPercentage
-
-	^40 / 100
+	^ 40 / 100

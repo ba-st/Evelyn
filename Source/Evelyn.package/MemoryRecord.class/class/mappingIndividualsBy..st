@@ -1,3 +1,0 @@
-instance creation
-mappingIndividualsBy: anIndividualMapper
-	^ self new initializeMappingIndividualsBy: anIndividualMapper
