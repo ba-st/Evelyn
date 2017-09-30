@@ -1,4 +1,4 @@
-accesing
+accessing
 survivors
 	^ OrderedCollection
 		with: 1

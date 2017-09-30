@@ -1,4 +1,3 @@
 accesing
 four
-
- ^NumericIndividual basedOn: 4
+	^ NumericIndividual basedOn: 4

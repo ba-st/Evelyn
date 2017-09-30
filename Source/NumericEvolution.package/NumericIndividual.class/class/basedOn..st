@@ -1,4 +1,3 @@
 instance creation
 basedOn: aNumber
-
-	^self new initializeBasedOn: aNumber
+	^ self new initializeBasedOn: aNumber

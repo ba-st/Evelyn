@@ -14,6 +14,5 @@ testFileRecordStrategy
 				assert: lines size equals: 12;
 				assert: (lines at: 1) equals: 'Generation: 1';
 				assert: (lines at: 12) isAllSeparators.
-			(lines copyFrom: 2 to: 11)
-				doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (generation individuals at: index)) ].
+			(lines copyFrom: 2 to: 11) doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (generation individuals at: index)) ].
 			self assert: file contents equals: self expectedRecordContents ]

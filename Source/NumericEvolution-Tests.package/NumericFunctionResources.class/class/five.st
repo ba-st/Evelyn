@@ -1,4 +1,3 @@
 accesing
 five
-
- ^NumericIndividual basedOn: 5
+	^ NumericIndividual basedOn: 5

@@ -1,5 +1,3 @@
 evaluating
 untilStoppingCriteriaIsMetDo: aBlock
-	self stoppingCriteria
-		untilStoppingCriteriaIsMetDo: aBlock
-		workingOn: self
+	self stoppingCriteria untilStoppingCriteriaIsMetDo: aBlock workingOn: self

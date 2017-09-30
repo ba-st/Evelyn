@@ -1,4 +1,3 @@
 accesing
 one
-
- ^NumericIndividual basedOn: 1
+	^ NumericIndividual basedOn: 1

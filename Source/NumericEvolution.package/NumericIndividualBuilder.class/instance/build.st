@@ -1,4 +1,3 @@
 building
 build
-	
-	^NumericIndividual basedOn: self nextRandom asInteger
+	^ NumericIndividual basedOn: self nextRandom asInteger

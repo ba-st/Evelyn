@@ -1,4 +1,3 @@
 accessing
 survivalPercentage
-
 	self subclassResponsibility

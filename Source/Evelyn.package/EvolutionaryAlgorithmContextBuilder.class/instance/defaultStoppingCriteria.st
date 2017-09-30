@@ -1,3 +1,3 @@
 accessing - private
 defaultStoppingCriteria
-	^GenerationNumberStoppingCriteria stoppingAfter: 100
+	^ GenerationNumberStoppingCriteria stoppingAfter: 100

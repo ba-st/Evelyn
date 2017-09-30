@@ -6,8 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"startingCity",
-		"anotherCities"
+		"anotherCitiesBinding",
+		"startingCityBinding"
 	],
 	"name" : "RoadMapBuilder",
 	"type" : "normal"

@@ -1,4 +1,3 @@
 initialization
-setUp 
-
+setUp
 	strategy := MaxNumericSurvivorsSelectionStrategy new

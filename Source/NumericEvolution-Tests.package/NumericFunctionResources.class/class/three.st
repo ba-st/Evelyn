@@ -1,4 +1,3 @@
 accesing
 three
-
- ^NumericIndividual basedOn: 3
+	^ NumericIndividual basedOn: 3

@@ -1,7 +1,7 @@
-initialization
+building
 build
 	^ RoadMap
 		tour:
-			((OrderedCollection with: startingCity content)
-				addAll: anotherCities content shuffle;
+			((OrderedCollection with: startingCityBinding content)
+				addAll: anotherCitiesBinding content shuffle;
 				yourself)

@@ -1,4 +1,3 @@
 building
 nextRandom
-
- ^randomProvider next * 1023
+	^ randomProvider next * 1023

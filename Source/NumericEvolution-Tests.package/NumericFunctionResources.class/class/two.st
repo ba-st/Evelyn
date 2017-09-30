@@ -1,4 +1,3 @@
 accesing
 two
-
- ^NumericIndividual basedOn: 2
+	^ NumericIndividual basedOn: 2

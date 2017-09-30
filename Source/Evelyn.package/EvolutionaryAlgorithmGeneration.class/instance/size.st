@@ -1,4 +1,3 @@
 accessing
 size
-
-	^self individuals size
+	^ self individuals size

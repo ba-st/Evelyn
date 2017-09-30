@@ -5,7 +5,5 @@ testStopConditionSatisfiedAfterExecute
 	| stoppingCriteria iterations |
 	iterations := 0.
 	stoppingCriteria := self timesCondition: 0.
-	stoppingCriteria
-		untilStoppingCriteriaIsMetDo: [ iterations := iterations + 1 ]
-		workingOn: self contextWithSomeGeneration.
+	stoppingCriteria untilStoppingCriteriaIsMetDo: [ iterations := iterations + 1 ] workingOn: self contextWithSomeGeneration.
 	self assert: iterations equals: 0

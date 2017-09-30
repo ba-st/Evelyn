@@ -1,9 +1,9 @@
 {
 	"instance" : {
-		"initializeUndefinedStrategies" : "TeamEvelyn 9/30/2017 16:27",
+		"initializeUndefinedStrategies" : "juanmottesi 9/30/2017 19:15",
 		"configureSurvivorsSelectionStrategyTo:" : "TeamEvelyn 9/30/2017 16:26",
 		"defaultParentStrategy" : "TeamEvelyn 9/30/2017 16:24",
-		"defaultStoppingCriteria" : "TeamEvelyn 6/19/2017 16:56",
+		"defaultStoppingCriteria" : "juanmottesi 9/30/2017 19:15",
 		"configureMutationStrategyTo:" : "juanmottesi 7/5/2017 19:22",
 		"configureRecordTo:" : "TeamEvelyn 6/19/2017 15:56",
 		"configureParentSelectionStrategyTo:" : "TeamEvelyn 6/19/2017 15:56",

@@ -1,10 +1,10 @@
 {
 	"instance" : {
-		"testFindMinimumValue" : "TeamEvelyn 6/19/2017 15:38",
+		"testFindMinimumValue" : "juanmottesi 9/30/2017 19:27",
 		"startingIndividuals" : "TeamEvelyn 6/19/2017 15:37",
 		"selectionStrategy" : "TeamEvelyn 6/19/2017 15:39",
 		"setUp" : "TeamEvelyn 6/19/2017 15:37",
-		"generateStartingIndividuals" : "TeamEvelyn 5/9/2017 17:30",
+		"generateStartingIndividuals" : "juanmottesi 9/30/2017 19:27",
 		"experimentContext" : "TeamEvelyn 6/19/2017 15:57"
 	},
 	"class" : { }

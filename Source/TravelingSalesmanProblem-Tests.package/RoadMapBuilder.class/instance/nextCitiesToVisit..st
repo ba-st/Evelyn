@@ -1,3 +1,3 @@
-as yet unclassified
+configuring
 nextCitiesToVisit: aCollectionOfCities
-	anotherCities := Binding to: aCollectionOfCities
+	anotherCitiesBinding := Binding to: aCollectionOfCities

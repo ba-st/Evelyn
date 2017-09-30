@@ -18,13 +18,5 @@ testFileRecordStrategyRecordingTwoGenerations
 				assert: (lines at: 12) isAllSeparators;
 				assert: (lines at: 13) equals: 'Generation: 2';
 				assert: (lines at: 24) isAllSeparators.
-			(lines copyFrom: 2 to: 11)
-				doWithIndex: [ :line :index | 
-					self
-						assert: line
-						equals: (self generateStringFor: (firstGeneration individuals at: index)) ].
-			(lines copyFrom: 14 to: 23)
-				doWithIndex: [ :line :index | 
-					self
-						assert: line
-						equals: (self generateStringFor: (secondGeneration individuals at: index)) ] ]
+			(lines copyFrom: 2 to: 11) doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (firstGeneration individuals at: index)) ].
+			(lines copyFrom: 14 to: 23) doWithIndex: [ :line :index | self assert: line equals: (self generateStringFor: (secondGeneration individuals at: index)) ] ]

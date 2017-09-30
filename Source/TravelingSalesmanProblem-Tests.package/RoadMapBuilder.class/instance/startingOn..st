@@ -1,3 +1,3 @@
-as yet unclassified
+configuring
 startingOn: aStartingCity
-	startingCity := Binding to: aStartingCity
+	startingCityBinding := Binding to: aStartingCity

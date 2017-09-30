@@ -1,4 +1,4 @@
 initialization
 initialize
-	anotherCities := Binding undefinedExplainedBy: 'Should have a collection of cities to visit' raising: InstanceCreationFailed.
-	startingCity := Binding undefinedExplainedBy: 'Should have a starting city' raising: InstanceCreationFailed
+	anotherCitiesBinding := Binding undefinedExplainedBy: 'Should have a collection of cities to visit' raising: InstanceCreationFailed.
+	startingCityBinding := Binding undefinedExplainedBy: 'Should have a starting city' raising: InstanceCreationFailed

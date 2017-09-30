@@ -1,3 +1,3 @@
 accessing
 number
-	^number
+	^ number
