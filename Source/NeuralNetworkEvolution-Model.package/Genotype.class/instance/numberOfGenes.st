@@ -1,4 +1,0 @@
-accessing
-numberOfGenes
-
-	^ genes size

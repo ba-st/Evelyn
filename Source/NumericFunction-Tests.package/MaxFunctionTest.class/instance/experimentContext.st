@@ -1,5 +1,0 @@
-accessing
-experimentContext
-	^ EvolutionaryAlgorithmContextBuilder forNumercialFunctions
-		survivorsSelectionStrategy: MaxNumericSurvivorsSelectionStrategy new;
-		build

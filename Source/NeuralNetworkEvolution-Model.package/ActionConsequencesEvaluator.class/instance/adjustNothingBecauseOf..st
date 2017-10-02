@@ -1,4 +1,0 @@
-environment modifying
-adjustNothingBecauseOf: anOrganism
-
-	

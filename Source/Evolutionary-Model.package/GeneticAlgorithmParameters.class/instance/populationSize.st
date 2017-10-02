@@ -1,4 +1,0 @@
-accesing
-populationSize
-
-	^populationSize

@@ -1,4 +1,0 @@
-accessing
-worldMiddle
-
-	^worldHalfSize @ worldHalfSize

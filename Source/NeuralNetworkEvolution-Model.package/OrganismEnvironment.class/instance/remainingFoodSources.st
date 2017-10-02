@@ -1,4 +1,0 @@
-accessing
-remainingFoodSources
-
-	^ foodSources size

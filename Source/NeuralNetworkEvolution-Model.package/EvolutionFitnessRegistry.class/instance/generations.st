@@ -1,4 +1,0 @@
-accessing
-generations
-
-	^ registers size

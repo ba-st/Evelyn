@@ -1,4 +1,0 @@
-accessing
-occupant
-
-	^ Emptiness new

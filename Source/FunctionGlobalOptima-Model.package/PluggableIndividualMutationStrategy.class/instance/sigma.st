@@ -1,4 +1,0 @@
-accesing
-sigma
-
-	^sigma

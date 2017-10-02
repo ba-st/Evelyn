@@ -1,4 +1,0 @@
-double dispatching
-affect: anActionConsequencesEvaluator becauseOf: anOrganism
-
-	anActionConsequencesEvaluator adjustMoveBackwardsBecauseOf: anOrganism

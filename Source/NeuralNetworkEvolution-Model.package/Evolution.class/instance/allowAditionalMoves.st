@@ -1,4 +1,0 @@
-processing - private
-allowAditionalMoves
-
-	currentPopulation allowAditionalMoves

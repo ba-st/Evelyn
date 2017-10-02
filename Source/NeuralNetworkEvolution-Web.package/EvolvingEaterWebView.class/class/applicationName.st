@@ -1,4 +1,0 @@
-processing - private
-applicationName
-
-	^ 'EvolvingEater'

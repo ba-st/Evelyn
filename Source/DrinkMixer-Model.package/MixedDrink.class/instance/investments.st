@@ -1,4 +1,0 @@
-accessing
-investments
-
-	^investments

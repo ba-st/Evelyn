@@ -1,4 +1,0 @@
-instance creation
-obtainingRandomNumbersFrom: aRandomProvider
-
-	^super new initializeObtainingRandomNumbersFrom: aRandomProvider

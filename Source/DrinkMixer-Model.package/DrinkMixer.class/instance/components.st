@@ -1,4 +1,0 @@
-initialization
-components
-
-	^components copy

@@ -1,4 +1,0 @@
-accessing
-twoDigitValue
-
-	self subclassResponsibility

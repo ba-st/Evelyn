@@ -1,4 +1,0 @@
-accessing
-resistance
-	
-	self subclassResponsibility

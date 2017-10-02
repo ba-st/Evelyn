@@ -1,4 +1,0 @@
-accessing
-costPerCubicCentimeter
-
-	^costPerCubicCentimeter

@@ -1,4 +1,0 @@
-accessing
-maximalFiringRate
-	
-	^maximalFiringRate

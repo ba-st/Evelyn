@@ -1,4 +1,0 @@
-tests
-statingIndividuals
-
-	^startingIndividuals

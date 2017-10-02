@@ -1,4 +1,0 @@
-processing
-tick
-
-	self subclassResponsibility

@@ -1,4 +1,0 @@
-accessing
-maximumCost
-
-	^ 100

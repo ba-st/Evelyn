@@ -1,4 +1,0 @@
-accessing
-maximumReinforcement
-
-	^environment maximumReinforcement

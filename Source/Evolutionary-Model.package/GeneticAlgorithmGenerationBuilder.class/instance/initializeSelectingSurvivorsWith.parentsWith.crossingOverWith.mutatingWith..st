@@ -1,7 +1,0 @@
-initialize - release
-initializeSelectingSurvivorsWith: aSurvivorsSelectionStrategy
-	parentsWith: aParentSelectionStrategy
-	crossingOverWith: aCrossOverStrategy
-	mutatingWith: aMutationStrategy
-
-	self subclassResponsibility

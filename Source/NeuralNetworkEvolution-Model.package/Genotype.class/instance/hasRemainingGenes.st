@@ -1,4 +1,0 @@
-querying
-hasRemainingGenes
-
-	^ genes isEmpty

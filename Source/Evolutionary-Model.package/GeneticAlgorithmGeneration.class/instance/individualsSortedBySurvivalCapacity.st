@@ -1,4 +1,0 @@
-accessing
-individualsSortedBySurvivalCapacity
-
-	self subclassResponsibility
