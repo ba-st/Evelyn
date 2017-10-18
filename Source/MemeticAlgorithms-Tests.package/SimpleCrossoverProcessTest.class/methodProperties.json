@@ -1,9 +1,0 @@
-{
-	"instance" : {
-		"assert:at:representsCrossoverOf:" : "MaximilianoTabacman 11/19/2016 13:52",
-		"expectedAlleleFrom:whenCrossingAt:with:" : "MaximilianoTabacman 11/19/2016 13:47",
-		"samplePopulation" : "MaximilianoTabacman 11/19/2016 13:28",
-		"testBreeding" : "MaximilianoTabacman 11/19/2016 13:52"
-	},
-	"class" : { }
-}

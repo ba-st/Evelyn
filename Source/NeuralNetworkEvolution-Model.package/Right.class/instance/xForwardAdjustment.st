@@ -1,4 +1,0 @@
-accessing
-xForwardAdjustment
-
-	^ 1

@@ -1,4 +1,0 @@
-accessing
-occupant
-
-	self subclassResponsibility

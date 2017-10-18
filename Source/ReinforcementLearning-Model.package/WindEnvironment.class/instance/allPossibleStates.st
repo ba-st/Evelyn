@@ -1,4 +1,0 @@
-accessing
-allPossibleStates
-
-	^environment allPossibleStates

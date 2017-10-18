@@ -1,4 +1,0 @@
-accessing
-yForwardAdjustment
-
-	^ 0

@@ -1,4 +1,0 @@
-accesing
-individualsSortedBySurvivalCapacity
-
-	^self individuals

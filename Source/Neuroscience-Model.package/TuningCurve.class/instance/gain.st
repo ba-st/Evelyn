@@ -1,4 +1,0 @@
-accessing
-gain
-	
-	^meanSpikeCount maximalFiringRate

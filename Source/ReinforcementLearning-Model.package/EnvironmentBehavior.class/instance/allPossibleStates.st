@@ -1,4 +1,0 @@
-accessing
-allPossibleStates
-
-	self subclassResponsibility

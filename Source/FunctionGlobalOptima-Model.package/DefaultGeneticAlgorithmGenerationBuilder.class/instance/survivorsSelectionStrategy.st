@@ -1,4 +1,0 @@
-accessing - private
-survivorsSelectionStrategy
-
-	^survivorsSelectionStrategy

@@ -1,4 +1,0 @@
-accessing
-numberOfIndividuals
-
-	^ individuals size

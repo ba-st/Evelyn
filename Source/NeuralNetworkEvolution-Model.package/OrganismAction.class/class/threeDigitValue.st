@@ -1,4 +1,0 @@
-accessing
-threeDigitValue
-
-	self subclassResponsibility
