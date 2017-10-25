@@ -1,3 +1,3 @@
 evaluating
 random
-	^ DhbNormalDistribution new random
+	^ normalDistribution random

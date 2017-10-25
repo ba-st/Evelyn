@@ -1,9 +1,9 @@
 {
 	"instance" : {
 		"isSatisfiedBy:" : "TeamEvelyn 9/30/2017 16:22",
-		"initializeResolveStopAfterEvaluate:" : "TeamEvelyn 9/30/2017 16:22"
+		"initializeStoppingWhen:" : "juanmottesi 10/12/2017 21:56"
 	},
 	"class" : {
-		"stoppingWhen:" : "TeamEvelyn 6/19/2017 16:58"
+		"stoppingWhen:" : "juanmottesi 10/12/2017 21:56"
 	}
 }

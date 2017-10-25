@@ -1,11 +1,11 @@
 tests
 testFileRecordStrategy
 	| fileRecord generation |
-	fileRecord := FileRecord writingTo: self file mappingIndividualsWith: NumericMapper.
+	fileRecord := FileRecord writingTo: self fileName mappingIndividualsWith: NumericMapper.
 	generation := self generationOfTenIndividualsNumber: 1.
 	fileRecord record: generation.
 	FileStream
-		readOnlyFileNamed: self file
+		readOnlyFileNamed: self fileName
 		do: [ :file | 
 			| lines |
 			self assert: file contents notEmpty.

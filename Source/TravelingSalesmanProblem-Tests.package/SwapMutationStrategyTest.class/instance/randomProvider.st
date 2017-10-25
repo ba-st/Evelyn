@@ -1,3 +1,3 @@
-running
+accessing
 randomProvider
-	^ NormalDistributionRandomProvider new
+	^ NormalDistributionRandomProvider definedMu: 5 andSigma: 1 

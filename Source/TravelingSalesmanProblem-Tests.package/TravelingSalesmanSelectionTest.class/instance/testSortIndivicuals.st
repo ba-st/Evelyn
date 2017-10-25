@@ -2,21 +2,21 @@ initialization
 testSortIndivicuals
 	| sortedIndividuals bestSolution secondSolution thirdSolution |
 	bestSolution := RoadMap
-		tour:
+		touringThrough:
 			(OrderedCollection
 				with: citiesFactory buenosAires
 				with: citiesFactory villaCarlosPaz
 				with: citiesFactory aconcagua
 				with: citiesFactory ushuaia).
 	secondSolution := RoadMap
-		tour:
+		touringThrough:
 			(OrderedCollection
 				with: citiesFactory buenosAires
 				with: citiesFactory aconcagua
 				with: citiesFactory villaCarlosPaz
 				with: citiesFactory ushuaia).
 	thirdSolution := RoadMap
-		tour:
+		touringThrough:
 			(OrderedCollection
 				with: citiesFactory buenosAires
 				with: citiesFactory aconcagua

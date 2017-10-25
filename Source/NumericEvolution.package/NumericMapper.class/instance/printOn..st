@@ -4,4 +4,4 @@ printOn: aStream
 		nextPutAll: 'Record: NumericIndividual: ';
 		nextPutAll: individual number asString;
 		nextPutAll: ' - '.
-	individual binaryNumber asArray printOn: aStream
+	individual genotype asArray printOn: aStream

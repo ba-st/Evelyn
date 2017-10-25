@@ -1,4 +1,4 @@
-tests
+initialization
 setUp
-	citiesFactory := CitiesFactory new.
+	cityFactory := CityFactory new.
 	startingIndividuals := self generateStartingIndividuals

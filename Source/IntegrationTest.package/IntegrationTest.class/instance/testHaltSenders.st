@@ -1,6 +1,9 @@
 tests
 testHaltSenders
-	| sendersOfHalt classes |
-	sendersOfHalt := #halt senders collect: [ :aClass | aClass className ].
-	classes := IntegrationTest new allClasses collect: [ :aClass | aClass name ].
-	self deny: (sendersOfHalt includesAnyOf: classes) 
+	| sendersOfHalt allClasses |
+	
+	allClasses := self allClasses collect: [ :aClass | aClass name ].
+	sendersOfHalt := (OrderedCollection withAll: #halt senders)
+		select: [ :aMethod | allClasses includes: aMethod theNonMetaClassName ].
+	self toTranscript: sendersOfHalt.
+	self assert: sendersOfHalt isEmpty

@@ -1,3 +1,0 @@
-accessing
-startingIndividuals
-	^ startingIndividuals

@@ -1,3 +1,0 @@
-asserting
-shouldMutateOn: aGenerationNumber
-	^ true

@@ -1,3 +1,3 @@
-tests
+accessing
 selectionStrategy
 	^ TravelingSalesmanSelectionStrategy new

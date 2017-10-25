@@ -1,12 +1,13 @@
 tests
 testSelectTwoSurvivorsFromFiveIndividuals
-	| survivors numericIndividuals |
+	| survivors numericIndividuals numericalIndividualFactory |
+	numericalIndividualFactory := NumericalIndividualFactory new.
 	numericIndividuals := OrderedCollection
-		with: NumericFunctionResources one
-		with: NumericFunctionResources two
-		with: NumericFunctionResources three
-		with: NumericFunctionResources four
-		with: NumericFunctionResources five.
+		with: numericalIndividualFactory one
+		with: numericalIndividualFactory two
+		with: numericalIndividualFactory three
+		with: numericalIndividualFactory four
+		with: numericalIndividualFactory five.
 	survivors := strategy selectSurvivorsFrom: numericIndividuals.
 	self
 		assert: survivors size equals: 2;

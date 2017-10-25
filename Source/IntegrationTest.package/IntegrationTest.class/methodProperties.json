@@ -1,12 +1,12 @@
 {
 	"instance" : {
-		"toTranscript:" : "TeamEvelyn 5/29/2017 22:46",
-		"allPackages" : "TeamEvelyn 5/29/2017 22:54",
-		"checkMessagesOf:" : "TeamEvelyn 5/29/2017 22:43",
-		"testToDoSenders" : "TeamEvelyn 5/29/2017 22:47",
-		"testHaltSenders" : "TeamEvelyn 6/6/2017 18:13",
-		"allClasses" : "TeamEvelyn 5/31/2017 17:19",
-		"testAllImplementedMessageAreUsed" : "TeamEvelyn 5/29/2017 22:48"
+		"toTranscript:" : "juanmottesi 10/10/2017 18:47",
+		"allPackages" : "juanmottesi 10/10/2017 18:47",
+		"checkMessagesOf:" : "juanmottesi 10/10/2017 18:47",
+		"testToDoSenders" : "juanmottesi 10/24/2017 23:14",
+		"testHaltSenders" : "juanmottesi 10/24/2017 23:20",
+		"allClasses" : "juanmottesi 10/10/2017 18:46",
+		"testAllImplementedMessageAreUsed" : "juanmottesi 10/10/2017 18:46"
 	},
 	"class" : { }
 }

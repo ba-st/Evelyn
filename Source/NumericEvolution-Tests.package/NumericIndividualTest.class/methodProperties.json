@@ -1,8 +1,8 @@
 {
 	"instance" : {
-		"testDenyEquals" : "juanmottesi 9/30/2017 19:27",
-		"testGenotype" : "juanmottesi 9/30/2017 19:27",
-		"testAssertEquals" : "TeamEvelyn 6/12/2017 01:34"
+		"testComparison" : "juanmottesi 10/12/2017 22:12",
+		"testGenotypeWithNumberBasedOnEightySeven" : "juanmottesi 10/12/2017 22:13",
+		"testGenotype" : "juanmottesi 9/30/2017 19:27"
 	},
 	"class" : { }
 }

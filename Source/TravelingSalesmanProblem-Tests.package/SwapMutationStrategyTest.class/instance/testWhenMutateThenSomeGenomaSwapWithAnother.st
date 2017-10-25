@@ -1,14 +1,19 @@
 tests
 testWhenMutateThenSomeGenomaSwapWithAnother
 	| mutationStrategy roadMap mutatedRoadMap |
-	mutationStrategy := SwapMutationStrategy mutationRate: AlwaysTrue new andRandomized: self randomProvider generate: RoadMap.
+	mutationStrategy := SwapMutationStrategy
+		generating: RoadMap
+		with: AlwaysTrue new
+		randomizedUsing: self randomProvider.
 	roadMap := RoadMap
-		tour:
+		touringThrough:
 			(OrderedCollection
-				with: self buenosAires
-				with: self aconcagua
-				with: self sanCarlosDeBariloche
-				with: self ushuaia
-				with: self villaCarlosPaz).
-	mutatedRoadMap := mutationStrategy onGeneration: 1 mutate: (OrderedCollection with: roadMap).
+				with: cityFactory buenosAires
+				with: cityFactory aconcagua
+				with: cityFactory sanCarlosDeBariloche
+				with: cityFactory ushuaia
+				with: cityFactory villaCarlosPaz).
+	mutatedRoadMap := mutationStrategy
+		onGeneration: 1
+		mutate: (OrderedCollection with: roadMap).
 	self deny: roadMap genotype = mutatedRoadMap anyOne genotype

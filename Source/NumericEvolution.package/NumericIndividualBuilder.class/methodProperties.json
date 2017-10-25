@@ -1,11 +1,11 @@
 {
 	"instance" : {
-		"initializeRandomized:" : "TeamEvelyn 9/30/2017 16:00",
+		"initializeRandomizedUsing:" : "juanmottesi 10/17/2017 21:54",
 		"nextRandom" : "juanmottesi 9/30/2017 19:26",
 		"build" : "juanmottesi 9/30/2017 19:26"
 	},
 	"class" : {
-		"new" : "TeamEvelyn 9/30/2017 15:59",
-		"randomized:" : "TeamEvelyn 9/30/2017 15:58"
+		"new" : "juanmottesi 10/17/2017 21:54",
+		"randomizedUsing:" : "juanmottesi 10/17/2017 21:54"
 	}
 }

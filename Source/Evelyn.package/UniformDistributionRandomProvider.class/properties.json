@@ -5,7 +5,11 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"uniformDistribution",
+		"lowLimit",
+		"highLimit"
+	],
 	"name" : "UniformDistributionRandomProvider",
 	"type" : "normal"
 }

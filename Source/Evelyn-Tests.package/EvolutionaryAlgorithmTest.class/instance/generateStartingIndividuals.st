@@ -1,3 +1,0 @@
-accessing
-generateStartingIndividuals
-	self subclassResponsibility

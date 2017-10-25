@@ -1,5 +1,5 @@
 tests
 testFindShortestRoadMap
 	| lastGeneration |
-	lastGeneration := (EvolutionaryAlgorithm startingWith: self startingIndividuals using: self experimentContext) lastGeneration.
-	self assert: lastGeneration individuals areBetterThan: self startingIndividuals
+	lastGeneration := (EvolutionaryAlgorithm startingWith: startingIndividuals using: self experimentContext) lastGeneration.
+	self assert: lastGeneration individuals areBetterThan: startingIndividuals

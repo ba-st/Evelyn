@@ -1,7 +1,11 @@
 {
 	"instance" : {
+		"numberBetween:and:" : "juanmottesi 10/24/2017 21:37",
 		"random" : "jmottesi 8/29/2017 18:18",
-		"from:to:" : "jmottesi 8/29/2017 18:19"
+		"initializeDefinedLowLimit:andHighLimit:" : "juanmottesi 10/24/2017 21:38",
+		"checkLimitsBetween:and:" : "juanmottesi 10/24/2017 21:38"
 	},
-	"class" : { }
+	"class" : {
+		"definedLowLimit:andHighLimit:" : "juanmottesi 10/24/2017 21:24"
+	}
 }

@@ -1,4 +1,4 @@
 instance creation
 stoppingWhen: aBlock
 
-	^self new initializeResolveStopAfterEvaluate: aBlock
+	^self new initializeStoppingWhen: aBlock

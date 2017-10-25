@@ -1,3 +1,0 @@
-accessing
-buenosAires
-	^ citiesFactory buenosAires

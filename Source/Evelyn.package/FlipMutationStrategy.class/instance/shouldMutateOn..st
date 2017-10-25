@@ -1,3 +1,3 @@
 testing
 shouldMutateOn: aGenerationNumber
-	^ probabilityChance shouldMutateOn: aGenerationNumber
+	^ probabilityChance checkBelow: aGenerationNumber
