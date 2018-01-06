@@ -1,0 +1,3 @@
+accessing
+stoppingCriteria
+	^ GenerationNumberStoppingCriteria stoppingAfter: 2

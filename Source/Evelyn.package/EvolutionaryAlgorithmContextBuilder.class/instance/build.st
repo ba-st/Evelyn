@@ -4,6 +4,6 @@ build
 		selectingSurvivorsWith: survivorsSelectionStrategyBinding content
 		parentsWith: parentSelectionStrategy
 		crossingOverWith: crossOverStrategyBinding content
-		mutatingWith: mutationStrategy content
+		mutatingWith: mutatorBinding content
 		stoppingCriteria: stoppingCriteria
 		reportingWith: record

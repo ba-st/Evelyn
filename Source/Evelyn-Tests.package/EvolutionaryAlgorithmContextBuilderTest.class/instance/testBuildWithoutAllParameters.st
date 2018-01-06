@@ -1,3 +1,6 @@
 tests
 testBuildWithoutAllParameters
-	self should: [ EvolutionaryAlgorithmContextBuilder new build ] raise: InstanceCreationFailed description: 'User definition expected'
+	self
+		should: [ EvolutionaryAlgorithmContextBuilder new build ]
+		raise: InstanceCreationFailed
+		withDescription: 'The survivor selection strategy should be configure by User'

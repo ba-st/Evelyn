@@ -9,7 +9,6 @@
 		"parentSelectionStrategy",
 		"stoppingCriteria",
 		"record",
-		"mutationStrategy",
 		"survivorsSelectionStrategyBinding",
 		"crossOverStrategyBinding",
 		"mutatorBinding"

@@ -1,0 +1,3 @@
+accessing
+survivorStrategy
+	^ MaxNumericSurvivorsSelectionStrategy new

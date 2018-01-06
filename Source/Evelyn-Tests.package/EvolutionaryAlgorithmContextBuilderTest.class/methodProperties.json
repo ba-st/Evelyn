@@ -1,6 +1,17 @@
 {
 	"instance" : {
-		"testBuildWithoutAllParameters" : "juanmottesi 9/30/2017 19:18"
+		"stoppingCriteria" : "jfischetti 1/6/2018 17:35",
+		"mutationStrategy" : "jfischetti 1/6/2018 17:37",
+		"testBuildWithoutSurvivorsSelectionStrategy" : "jfischetti 1/6/2018 17:39",
+		"testBuildWithoutcrossOverStrategy" : "jfischetti 1/6/2018 17:59",
+		"testBuildWithAllParameters" : "jfischetti 1/6/2018 18:05",
+		"record" : "jfischetti 1/6/2018 17:36",
+		"crossOverStrategy" : "jfischetti 1/6/2018 17:36",
+		"survivorStrategy" : "jfischetti 1/6/2018 17:38",
+		"testBuildWithoutMutationStrategy" : "jfischetti 1/6/2018 17:42",
+		"testBuildWithoutAllParameters" : "jfischetti 1/6/2018 17:27",
+		"testBuildWithMinimalConfiguration" : "jfischetti 1/6/2018 18:04",
+		"parentStrategy" : "jfischetti 1/6/2018 17:35"
 	},
 	"class" : { }
 }

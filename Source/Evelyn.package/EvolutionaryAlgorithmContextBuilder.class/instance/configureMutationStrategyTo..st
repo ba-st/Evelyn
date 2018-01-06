@@ -1,3 +1,3 @@
 configuring
 configureMutationStrategyTo: aMutationStrategy
-	mutationStrategy := Binding to: aMutationStrategy
+	mutatorBinding := Binding to: aMutationStrategy
