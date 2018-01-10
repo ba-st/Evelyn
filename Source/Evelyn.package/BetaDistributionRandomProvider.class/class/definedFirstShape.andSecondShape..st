@@ -1,3 +1,3 @@
 instance creation
 definedFirstShape: aNumber andSecondShape: anotherNumber
-	^ super new initializeDefinedFirstShape: aNumber andSecondShape: anotherNumber
+	^ self new initializeDefinedFirstShape: aNumber andSecondShape: anotherNumber

@@ -3,7 +3,7 @@ experimentContext
 	^ EvolutionaryAlgorithmContextBuilder new
 		configureCrossOverStrategyTo: TravelingSalesmanCrossOverStrategy new;
 		configureMutationStrategyTo:
-			(TravelingSalesmanSwapMutationStrategy
+			(SwapMutationStrategy
 				generating: RoadMap
 				with: AlwaysTrue new
 				randomizedUsing: self randomProvider);

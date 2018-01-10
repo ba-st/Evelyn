@@ -1,6 +1,8 @@
 {
 	"instance" : {
-		"cross:overWith:" : "TeamEvelyn 6/19/2017 14:41",
+		"crossByGen:and:withNewGenDo:" : "jfischetti 1/6/2018 19:30",
+		"cross:overWith:" : "jfischetti 1/6/2018 19:30",
+		"cross:with:" : "jfischetti 1/6/2018 19:13",
 		"initializeObtainingRandomNumbersFrom:" : "TeamEvelyn 6/19/2017 14:35"
 	},
 	"class" : { }
