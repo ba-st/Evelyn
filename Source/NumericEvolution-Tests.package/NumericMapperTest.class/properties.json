@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "ProbabilityChance",
-	"category" : "Evelyn-Mutation",
+	"super" : "TestCase",
+	"category" : "NumericEvolution-Tests-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "CoinFlippingProbability",
+	"name" : "NumericMapperTest",
 	"type" : "normal"
 }

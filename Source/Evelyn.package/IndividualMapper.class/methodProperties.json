@@ -1,10 +1,6 @@
 {
 	"instance" : {
-		"initializeMapping:" : "TeamEvelyn 6/19/2017 16:26",
-		"individual" : "TeamEvelyn 6/19/2017 17:05",
-		"printOn:" : "TeamEvelyn 6/6/2017 18:56"
+		"mapping:" : "juanmottesi 2/25/2018 11:37"
 	},
-	"class" : {
-		"mapping:" : "TeamEvelyn 6/19/2017 16:26"
-	}
+	"class" : { }
 }

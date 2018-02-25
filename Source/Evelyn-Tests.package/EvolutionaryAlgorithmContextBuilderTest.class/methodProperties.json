@@ -1,7 +1,7 @@
 {
 	"instance" : {
 		"stoppingCriteria" : "jfischetti 1/6/2018 17:35",
-		"mutationStrategy" : "jfischetti 1/6/2018 17:37",
+		"mutationStrategy" : "juanmottesi 2/25/2018 09:05",
 		"testBuildWithoutSurvivorsSelectionStrategy" : "jfischetti 1/6/2018 17:39",
 		"testBuildWithoutcrossOverStrategy" : "jfischetti 1/6/2018 17:59",
 		"testBuildWithAllParameters" : "jfischetti 1/6/2018 18:05",

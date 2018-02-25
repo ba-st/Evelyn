@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "CrossOverStrategy",
+	"category" : "Evelyn-StoppingCriteria",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"randomProvider"
+	],
+	"name" : "TravelingSalesmanCrossOverStrategy",
+	"type" : "normal"
+}

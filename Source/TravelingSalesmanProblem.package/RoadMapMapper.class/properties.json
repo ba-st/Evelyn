@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "CrossOverStrategy",
+	"super" : "IndividualMapper",
 	"category" : "TravelingSalesmanProblem",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"randomProvider"
+		"distanceCalcularor"
 	],
-	"name" : "TravelingSalesmanCrossOverStrategy",
+	"name" : "RoadMapMapper",
 	"type" : "normal"
 }

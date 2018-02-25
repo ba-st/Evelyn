@@ -4,4 +4,4 @@ numberBetween: aNumber and: anotherNumber
 	newRandom := betaDistribution random * anotherNumber.
 	^ (newRandom between: aNumber and: anotherNumber)
 		ifTrue: [ newRandom ]
-		ifFalse: [ self from: aNumber to: anotherNumber ]
+		ifFalse: [ self numberBetween: aNumber and: anotherNumber ]

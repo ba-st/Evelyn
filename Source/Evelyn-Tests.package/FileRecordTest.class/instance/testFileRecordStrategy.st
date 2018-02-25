@@ -1,7 +1,7 @@
 tests
 testFileRecordStrategy
 	| fileRecord generation |
-	fileRecord := FileRecord writingTo: self fileName mappingIndividualsWith: NumericMapper.
+	fileRecord := FileRecord writingTo: self fileName mappingIndividualsWith: NumericMapper new.
 	generation := self generationOfTenIndividualsNumber: 1.
 	fileRecord record: generation.
 	FileStream

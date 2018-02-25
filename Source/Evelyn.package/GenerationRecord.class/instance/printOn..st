@@ -6,6 +6,6 @@ printOn: aStream
 		crtab.
 	individualsRecord
 		do: [ :individualRecord | 
-			individualRecord printOn: aStream.
+			aStream nextPutAll: individualRecord.
 			aStream crtab ].
 	aStream cr

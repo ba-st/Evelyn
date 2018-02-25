@@ -3,7 +3,7 @@ testWhenMutateThenSomeGenomaSwapWithAnother
 	| mutationStrategy roadMap mutatedRoadMap |
 	mutationStrategy := SwapMutationStrategy
 		generating: RoadMap
-		with: AlwaysTrue new
+		with: (PercentageProbability of: 100)
 		randomizedUsing: self randomProvider.
 	roadMap := RoadMap
 		touringThrough:

@@ -5,7 +5,10 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "AlwaysTrue",
+	"instvars" : [
+		"percentage",
+		"randomProvider"
+	],
+	"name" : "PercentageProbability",
 	"type" : "normal"
 }

@@ -5,7 +5,7 @@ experimentContext
 		configureMutationStrategyTo:
 			(SwapMutationStrategy
 				generating: RoadMap
-				with: AlwaysTrue new
+				with: (PercentageProbability of: 100)
 				randomizedUsing: self randomProvider);
 		configureSurvivorsSelectionStrategyTo: self selectionStrategy;
 		build

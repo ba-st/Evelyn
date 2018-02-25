@@ -1,3 +1,0 @@
-asserting
-checkBelow: aNumber
-	^ true
