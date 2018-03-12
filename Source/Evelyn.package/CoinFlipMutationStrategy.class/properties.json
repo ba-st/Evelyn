@@ -11,6 +11,6 @@
 		"probabilityChance",
 		"randomProvider"
 	],
-	"name" : "FlipMutationStrategy",
+	"name" : "CoinFlipMutationStrategy",
 	"type" : "normal"
 }

@@ -1,6 +1,6 @@
 accessing
 mutationStrategy
-	^ FlipMutationStrategy
+	^ CoinFlipMutationStrategy
 		generating: NumericIndividual
 		applying: NumericMutator new
 		with: (PercentageProbability of: 50)
