@@ -1,17 +1,13 @@
 {
 	"instance" : {
+		"survivorStrategy" : "jfischetti 1/6/2018 17:38",
+		"testBuildWithAllParameters" : "TeamEvelyn 3/11/2018 21:06",
 		"stoppingCriteria" : "jfischetti 1/6/2018 17:35",
 		"mutationStrategy" : "juanmottesi 2/25/2018 09:05",
-		"testBuildWithoutSurvivorsSelectionStrategy" : "jfischetti 1/6/2018 17:39",
-		"testBuildWithoutcrossOverStrategy" : "jfischetti 1/6/2018 17:59",
-		"testBuildWithAllParameters" : "jfischetti 1/6/2018 18:05",
 		"record" : "jfischetti 1/6/2018 17:36",
-		"crossOverStrategy" : "jfischetti 1/6/2018 17:36",
-		"survivorStrategy" : "jfischetti 1/6/2018 17:38",
-		"testBuildWithoutMutationStrategy" : "jfischetti 1/6/2018 17:42",
-		"testBuildWithoutAllParameters" : "jfischetti 1/6/2018 17:27",
+		"parentStrategy" : "jfischetti 1/6/2018 17:35",
 		"testBuildWithMinimalConfiguration" : "jfischetti 1/6/2018 18:04",
-		"parentStrategy" : "jfischetti 1/6/2018 17:35"
+		"crossOverStrategy" : "jfischetti 1/6/2018 17:36"
 	},
 	"class" : { }
 }

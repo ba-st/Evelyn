@@ -1,7 +1,7 @@
 tests
 testSelectTwoSurvivorsFromFiveIndividuals
 	| survivors numericIndividuals numericalIndividualFactory |
-	numericalIndividualFactory := NumericalIndividualFactory new.
+	numericalIndividualFactory := NumericIndividualFactory new.
 	numericIndividuals := OrderedCollection
 		with: numericalIndividualFactory one
 		with: numericalIndividualFactory two

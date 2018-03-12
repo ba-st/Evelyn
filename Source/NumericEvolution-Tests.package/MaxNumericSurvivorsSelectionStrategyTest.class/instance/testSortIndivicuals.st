@@ -1,13 +1,13 @@
 tests
 testSortIndivicuals
 	| sortedIndividuals numericIndividuals numericalIndividualFactory |
-	numericalIndividualFactory := NumericalIndividualFactory new.
+	numericalIndividualFactory := NumericIndividualFactory new.
 	numericIndividuals := OrderedCollection
 		with: numericalIndividualFactory three
 		with: numericalIndividualFactory two
 		with: numericalIndividualFactory five
 		with: numericalIndividualFactory four.
-	sortedIndividuals := strategy sortByFitness: numericIndividuals.
+	sortedIndividuals := self selectionStrategy sortByFitness: numericIndividuals.
 	self
 		assert: (sortedIndividuals at: 1) number equals: 5;
 		assert: (sortedIndividuals at: 2) number equals: 4;

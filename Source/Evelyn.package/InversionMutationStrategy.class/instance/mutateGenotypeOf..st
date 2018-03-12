@@ -1,4 +1,4 @@
-building
+private - building
 mutateGenotypeOf: anIndividual
 	| tupleMinMax |
 	tupleMinMax := self

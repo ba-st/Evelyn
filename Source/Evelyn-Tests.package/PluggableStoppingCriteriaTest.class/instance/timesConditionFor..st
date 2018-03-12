@@ -1,5 +1,5 @@
 accessing
-timesCondition: times
+timesConditionFor: times
 	"This condition just satisfy the first time"
 
 	| iteration |

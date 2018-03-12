@@ -1,5 +1,5 @@
 tests
-testWhenMutateThenSomeGenomaSwapWithAnother
+testWhenMutateThenSomeGenomeSwapWithAnother
 	| mutationStrategy roadMap mutatedRoadMap |
 	mutationStrategy := SwapMutationStrategy
 		generating: RoadMap

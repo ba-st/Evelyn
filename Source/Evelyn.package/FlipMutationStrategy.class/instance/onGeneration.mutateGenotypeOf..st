@@ -1,4 +1,4 @@
-building
+private - building
 onGeneration: aGenerationNumber mutateGenotypeOf: anIndividual
 	^ anIndividual genotype
 		collect: [ :aGene | 

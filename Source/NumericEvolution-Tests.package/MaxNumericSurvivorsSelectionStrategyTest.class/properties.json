@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "<historical>",
 	"super" : "EvolutionaryAlgorithmTest",
-	"category" : "NumericEvolution-Tests-Max",
+	"category" : "NumericEvolution-Tests-Extremum",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

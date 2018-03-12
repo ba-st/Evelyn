@@ -1,4 +1,4 @@
-building
+private - building
 randomTupleStartingOnOneAndEndingOn: aMax
 	| firstRandom secondRandom |
 	firstRandom := self numberBetween1And: aMax.

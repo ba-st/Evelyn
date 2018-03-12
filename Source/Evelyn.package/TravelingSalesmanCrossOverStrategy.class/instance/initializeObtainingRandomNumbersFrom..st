@@ -1,3 +1,3 @@
-evaluating
+initialization
 initializeObtainingRandomNumbersFrom: aRandomProvider
 	randomProvider := aRandomProvider

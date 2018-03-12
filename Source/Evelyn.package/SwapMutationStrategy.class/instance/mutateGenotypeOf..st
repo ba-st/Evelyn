@@ -1,4 +1,4 @@
-building
+private - building
 mutateGenotypeOf: anIndividual
 	| mutatedGenotype tupleMinMax |
 	mutatedGenotype := anIndividual genotype copy.

@@ -1,4 +1,4 @@
-accessing
+private - accessing
 generateStartingIndividuals
 	| individuals |
 	individuals := OrderedCollection new.

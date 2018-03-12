@@ -1,5 +1,5 @@
 {
-	"commentStamp" : "",
+	"commentStamp" : "TeamEvelyn 3/11/2018 21:23",
 	"super" : "Object",
 	"category" : "NumericEvolution-Tests-Core",
 	"classinstvars" : [ ],
@@ -8,6 +8,6 @@
 	"instvars" : [
 		"startingIndividuals"
 	],
-	"name" : "NumericalIndividualFactory",
+	"name" : "NumericIndividualFactory",
 	"type" : "normal"
 }

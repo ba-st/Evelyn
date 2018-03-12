@@ -1,10 +1,9 @@
 {
 	"instance" : {
-		"selectionStrategy" : "TeamEvelyn 6/19/2017 15:41",
-		"setUp" : "TeamEvelyn 6/19/2017 15:40",
-		"testFindMaximalValue" : "juanmottesi 10/17/2017 21:49",
+		"experimentContext" : "TeamEvelyn 6/19/2017 15:57",
 		"generateStartingIndividuals" : "juanmottesi 9/30/2017 19:26",
-		"experimentContext" : "TeamEvelyn 6/19/2017 15:57"
+		"selectionStrategy" : "TeamEvelyn 6/19/2017 15:41",
+		"testFindMaximalValue" : "TeamEvelyn 3/11/2018 21:36"
 	},
 	"class" : { }
 }

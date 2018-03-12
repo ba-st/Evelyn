@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "",
 	"super" : "SurvivorsSelectionStrategy",
-	"category" : "NumericEvolution-Max",
+	"category" : "NumericEvolution-Extremum",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
