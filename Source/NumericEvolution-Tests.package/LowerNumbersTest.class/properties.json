@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "EvolutionaryAlgorithmTest",
+	"category" : "NumericEvolution-Tests-Extremum",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startingIndividuals"
+	],
+	"name" : "LowerNumbersTest",
+	"type" : "normal"
+}

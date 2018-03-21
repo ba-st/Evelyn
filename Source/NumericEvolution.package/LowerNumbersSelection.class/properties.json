@@ -1,14 +1,13 @@
 {
 	"commentStamp" : "",
 	"super" : "SurvivorsSelectionStrategy",
-	"category" : "TravelingSalesmanProblem",
+	"category" : "NumericEvolution-Extremum",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"distanceCalculator",
 		"survivalPercentage"
 	],
-	"name" : "TravelingSalesmanSelectionStrategy",
+	"name" : "LowerNumbersSelection",
 	"type" : "normal"
 }
