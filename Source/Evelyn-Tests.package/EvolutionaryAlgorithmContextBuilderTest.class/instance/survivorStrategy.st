@@ -1,3 +1,4 @@
 accessing
 survivorStrategy
-	^ MaxNumericSurvivorsSelectionStrategy new
+
+	^ HighestNumbersSelection surviving: 40 / 100
