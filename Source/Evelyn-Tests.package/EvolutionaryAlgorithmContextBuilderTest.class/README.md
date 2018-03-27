@@ -1,0 +1,1 @@
+In the tests it is not possible to test the accessors of the object created because they are encapsulated

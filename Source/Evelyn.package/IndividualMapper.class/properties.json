@@ -5,9 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"individual"
-	],
+	"instvars" : [ ],
 	"name" : "IndividualMapper",
 	"type" : "normal"
 }

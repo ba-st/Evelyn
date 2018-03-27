@@ -1,3 +1,0 @@
-sorting
-distanceCalculator
-	^ distanceCalculator

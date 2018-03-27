@@ -1,3 +1,3 @@
 instance creation
 fromGenotype: cities
-	^ self tour: cities
+	^ self touringThrough: cities

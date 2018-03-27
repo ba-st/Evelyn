@@ -1,3 +1,3 @@
 defaults
 defaultRandomProvider
-	^ UniformDistributionRandomProvider new
+	^ UniformDistributionRandomProvider definedLowLimit: 1 andHighLimit: 5 

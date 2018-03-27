@@ -1,10 +1,8 @@
 {
 	"instance" : {
-		"assert:areBetterThan:" : "juanmottesi 9/30/2017 19:18",
-		"selectionStrategy" : "TeamEvelyn 6/19/2017 15:35",
-		"generateStartingIndividuals" : "TeamEvelyn 9/30/2017 15:29",
 		"assert:areBetterOrEqualThan:" : "juanmottesi 9/30/2017 19:18",
-		"experimentContext" : "TeamEvelyn 9/30/2017 15:29"
+		"assert:areBetterThan:" : "juanmottesi 9/30/2017 19:18",
+		"selectionStrategy" : "TeamEvelyn 3/27/2018 12:53"
 	},
 	"class" : { }
 }

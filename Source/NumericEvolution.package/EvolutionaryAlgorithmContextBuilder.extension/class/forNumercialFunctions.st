@@ -3,9 +3,9 @@ forNumercialFunctions
 	^ self new
 		configureCrossOverStrategyTo: NumericCrossOverStrategy new;
 		configureMutationStrategyTo:
-			(FlipMutationStrategy
-				mutationRate: CoinFlippingProbability new
-				andRandomized: NormalDistributionRandomProvider new
-				generate: NumericIndividual
-				mutationDefindedBy: NumericMutator new);
+			(CoinFlipMutationStrategy
+				generating: NumericIndividual
+				applying: NumericMutator new
+				with: (PercentageProbability of: 50)
+				randomizedUsing: (NormalDistributionRandomProvider definedMu: 0 andSigma: 1));
 		yourself

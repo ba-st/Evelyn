@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "IndividualMapper",
+	"category" : "TravelingSalesmanProblem",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"distanceCalcularor"
+	],
+	"name" : "RoadMapMapper",
+	"type" : "normal"
+}

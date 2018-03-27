@@ -1,3 +1,3 @@
-accessing
+comparing
 = anObject
-	^ (anObject isA: NumericIndividual) and: [ anObject number = self number ]
+	^ self == anObject or:[(anObject isA: NumericIndividual) and: [ anObject number = self number ]]

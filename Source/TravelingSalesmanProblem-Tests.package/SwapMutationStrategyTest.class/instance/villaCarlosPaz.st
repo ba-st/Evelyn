@@ -1,3 +1,0 @@
-accessing
-villaCarlosPaz
-	^ citiesFactory villaCarlosPaz

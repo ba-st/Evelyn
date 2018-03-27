@@ -1,3 +1,3 @@
 evaluating
 random
-	^ dhbBetaDistribution random
+	^ betaDistribution random

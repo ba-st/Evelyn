@@ -1,28 +1,30 @@
 initialization
 testSortIndivicuals
+
 	| sortedIndividuals bestSolution secondSolution thirdSolution |
+
 	bestSolution := RoadMap
-		tour:
+		touringThrough:
 			(OrderedCollection
 				with: citiesFactory buenosAires
 				with: citiesFactory villaCarlosPaz
 				with: citiesFactory aconcagua
 				with: citiesFactory ushuaia).
 	secondSolution := RoadMap
-		tour:
+		touringThrough:
 			(OrderedCollection
 				with: citiesFactory buenosAires
 				with: citiesFactory aconcagua
 				with: citiesFactory villaCarlosPaz
 				with: citiesFactory ushuaia).
 	thirdSolution := RoadMap
-		tour:
+		touringThrough:
 			(OrderedCollection
 				with: citiesFactory buenosAires
 				with: citiesFactory aconcagua
 				with: citiesFactory ushuaia
 				with: citiesFactory villaCarlosPaz).
-	sortedIndividuals := TravelingSalesmanSelectionStrategy new sortByFitness: (OrderedCollection with: secondSolution with: thirdSolution with: bestSolution).
+	sortedIndividuals := (TravelingSalesmanSelectionStrategy surviving: 40 / 100) sortByFitness: (OrderedCollection with: secondSolution with: thirdSolution with: bestSolution).
 	self
 		assert: (sortedIndividuals at: 1) equals: bestSolution;
 		assert: (sortedIndividuals at: 2) equals: secondSolution;

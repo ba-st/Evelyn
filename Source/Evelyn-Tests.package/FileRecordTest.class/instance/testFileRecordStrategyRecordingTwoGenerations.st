@@ -1,13 +1,13 @@
 tests
 testFileRecordStrategyRecordingTwoGenerations
 	| fileRecord firstGeneration secondGeneration |
-	fileRecord := FileRecord writingTo: self file mappingIndividualsWith: NumericMapper.
+	fileRecord := FileRecord writingTo: self fileName mappingIndividualsWith: NumericMapper new.
 	firstGeneration := self generationOfTenIndividualsNumber: 1.
 	secondGeneration := self generationOfTenIndividualsNumber: 2.
 	fileRecord record: firstGeneration.
 	fileRecord record: secondGeneration.
 	FileStream
-		readOnlyFileNamed: self file
+		readOnlyFileNamed: self fileName
 		do: [ :file | 
 			| lines |
 			self assert: file contents notEmpty.

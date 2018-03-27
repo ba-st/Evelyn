@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "ProbabilityChance",
+	"category" : "Evelyn-Mutation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"percentage",
+		"randomProvider"
+	],
+	"name" : "PercentageProbability",
+	"type" : "normal"
+}

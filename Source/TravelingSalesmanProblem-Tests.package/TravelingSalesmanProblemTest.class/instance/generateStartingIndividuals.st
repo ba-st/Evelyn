@@ -1,12 +1,6 @@
-tests
+accessing
 generateStartingIndividuals
 	| individuals |
 	individuals := OrderedCollection new.
-	10
-		timesRepeat: [ individuals
-				add:
-					(RoadMapBuilder new
-						startingOn: citiesFactory buenosAires;
-						nextCitiesToVisit: self otherCities;
-						build) ].
+	10 timesRepeat: [ individuals add: (self roadMapStartingOn: cityFactory buenosAires nextCitiesToVisit: self otherCities) ].
 	^ individuals

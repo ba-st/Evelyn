@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "TeamEvelyn 3/11/2018 21:23",
+	"super" : "Object",
+	"category" : "NumericEvolution-Tests-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startingIndividuals"
+	],
+	"name" : "NumericIndividualFactory",
+	"type" : "normal"
+}

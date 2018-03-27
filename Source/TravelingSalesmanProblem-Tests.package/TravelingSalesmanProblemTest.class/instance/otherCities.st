@@ -1,7 +1,7 @@
-tests
+accessing
 otherCities
 	^ OrderedCollection
-		with: citiesFactory aconcagua
-		with: citiesFactory sanCarlosDeBariloche
-		with: citiesFactory ushuaia
-		with: citiesFactory villaCarlosPaz
+		with: cityFactory aconcagua
+		with: cityFactory sanCarlosDeBariloche
+		with: cityFactory ushuaia
+		with: cityFactory villaCarlosPaz

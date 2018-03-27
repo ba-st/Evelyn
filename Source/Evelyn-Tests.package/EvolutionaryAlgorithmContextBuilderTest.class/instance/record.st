@@ -1,0 +1,3 @@
+accessing
+record
+	^ NullRecord new

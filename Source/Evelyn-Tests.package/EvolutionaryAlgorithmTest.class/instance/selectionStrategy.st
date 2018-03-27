@@ -1,3 +1,4 @@
-tests
+private - accessing
 selectionStrategy
-	^ self subclassResponsibility
+
+	self subclassResponsibility

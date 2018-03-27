@@ -5,7 +5,9 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
+	"instvars" : [
+		"normalDistribution"
+	],
 	"name" : "NormalDistributionRandomProvider",
 	"type" : "normal"
 }

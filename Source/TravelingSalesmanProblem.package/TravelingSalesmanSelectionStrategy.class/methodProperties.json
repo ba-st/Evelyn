@@ -1,11 +1,12 @@
 {
 	"instance" : {
-		"calculateDistance:" : "TeamEvelyn 9/30/2017 15:27",
-		"initialize" : "jmottesi 8/29/2017 17:45",
-		"survivalPercentage" : "TeamEvelyn 9/30/2017 15:28",
-		"distanceCalculator" : "juanmottesi 7/19/2017 18:37",
-		"sortByFitness:" : "juanmottesi 9/30/2017 19:28",
-		"distanceBetween:and:" : "juanmottesi 7/19/2017 18:37"
+		"survivalPercentage" : "TeamEvelyn 3/21/2018 20:37",
+		"distanceTraveledBy:" : "TeamEvelyn 3/21/2018 20:38",
+		"initializeSurviving:" : "TeamEvelyn 3/21/2018 20:47",
+		"sortByFitness:" : "TeamEvelyn 3/21/2018 20:38",
+		"distanceBetween:and:" : "TeamEvelyn 3/21/2018 20:38"
 	},
-	"class" : { }
+	"class" : {
+		"surviving:" : "TeamEvelyn 3/21/2018 20:47"
+	}
 }

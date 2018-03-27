@@ -1,3 +1,0 @@
-accessing
-experimentContext
-	self subclassResponsibility

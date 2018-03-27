@@ -7,7 +7,7 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"startingIndividuals",
-		"citiesFactory"
+		"cityFactory"
 	],
 	"name" : "TravelingSalesmanProblemTest",
 	"type" : "normal"

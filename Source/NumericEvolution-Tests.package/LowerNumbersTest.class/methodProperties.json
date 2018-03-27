@@ -1,0 +1,12 @@
+{
+	"instance" : {
+		"testFindMinimumValue" : "juanmottesi 10/17/2017 21:49",
+		"selectionStrategy" : "TeamEvelyn 3/21/2018 20:46",
+		"setUp" : "TeamEvelyn 6/19/2017 15:37",
+		"testSortIndivicuals" : "TeamEvelyn 3/21/2018 20:27",
+		"generateStartingIndividuals" : "juanmottesi 9/30/2017 19:27",
+		"testSelectTwoSurvivorsFromFiveIndividuals" : "TeamEvelyn 3/21/2018 20:27",
+		"experimentContext" : "TeamEvelyn 6/19/2017 15:57"
+	},
+	"class" : { }
+}

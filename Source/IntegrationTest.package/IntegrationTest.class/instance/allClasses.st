@@ -1,6 +1,5 @@
 accessing
 allClasses
-
 	^ self allPackages
 		inject: OrderedCollection new
 		into: [ :res :packageName | 

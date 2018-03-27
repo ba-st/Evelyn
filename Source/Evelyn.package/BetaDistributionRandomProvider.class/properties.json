@@ -6,7 +6,7 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"dhbBetaDistribution"
+		"betaDistribution"
 	],
 	"name" : "BetaDistributionRandomProvider",
 	"type" : "normal"

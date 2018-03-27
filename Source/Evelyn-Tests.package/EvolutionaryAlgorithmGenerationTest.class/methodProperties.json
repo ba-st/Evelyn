@@ -1,6 +1,10 @@
 {
 	"instance" : {
-		"testAccessors" : "TeamEvelyn 9/30/2017 15:30"
+		"testAccessors" : "TeamEvelyn 9/30/2017 15:30",
+		"testCantCreateGenerationWhenGeneratioNumberIsZero" : "TeamEvelyn 3/11/2018 21:02",
+		"testCantCreateGenerationWhenGenerationNumberIsFraction" : "TeamEvelyn 3/11/2018 21:02",
+		"testCantCreateGenerationWithoutIndividuals" : "TeamEvelyn 3/11/2018 21:02",
+		"testCantCreateGenerationWhenGenerationNumberIsNegative" : "TeamEvelyn 3/11/2018 21:02"
 	},
 	"class" : { }
 }

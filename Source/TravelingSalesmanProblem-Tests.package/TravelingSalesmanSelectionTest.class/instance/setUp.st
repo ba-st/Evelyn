@@ -1,3 +1,3 @@
 initialization
 setUp
-	citiesFactory := CitiesFactory new
+	citiesFactory := CityFactory new

@@ -1,8 +1,7 @@
 accessing
 allPackages
-
 	^ OrderedCollection new
-		add: 'Evelyn-Core';
+		add: 'Evelyn';
 		add: 'NumericFunction';
-		add: 'DrinkMixer-New';		
+		add: 'TravelingSalesmanProblem';
 		yourself

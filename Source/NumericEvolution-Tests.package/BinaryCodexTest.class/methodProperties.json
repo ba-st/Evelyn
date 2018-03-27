@@ -1,7 +1,11 @@
 {
 	"instance" : {
+		"testFromBinaryWhenItsZero" : "juanmottesi 10/12/2017 22:00",
+		"testToBinaryWhenItsZero" : "juanmottesi 10/12/2017 21:59",
+		"testToBinaryWhenItsEightySeven" : "juanmottesi 10/12/2017 22:00",
+		"testFromBinary" : "TeamEvelyn 6/19/2017 14:47",
 		"testToBinary" : "TeamEvelyn 6/19/2017 14:48",
-		"testFromBinary" : "TeamEvelyn 6/19/2017 14:47"
+		"testFromBinaryWhenItsEightySeven" : "juanmottesi 10/12/2017 22:00"
 	},
 	"class" : { }
 }

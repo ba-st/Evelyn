@@ -1,3 +1,0 @@
-evaluating
-initializeObtainingRandomNumbersFrom: aRandomProvider
-	randomProvider := aRandomProvider

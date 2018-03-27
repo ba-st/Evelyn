@@ -1,3 +1,0 @@
-accessing
-sanCarlosDeBariloche
-	^ citiesFactory sanCarlosDeBariloche 

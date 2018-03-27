@@ -1,3 +1,3 @@
-accessing
+comparing
 = anObject
-	^ (anObject isA: City) and: [ anObject name = self name and: [ anObject location = self location ] ]
+	^ self == anObject or: [ (anObject isA: City) and: [ anObject name = self name and: [ anObject location = self location ] ] ]

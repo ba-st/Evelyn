@@ -1,3 +1,4 @@
-tests
+accessing
 selectionStrategy
-	^ TravelingSalesmanSelectionStrategy new
+
+	^ TravelingSalesmanSelectionStrategy surviving: 40 / 100

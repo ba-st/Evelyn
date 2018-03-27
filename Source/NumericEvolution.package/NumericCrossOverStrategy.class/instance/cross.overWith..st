@@ -2,11 +2,5 @@ evaluating
 cross: parentA overWith: parentB
 	| modifiedIndividual |
 	modifiedIndividual := OrderedCollection new: parentA genotype size.
-	parentA genotype
-		with: parentB genotype
-		do: [ :genA :genB | 
-			| psi child |
-			psi := randomProvider random.
-			child := psi * genA + ((1 - psi) * genB) max: 0.
-			modifiedIndividual add: child asInteger ].
+	self crossGenesOf: parentA and: parentB applying: [ :gene | modifiedIndividual add: gene ].
 	^ NumericIndividual basedOn: (BinaryCodex new fromBinary: modifiedIndividual)

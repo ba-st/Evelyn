@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "SurvivorsSelectionStrategy",
+	"category" : "NumericEvolution-Extremum",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"survivalPercentage"
+	],
+	"name" : "LowerNumbersSelection",
+	"type" : "normal"
+}
