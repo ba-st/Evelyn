@@ -1,4 +1,4 @@
 private - evaluating
-cross: genA with: genB
+cross: geneA with: geneB
 
-	^genA bitXor: genB
+	^geneA bitXor: geneB

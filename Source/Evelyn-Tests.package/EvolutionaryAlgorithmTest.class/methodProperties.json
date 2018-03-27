@@ -1,7 +1,8 @@
 {
 	"instance" : {
 		"assert:areBetterOrEqualThan:" : "juanmottesi 9/30/2017 19:18",
-		"assert:areBetterThan:" : "juanmottesi 9/30/2017 19:18"
+		"assert:areBetterThan:" : "juanmottesi 9/30/2017 19:18",
+		"selectionStrategy" : "TeamEvelyn 3/27/2018 12:53"
 	},
 	"class" : { }
 }

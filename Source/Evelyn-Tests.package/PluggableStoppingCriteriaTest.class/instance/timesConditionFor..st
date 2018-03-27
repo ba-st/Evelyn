@@ -1,12 +1,12 @@
 accessing
-timesConditionFor: times
-	"This condition just satisfy the first time"
+timesConditionFor: aNumberOfTimes
 
 	| iteration |
+
 	iteration := 0.
 	^ PluggableStoppingCriteria
 		stoppingWhen: [ :generation | 
-			iteration ~= times
+			iteration ~= aNumberOfTimes
 				ifTrue: [ iteration := iteration + 1.
 					false ]
 				ifFalse: [ true ] ]

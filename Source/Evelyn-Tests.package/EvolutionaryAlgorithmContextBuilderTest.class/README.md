@@ -1,1 +1,1 @@
-In the tests its not possible test accessors  of the created object because it has them encapsulated.
+In the tests it is not possible to test the accessors of the object created because they are encapsulated
