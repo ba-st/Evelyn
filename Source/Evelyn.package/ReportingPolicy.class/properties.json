@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "RecordBehavior",
+	"name" : "ReportingPolicy",
 	"type" : "normal"
 }

@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "RecordBehavior",
+	"super" : "ReportingPolicy",
 	"category" : "Evelyn-Record",
 	"classinstvars" : [ ],
 	"pools" : [ ],
