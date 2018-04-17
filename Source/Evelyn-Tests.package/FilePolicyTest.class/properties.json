@@ -1,11 +1,11 @@
 {
 	"commentStamp" : "",
-	"super" : "RecordBehavior",
-	"category" : "Evelyn-Record",
+	"super" : "TestCase",
+	"category" : "Evelyn-Tests-Record",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "NullRecord",
+	"name" : "FilePolicyTest",
 	"type" : "normal"
 }

@@ -2,9 +2,9 @@
 	"instance" : {
 		"generationOfTenIndividualsNumber:" : "TeamEvelyn 6/12/2017 18:40",
 		"assertCollection:equivalentTo:where:" : "juanmottesi 10/17/2017 22:13",
-		"testMemoryRecordStrategy" : "juanmottesi 2/25/2018 11:33",
+		"testMemoryRecordStrategy" : "juanmottesi 4/16/2018 19:30",
 		"randomProvider" : "TeamEvelyn 9/30/2017 16:08",
-		"testMemoryRecordStrategyRecordingTwoGenerations" : "juanmottesi 2/25/2018 11:33",
+		"testMemoryRecordStrategyRecordingTwoGenerations" : "juanmottesi 4/16/2018 19:30",
 		"generateStartingIndividuals" : "juanmottesi 10/17/2017 21:53"
 	},
 	"class" : { }

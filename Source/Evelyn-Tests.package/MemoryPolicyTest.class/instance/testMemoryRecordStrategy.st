@@ -1,7 +1,7 @@
 tests
 testMemoryRecordStrategy
 	| memoryRecord generationRecords generation |
-	memoryRecord := MemoryRecord mappingIndividualsWith: NumericMapper new.
+	memoryRecord := MemoryPolicy mappingIndividualsWith: NumericMapper new.
 	self assert: memoryRecord records isEmpty.
 	generation := self generationOfTenIndividualsNumber: 1.
 	memoryRecord record: generation.

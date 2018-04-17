@@ -6,6 +6,6 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "FileRecordTest",
+	"name" : "MemoryPolicyTest",
 	"type" : "normal"
 }
