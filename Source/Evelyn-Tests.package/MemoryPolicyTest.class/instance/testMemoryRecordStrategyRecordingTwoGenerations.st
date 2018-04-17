@@ -2,7 +2,7 @@ tests
 testMemoryRecordStrategyRecordingTwoGenerations
 	| memoryRecord generationRecords firstGeneration secondGeneration mapper |
 	mapper := NumericMapper new.
-	memoryRecord := MemoryRecord mappingIndividualsWith: mapper.
+	memoryRecord := MemoryPolicy mappingIndividualsWith: mapper.
 	self assert: memoryRecord records isEmpty.
 	firstGeneration := self generationOfTenIndividualsNumber: 1.
 	secondGeneration := self generationOfTenIndividualsNumber: 2.

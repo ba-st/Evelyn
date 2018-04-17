@@ -1,3 +1,3 @@
 accessing
 record
-	^ NullRecord new
+	^ NullPolicy new

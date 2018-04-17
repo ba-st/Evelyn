@@ -1,3 +1,3 @@
 accessing - private
 defaultRecord
-	^ NullRecord new
+	^ NullPolicy new

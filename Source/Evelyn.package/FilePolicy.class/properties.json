@@ -6,9 +6,9 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"records",
+		"fileStream",
 		"individualMapper"
 	],
-	"name" : "MemoryRecord",
+	"name" : "FilePolicy",
 	"type" : "normal"
 }

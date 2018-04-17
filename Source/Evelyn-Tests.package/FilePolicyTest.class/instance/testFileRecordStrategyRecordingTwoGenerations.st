@@ -1,7 +1,7 @@
 tests
 testFileRecordStrategyRecordingTwoGenerations
 	| fileRecord firstGeneration secondGeneration |
-	fileRecord := FileRecord writingTo: self fileName mappingIndividualsWith: NumericMapper new.
+	fileRecord := FilePolicy writingTo: self fileName mappingIndividualsWith: NumericMapper new.
 	firstGeneration := self generationOfTenIndividualsNumber: 1.
 	secondGeneration := self generationOfTenIndividualsNumber: 2.
 	fileRecord record: firstGeneration.
