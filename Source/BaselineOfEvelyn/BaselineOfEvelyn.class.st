@@ -1,7 +1,7 @@
 Class {
 	#name : #BaselineOfEvelyn,
 	#superclass : #BaselineOf,
-	#category : 'BaselineOfEvelyn'
+	#category : #BaselineOfEvelyn
 }
 
 { #category : #baselines }
@@ -38,12 +38,12 @@ BaselineOfEvelyn >> setUpDependencies: spec [
 
 { #category : #baselines }
 BaselineOfEvelyn >> setUpGroups: spec [
+
 	spec
 		package: 'Evelyn' with: [ spec requires: #('Buoy') ];
 		package: 'NumericEvolution' with: [ spec requires: #('Evelyn') ];
 		package: 'Evelyn-Tests' with: [ spec requires: #('Evelyn' 'NumericEvolution') ];
-		package: 'NumericEvolution-Tests'
-			with: [ spec requires: #('NumericEvolution' 'Evelyn-Tests') ];
+		package: 'NumericEvolution-Tests' with: [ spec requires: #('NumericEvolution' 'Evelyn-Tests') ];
 		package: 'IntegrationTest';
 		package: 'TravelingSalesmanProblem' with: [ spec requires: #('Evelyn') ];
 		package: 'TravelingSalesmanProblem-Tests'
@@ -52,5 +52,6 @@ BaselineOfEvelyn >> setUpGroups: spec [
 		group: 'Deployment' with: #('Evelyn');
 		group: 'Development'
 			with:
-			#('Deployment' 'NumericEvolution' 'Evelyn-Tests' 'NumericEvolution-Tests' 'IntegrationTest' 'TravelingSalesmanProblem' 'TravelingSalesmanProblem-Tests')
+			#('Deployment' 'NumericEvolution' 'Evelyn-Tests' 'NumericEvolution-Tests' 'IntegrationTest' 'TravelingSalesmanProblem' 'TravelingSalesmanProblem-Tests');
+		group: 'CI' with: #('Development')
 ]
