@@ -1,8 +1,0 @@
-{
-	"instance" : {
-		"testWhenMutateThenSomeGenomeSwapWithAnother" : "TeamEvelyn 3/11/2018 22:43",
-		"setUp" : "juanmottesi 10/17/2017 22:40",
-		"randomProvider" : "juanmottesi 10/24/2017 20:40"
-	},
-	"class" : { }
-}

@@ -1,3 +1,0 @@
-accessing
-parentStrategy
-	^ ParentSelectionStrategy new

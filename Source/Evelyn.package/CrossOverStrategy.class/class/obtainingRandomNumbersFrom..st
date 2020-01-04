@@ -1,3 +1,0 @@
-instance creation
-obtainingRandomNumbersFrom: aRandomProvider
-	^ self basicNew initializeObtainingRandomNumbersFrom: aRandomProvider

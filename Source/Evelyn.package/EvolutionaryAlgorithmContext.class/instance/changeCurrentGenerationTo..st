@@ -1,3 +1,0 @@
-configuring
-changeCurrentGenerationTo: anEvolutionaryAlgorithmGeneration
-	currentGeneration := Binding to: anEvolutionaryAlgorithmGeneration

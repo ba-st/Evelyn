@@ -1,3 +1,0 @@
-accessing
-survivalPercentage
-	self subclassResponsibility

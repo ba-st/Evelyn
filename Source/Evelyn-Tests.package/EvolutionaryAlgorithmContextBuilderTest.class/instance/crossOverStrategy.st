@@ -1,3 +1,0 @@
-accessing
-crossOverStrategy
-	^ NumericCrossOverStrategy new

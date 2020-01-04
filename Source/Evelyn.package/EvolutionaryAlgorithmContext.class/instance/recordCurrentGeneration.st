@@ -1,3 +1,0 @@
-evaluating
-recordCurrentGeneration
-	record record: self currentGeneration
