@@ -1,0 +1,15 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'Evelyn',
+      #directory : 'Source',
+      #load : [ 'CI' ],
+      #platforms : [  #pharo ]
+    }
+  ],
+  #testing : {
+    #coverage : {
+       #packages : [ 'Evelyn*', 'NumericEvolution*', 'TravelingSalesmanProblem*' ]
+    }
+  }
+}
