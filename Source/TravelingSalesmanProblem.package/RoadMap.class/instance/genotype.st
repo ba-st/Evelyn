@@ -1,3 +1,0 @@
-accesing
-genotype
-	^ cities

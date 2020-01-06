@@ -1,4 +1,0 @@
-initialization
-initialize
-	self initializeDefaults.
-	self initializeUndefinedStrategies

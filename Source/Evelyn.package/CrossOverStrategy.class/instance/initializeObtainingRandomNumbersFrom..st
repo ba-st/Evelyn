@@ -1,3 +1,0 @@
-initialization
-initializeObtainingRandomNumbersFrom: aRandomProvider
-	self subclassResponsibility

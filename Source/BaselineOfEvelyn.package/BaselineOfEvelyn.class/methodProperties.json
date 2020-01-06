@@ -1,9 +1,0 @@
-{
-	"instance" : {
-		"setUpGroups:" : "jmottesi 8/29/2017 19:51",
-		"importNumericalMethodsFromGofer" : "TeamEvelyn 6/14/2017 18:04",
-		"baseline:" : "TeamEvelyn 6/14/2017 18:05",
-		"setUpDependencies:" : "TeamEvelyn 6/14/2017 18:02"
-	},
-	"class" : { }
-}

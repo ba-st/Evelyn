@@ -1,3 +1,0 @@
-evaluating
-record: aGenerationRecord
-	self subclassResponsibility

@@ -1,3 +1,0 @@
-accessing
-individuals
-	^ individuals

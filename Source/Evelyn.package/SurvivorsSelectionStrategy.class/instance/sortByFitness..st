@@ -1,3 +1,0 @@
-sorting
-sortByFitness: aCollectionOfIndividuals
-	self subclassResponsibility
